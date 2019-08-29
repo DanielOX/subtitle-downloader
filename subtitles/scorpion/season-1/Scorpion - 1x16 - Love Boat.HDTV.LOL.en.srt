@@ -1,0 +1,4385 @@
+﻿1
+00:00:03,532 --> 00:00:05,399
+WALTER:
+<i>My name is Walter O'Brien.</i>
+
+2
+00:00:05,401 --> 00:00:09,770
+<i>I have the fourth highest IQ</i>
+<i>ever recorded: 197.</i>
+
+3
+00:00:09,772 --> 00:00:11,505
+<i>Einstein's was 160.</i>
+
+4
+00:00:11,507 --> 00:00:14,108
+<i>When I was 11, the FBI</i>
+<i>arrested me for hacking NASA</i>
+
+5
+00:00:14,110 --> 00:00:16,811
+<i>to get their blueprints</i>
+<i>for my bedroom wall.</i>
+
+6
+00:00:16,813 --> 00:00:19,013
+<i>Now I run a team of geniuses,</i>
+
+7
+00:00:19,015 --> 00:00:20,481
+<i>tackling worldwide threats</i>
+
+8
+00:00:20,483 --> 00:00:21,982
+<i>only we can solve.</i>
+
+9
+00:00:21,984 --> 00:00:23,751
+<i>Toby's our behaviorist.</i>
+
+10
+00:00:23,753 --> 00:00:25,486
+<i>Sylvester's a human calculator.</i>
+
+11
+00:00:25,488 --> 00:00:27,855
+<i>Happy, a mechanical prodigy.</i>
+
+12
+00:00:27,857 --> 00:00:30,124
+<i>Agent Cabe Gallo's</i>
+<i>our government handler.</i>
+
+13
+00:00:30,126 --> 00:00:32,326
+<i>And Paige?</i>
+<i>Well, Paige isn't like us.</i>
+
+14
+00:00:32,328 --> 00:00:34,829
+<i>She's normal</i>
+<i>and translates the world for us</i>
+
+15
+00:00:34,831 --> 00:00:37,398
+<i>while we help her understand</i>
+<i>her genius son.</i>
+
+16
+00:00:37,400 --> 00:00:39,533
+<i>Together, we are Scorpion.</i>
+
+17
+00:00:44,539 --> 00:00:46,974
+MAN:
+Looks like we're about 15 miles
+
+18
+00:00:46,976 --> 00:00:49,310
+outside of Pendleton.
+Not a moment too soon.
+
+19
+00:00:49,312 --> 00:00:51,045
+I got to waz again.
+
+20
+00:00:53,315 --> 00:00:56,450
+Hey, what's this guy doing?
+
+21
+00:00:56,452 --> 00:00:59,053
+Whoa, whoa. Whoa!
+What the hell?!
+
+22
+00:00:59,055 --> 00:01:00,454
+Out of the truck now!
+
+23
+00:01:00,456 --> 00:01:02,957
+Get out!
+
+24
+00:01:02,959 --> 00:01:04,458
+Please, don't shoot! Please!
+
+25
+00:01:20,942 --> 00:01:22,576
+Take the rockets.
+
+26
+00:01:22,578 --> 00:01:25,145
+Leave the bodies.
+
+27
+00:01:25,147 --> 00:01:27,681
+Got it.
+
+28
+00:01:37,692 --> 00:01:39,493
+TOBY:
+<i>Well, this is highly illegal.</i>
+
+29
+00:01:39,495 --> 00:01:41,095
+I'm simply expediting things
+
+30
+00:01:41,097 --> 00:01:42,997
+through technological
+intervention.
+
+31
+00:01:42,999 --> 00:01:45,065
+You're hacking into a site
+that charges for reservations
+
+32
+00:01:45,067 --> 00:01:47,101
+to save the 20 bucks.
+Nope.
+
+33
+00:01:47,103 --> 00:01:49,169
+They were fully booked.
+
+34
+00:01:49,171 --> 00:01:50,704
+Dinner for two at Escala?
+
+35
+00:01:50,706 --> 00:01:52,840
+One of the ten hottest
+spots in town.
+
+36
+00:01:52,842 --> 00:01:55,476
+Yes, Walter, I would be
+happy to dine with you.
+
+37
+00:01:55,478 --> 00:01:56,911
+Oh, nice try.
+
+38
+00:01:56,913 --> 00:01:58,646
+It's a business dinner.
+
+39
+00:01:58,648 --> 00:02:01,982
+Need to go over some office
+data entry protocol with Paige.
+
+40
+00:02:01,984 --> 00:02:05,653
+You are taking Paige
+to a top L.A. eatery
+
+41
+00:02:05,655 --> 00:02:07,087
+on Valentine's Day?
+
+42
+00:02:07,089 --> 00:02:10,157
+Just one week after Drew
+signed a month-long contract
+
+43
+00:02:10,159 --> 00:02:11,392
+to pitch in Portland.
+
+44
+00:02:11,394 --> 00:02:13,027
+How convenient.
+
+45
+00:02:13,029 --> 00:02:14,929
+Is Valentine's this weekend?
+
+46
+00:02:14,931 --> 00:02:16,630
+I had no idea.
+Should I get the extinguisher?
+
+47
+00:02:16,632 --> 00:02:18,599
+'Cause your pants
+are on fire, liar, liar.
+
+48
+00:02:18,601 --> 00:02:20,701
+You don't think Paige
+notices the timing?
+
+49
+00:02:20,703 --> 00:02:23,304
+It is a business meeting.
+
+50
+00:02:23,306 --> 00:02:26,607
+Valentine's is a scam created
+by the greeting card industry.
+
+51
+00:02:26,609 --> 00:02:28,108
+The only reason why
+I picked that place is
+
+52
+00:02:28,110 --> 00:02:29,944
+because Paige mentioned it.
+
+53
+00:02:29,946 --> 00:02:31,912
+The cherry on top
+of the denial sundae.
+
+54
+00:02:31,914 --> 00:02:34,581
+You're being attentive
+to her wants.
+
+55
+00:02:34,583 --> 00:02:35,716
+PAIGE:
+Good morning, guys.
+
+56
+00:02:35,718 --> 00:02:37,518
+Paige.
+Ms. Dineen.
+
+57
+00:02:37,520 --> 00:02:38,919
+I brought donuts.
+
+58
+00:02:38,921 --> 00:02:41,956
+Oh, thank you.
+
+59
+00:02:43,658 --> 00:02:45,726
+It's a date!
+Grow up.
+
+60
+00:02:45,728 --> 00:02:48,162
+For dessert, you should order
+<i>Phoenix dactylifera.</i>
+
+61
+00:02:48,164 --> 00:02:49,630
+Why? Because that's
+the botanical name for dates?
+
+62
+00:02:49,632 --> 00:02:50,597
+Yup.
+
+63
+00:02:50,599 --> 00:02:52,333
+This conversation's over.
+
+64
+00:02:54,836 --> 00:02:56,136
+What you got there, pal?
+
+65
+00:02:56,138 --> 00:02:58,505
+Nada.
+
+66
+00:02:58,507 --> 00:03:00,341
+CABE:
+Hope you're caffeinated!
+
+67
+00:03:00,343 --> 00:03:02,042
+'Cause it's time
+to punch the clock.
+
+68
+00:03:02,044 --> 00:03:04,778
+Last night a weapons
+manufacturer was ambushed.
+
+69
+00:03:04,780 --> 00:03:07,014
+A shipment of high-tech,
+
+70
+00:03:07,016 --> 00:03:10,250
+lightweight, shoulder-launch
+rockets were stolen.
+
+71
+00:03:10,252 --> 00:03:11,018
+Oh, God!
+
+72
+00:03:11,020 --> 00:03:13,754
+Homeland has received Intel
+
+73
+00:03:13,756 --> 00:03:15,322
+that an arms dealer,
+who we only know as Christoph,
+
+74
+00:03:15,324 --> 00:03:16,724
+is behind it.
+
+75
+00:03:16,726 --> 00:03:18,392
+He's never been
+photographed or I.D.'d.
+
+76
+00:03:18,394 --> 00:03:21,729
+But he's known to sell across
+the globe to Rwanda and Somalia
+
+77
+00:03:21,731 --> 00:03:23,163
+Any weapon to suit
+your genocide needs, huh?
+
+78
+00:03:23,165 --> 00:03:24,331
+This is a bad, bad man.
+
+79
+00:03:24,333 --> 00:03:26,266
+Yes, and he's stolen
+a very bad piece
+
+80
+00:03:26,268 --> 00:03:27,601
+of experimental hardware.
+
+81
+00:03:27,603 --> 00:03:29,436
+These rockets have
+a range nine times
+
+82
+00:03:29,438 --> 00:03:30,604
+the standard with
+laser guidance
+
+83
+00:03:30,606 --> 00:03:32,740
+technology that makes
+them impossible
+
+84
+00:03:32,742 --> 00:03:34,241
+to shake once they
+lock on target.
+
+85
+00:03:34,243 --> 00:03:36,577
+All in the size of
+a Louisville Slugger.
+
+86
+00:03:36,579 --> 00:03:38,445
+So, if the rockets
+were stolen last night,
+
+87
+00:03:38,447 --> 00:03:39,546
+they're already on the move.
+
+88
+00:03:39,548 --> 00:03:40,714
+Correct, but we've
+traced them to the Port
+
+89
+00:03:40,716 --> 00:03:42,416
+of Long Beach through
+satellite footage.
+
+90
+00:03:42,418 --> 00:03:45,252
+So, you want us to identify
+the shipping container?
+
+91
+00:03:45,254 --> 00:03:46,754
+There is no shipping container.
+
+92
+00:03:46,756 --> 00:03:48,322
+Apparently Christoph is using
+
+93
+00:03:48,324 --> 00:03:50,657
+a luxury cruise line
+as transport.
+
+94
+00:03:50,659 --> 00:03:52,026
+He's one of 100 passengers.
+
+95
+00:03:52,028 --> 00:03:54,495
+The one percent
+of the one percent.
+
+96
+00:03:54,497 --> 00:03:56,730
+Ride in style,
+avoid airport security.
+
+97
+00:03:56,732 --> 00:03:58,465
+I want to be rich just once.
+
+98
+00:03:58,467 --> 00:04:00,434
+Stop gambling.
+Stop judging.
+
+99
+00:04:00,436 --> 00:04:01,602
+PAIGE:
+So, if you think you know
+
+100
+00:04:01,604 --> 00:04:03,670
+the boat he's using,
+go take him down.
+
+101
+00:04:03,672 --> 00:04:07,508
+We're looking for a bigger fish.
+Not that simple.
+
+102
+00:04:07,510 --> 00:04:09,209
+Homeland wants us to hack into
+
+103
+00:04:09,211 --> 00:04:11,211
+the guidance system
+of each munition,
+
+104
+00:04:11,213 --> 00:04:14,481
+and plant GPS tracking software
+so that we can find out
+
+105
+00:04:14,483 --> 00:04:16,083
+who Christoph sells them to.
+
+106
+00:04:16,085 --> 00:04:17,684
+So, there's no time to waste.
+
+107
+00:04:17,686 --> 00:04:19,019
+Now...
+
+108
+00:04:19,021 --> 00:04:22,189
+who's up for a little
+James Bond action?
+
+109
+00:04:22,191 --> 00:04:23,323
+Sweet.
+
+110
+00:04:23,325 --> 00:04:24,358
+Cool.
+
+111
+00:04:24,360 --> 00:04:25,360
+Not me.
+
+112
+00:04:25,361 --> 00:04:26,326
+Let's do it.
+
+113
+00:04:26,328 --> 00:04:28,095
+Now, I just have to save it
+
+114
+00:04:28,097 --> 00:04:31,532
+with the virus I embedded and...
+
+115
+00:04:31,534 --> 00:04:32,699
+done! How long?
+
+116
+00:04:32,701 --> 00:04:34,968
+14 minutes and 32 seconds.
+
+117
+00:04:34,970 --> 00:04:37,004
+I just downloaded
+the blueprints.
+
+118
+00:04:37,006 --> 00:04:39,940
+I'd say he'd put them near
+the engine room or cargo hold.
+
+119
+00:04:39,942 --> 00:04:41,275
+It's secluded.
+
+120
+00:04:41,277 --> 00:04:44,211
+CABE: You got 20 rockets to
+disarm in 14 minutes a pop.
+
+121
+00:04:44,213 --> 00:04:45,446
+We're never gonna get
+five hours alone.
+
+122
+00:04:45,448 --> 00:04:46,980
+We won't need it.
+These rockets are
+
+123
+00:04:46,982 --> 00:04:49,049
+interfaced like
+a laptop, phone and tablet.
+
+124
+00:04:49,051 --> 00:04:51,752
+I program one, they all link up
+disabled and trackable.
+
+125
+00:04:51,754 --> 00:04:52,986
+How do we get aboard?
+
+126
+00:04:52,988 --> 00:04:54,421
+We go as passengers.
+
+127
+00:04:54,423 --> 00:04:55,522
+It's fully booked.
+
+128
+00:04:55,524 --> 00:04:57,191
+But we can create a vacancy.
+
+129
+00:04:57,193 --> 00:04:58,559
+Just got to find the right guy.
+
+130
+00:04:58,561 --> 00:04:59,726
+Haven't rich people ever heard
+
+131
+00:04:59,728 --> 00:05:01,328
+of Legionnaire's disease?
+
+132
+00:05:01,330 --> 00:05:02,429
+Ahoy, mateys!
+
+133
+00:05:02,431 --> 00:05:04,231
+It's Chaz Bonesteel.
+
+134
+00:05:04,233 --> 00:05:05,666
+It must be a family name?
+
+135
+00:05:05,668 --> 00:05:08,001
+From what I see here,
+it's the only name that matters.
+
+136
+00:05:08,003 --> 00:05:10,671
+At 21, he invested
+his life savings
+
+137
+00:05:10,673 --> 00:05:12,840
+in land thought
+to be valueless.
+
+138
+00:05:12,842 --> 00:05:14,341
+At now at 25,
+
+139
+00:05:14,343 --> 00:05:16,777
+he's worth nine figures
+
+140
+00:05:16,779 --> 00:05:19,613
+and at the epicenter
+of the oil shale boom.
+
+141
+00:05:19,615 --> 00:05:21,915
+He's considered
+an investment guru.
+
+142
+00:05:21,917 --> 00:05:23,717
+Oh, and intense
+about his privacy.
+
+143
+00:05:23,719 --> 00:05:25,652
+Known for not having
+a single photo online.
+
+144
+00:05:25,654 --> 00:05:26,720
+No one's even sure
+what he looks like.
+
+145
+00:05:26,722 --> 00:05:29,256
+Okay, so what does
+that have do with us?
+
+146
+00:05:29,258 --> 00:05:31,758
+Well, he booked
+the Excelsior Suite
+
+147
+00:05:31,760 --> 00:05:33,160
+for himself, his wife, Alissa,
+
+148
+00:05:33,162 --> 00:05:35,229
+their personal valet
+and trainer.
+
+149
+00:05:35,231 --> 00:05:36,964
+That's four people.
+WALTER: Okay.
+
+150
+00:05:36,966 --> 00:05:39,766
+Cabe, Sylvester, Paige, myself.
+
+151
+00:05:39,768 --> 00:05:42,069
+We'll pose as them
+to get access to the boat.
+
+152
+00:05:42,071 --> 00:05:43,937
+Okay, uh, here's a shocker.
+
+153
+00:05:43,939 --> 00:05:45,939
+I don't like boats.
+
+154
+00:05:45,941 --> 00:05:47,708
+Primarily because they're
+on the water.
+
+155
+00:05:47,710 --> 00:05:49,443
+And I don't like water.
+
+156
+00:05:49,445 --> 00:05:51,278
+We'll need three minutes
+to get up the plank,
+
+157
+00:05:51,280 --> 00:05:53,013
+five to get
+to the bowels,
+
+158
+00:05:53,015 --> 00:05:54,481
+approximately five minutes
+
+159
+00:05:54,483 --> 00:05:57,084
+to locate the weapons
+and 14 minutes
+
+160
+00:05:57,086 --> 00:05:59,786
+and 32 seconds
+to disarm and reprogram them.
+
+161
+00:05:59,788 --> 00:06:01,755
+That's 27 minutes
+and 32 seconds.
+
+162
+00:06:01,757 --> 00:06:03,090
+So, we'll be off the boat
+
+163
+00:06:03,092 --> 00:06:04,992
+by the time it departs.
+
+164
+00:06:04,994 --> 00:06:06,393
+Besides you're
+the only one of us
+
+165
+00:06:06,395 --> 00:06:07,661
+that can pass for a 25-year-old.
+
+166
+00:06:07,663 --> 00:06:10,097
+Guess I'll be the trainer.
+
+167
+00:06:10,099 --> 00:06:11,231
+(laughs):
+Right.
+
+168
+00:06:11,233 --> 00:06:12,599
+Oh, you're serious.
+
+169
+00:06:12,601 --> 00:06:14,134
+Okay.
+
+170
+00:06:14,136 --> 00:06:17,204
+You'll be the trainer.
+I will be the valet.
+
+171
+00:06:17,206 --> 00:06:18,839
+Sylvester, you'll be Chaz.
+
+172
+00:06:18,841 --> 00:06:19,907
+And, Paige,
+you'll be Alissa.
+
+173
+00:06:19,909 --> 00:06:21,475
+And the real Alissa and Chaz?
+
+174
+00:06:21,477 --> 00:06:22,976
+Uh, aren't they boarding
+in a few hours?
+
+175
+00:06:22,978 --> 00:06:24,444
+I'll make a call.
+They'll have a little
+
+176
+00:06:24,446 --> 00:06:26,346
+trouble at customs when
+they get in from Canada.
+
+177
+00:06:26,348 --> 00:06:27,447
+Walter, gear up.
+
+178
+00:06:27,449 --> 00:06:28,949
+Happy, counterfeit some I.D.'s
+
+179
+00:06:28,951 --> 00:06:30,350
+and tickets.
+Toby, put together a file
+
+180
+00:06:30,352 --> 00:06:31,418
+of everything you can find
+
+181
+00:06:31,420 --> 00:06:32,586
+on the Bonesteels.
+
+182
+00:06:32,588 --> 00:06:33,887
+And, Sly?
+
+183
+00:06:33,889 --> 00:06:35,289
+The shirt's not gonna cut it.
+
+184
+00:06:39,694 --> 00:06:42,129
+SYLVESTER:
+<i>In 2013,</i>
+
+185
+00:06:42,131 --> 00:06:45,499
+the Triumph Carnival fire
+left 4,000 passengers
+
+186
+00:06:45,501 --> 00:06:47,401
+floating in the Gulf of Mexico.
+
+187
+00:06:47,403 --> 00:06:49,703
+2012-- the Costa
+Concordia tragedy.
+
+188
+00:06:49,705 --> 00:06:52,372
+Not to mention a little film
+starring Leonardo DiCaprio
+
+189
+00:06:52,374 --> 00:06:53,507
+and a giant boat?
+Okay.
+
+190
+00:06:53,509 --> 00:06:55,442
+We'll be in and
+out in 20 minutes.
+
+191
+00:06:55,444 --> 00:06:56,910
+Hello!
+Hi! Welcome to Pacific
+
+192
+00:06:56,912 --> 00:06:58,178
+West Cruises.
+
+193
+00:06:58,180 --> 00:06:59,947
+There are four of us.
+
+194
+00:07:01,282 --> 00:07:02,683
+Mr. And Mrs. Bonesteel!
+
+195
+00:07:02,685 --> 00:07:04,084
+Mm-hmm.
+
+196
+00:07:04,086 --> 00:07:06,553
+We are thrilled
+to welcome you aboard.
+
+197
+00:07:06,555 --> 00:07:07,621
+Thrilled to be here.
+
+198
+00:07:07,623 --> 00:07:08,655
+The VIP cocktail reception
+
+199
+00:07:08,657 --> 00:07:10,390
+is on the Lido deck.
+
+200
+00:07:10,392 --> 00:07:11,758
+Wonderful, we'll be
+in our room, so...
+
+201
+00:07:11,760 --> 00:07:12,926
+No. We will do
+
+202
+00:07:12,928 --> 00:07:14,328
+what we normally do, Chaz.
+
+203
+00:07:14,330 --> 00:07:15,662
+Where is the Lido deck?
+
+204
+00:07:15,664 --> 00:07:17,464
+The Lido deck is the top deck.
+
+205
+00:07:17,466 --> 00:07:19,833
+Wonderful.
+Top deck above it all.
+
+206
+00:07:19,835 --> 00:07:21,001
+20 minutes.
+
+207
+00:07:21,003 --> 00:07:22,102
+The clock starts now.
+
+208
+00:07:22,104 --> 00:07:24,271
+Mm-hmm.
+
+209
+00:07:25,073 --> 00:07:27,241
+Tickets?
+
+210
+00:07:27,243 --> 00:07:28,609
+Ow!
+(grunts)
+
+211
+00:07:31,546 --> 00:07:34,581
+Took us substantially longer
+to board than we estimated.
+
+212
+00:07:34,583 --> 00:07:37,351
+Blame the inefficient
+cruise line.
+
+213
+00:07:37,353 --> 00:07:39,219
+We still got
+to locate the rockets,
+
+214
+00:07:39,221 --> 00:07:40,387
+disarm them and
+get off the ship.
+
+215
+00:07:40,389 --> 00:07:41,688
+And we're way behind.
+
+216
+00:07:41,690 --> 00:07:43,023
+Yeah. No, I'm working on it.
+
+217
+00:07:43,025 --> 00:07:45,859
+My software can test whether
+
+218
+00:07:45,861 --> 00:07:47,494
+the rockets are reachable
+across an IP network,
+
+219
+00:07:47,496 --> 00:07:50,364
+thus creating a traceable ping
+for lack of a better word.
+
+220
+00:07:50,366 --> 00:07:51,865
+So, where the hell's the ping?
+
+221
+00:07:51,867 --> 00:07:52,867
+Give me a minute.
+
+222
+00:07:52,868 --> 00:07:55,902
+(thud nearby)
+
+223
+00:07:57,939 --> 00:08:00,274
+(shushes)
+We've got company.
+
+224
+00:08:04,512 --> 00:08:06,380
+Everything looks good.
+
+225
+00:08:06,382 --> 00:08:08,015
+Pressure readouts are normal.
+
+226
+00:08:08,017 --> 00:08:09,583
+I'll run a systems check
+just to be safe.
+
+227
+00:08:09,585 --> 00:08:10,717
+It'll just take a few minutes.
+
+228
+00:08:10,719 --> 00:08:12,085
+MAN:
+Copy that.
+
+229
+00:08:12,087 --> 00:08:14,621
+You're calculating this into
+your 20 minutes, right?
+
+230
+00:08:14,623 --> 00:08:16,156
+We're minutes
+from the boat leaving.
+
+231
+00:08:16,158 --> 00:08:17,758
+Can't you, uh,
+
+232
+00:08:17,760 --> 00:08:20,827
+put him in a sleeper hold
+or... something?
+
+233
+00:08:20,829 --> 00:08:24,398
+Someone will find him and alert
+the boat and the bad guys.
+
+234
+00:08:24,400 --> 00:08:25,866
+Just sit tight.
+
+235
+00:08:25,868 --> 00:08:27,901
+Captain, we're
+all clear down here.
+
+236
+00:08:27,903 --> 00:08:29,102
+Roger.
+
+237
+00:08:29,104 --> 00:08:30,137
+CABE: See?
+
+238
+00:08:30,139 --> 00:08:31,738
+Patience.
+
+239
+00:08:31,740 --> 00:08:34,308
+Securing the bulkhead.
+
+240
+00:08:34,310 --> 00:08:35,575
+Walter?
+
+241
+00:08:35,577 --> 00:08:38,111
+I don't like the sound of that.
+
+242
+00:08:38,113 --> 00:08:41,948
+(alarm blaring)
+
+243
+00:08:43,518 --> 00:08:45,719
+Whoa, whoa!
+Hold on, hold...
+
+244
+00:08:48,556 --> 00:08:51,091
+Can you get us out of here?
+
+245
+00:08:51,093 --> 00:08:52,793
+Yeah, I can.
+
+246
+00:08:52,795 --> 00:08:54,528
+But by the time I do,
+
+247
+00:08:54,530 --> 00:08:57,931
+we'll be in the middle
+of the Pacific.
+
+248
+00:08:57,933 --> 00:08:59,666
+(ship horn blows twice)
+Paige!
+
+249
+00:08:59,668 --> 00:09:01,401
+That was the "get off
+the boat" noise.
+
+250
+00:09:01,403 --> 00:09:04,404
+Where the hell are they?!
+
+253
+00:09:14,293 --> 00:09:16,428
+SYLVESTER:
+<i>Oh, this is not good!</i>
+
+254
+00:09:16,430 --> 00:09:17,562
+I am on a boat!
+
+255
+00:09:17,564 --> 00:09:18,697
+In the middle of the ocean!
+
+256
+00:09:18,699 --> 00:09:20,065
+Have you seen the movie
+<i>Open Water?!</i>
+
+257
+00:09:20,067 --> 00:09:22,467
+Those people were stranded
+in shark-infested waters.
+
+258
+00:09:22,469 --> 00:09:23,568
+You're on a luxury cruise boat.
+
+259
+00:09:23,570 --> 00:09:25,237
+Paige, I can't swim.
+
+260
+00:09:26,406 --> 00:09:28,140
+Maybe you can't.
+
+261
+00:09:28,142 --> 00:09:29,574
+But Chaz Bonesteel can.
+
+262
+00:09:29,576 --> 00:09:30,675
+In fact, Chaz Bonesteel
+
+263
+00:09:30,677 --> 00:09:31,977
+is a champion swimmer.
+
+264
+00:09:31,979 --> 00:09:33,311
+And Chaz Bonesteel
+
+265
+00:09:33,313 --> 00:09:35,514
+can keep it together.
+
+266
+00:09:37,350 --> 00:09:38,884
+Come on, Walter,
+I've seen you
+
+267
+00:09:38,886 --> 00:09:40,285
+diffuse bombs faster than this.
+
+268
+00:09:40,287 --> 00:09:41,420
+It's a simple door pane.
+
+269
+00:09:41,422 --> 00:09:43,789
+I'm trying to open
+the bulkhead door
+
+270
+00:09:43,791 --> 00:09:45,624
+without alerting anyone
+that we're down here.
+
+271
+00:09:45,626 --> 00:09:47,759
+Can you give me a minute?
+
+272
+00:09:47,761 --> 00:09:49,995
+Please?
+
+273
+00:09:49,997 --> 00:09:51,229
+(cell phone ringing)
+
+274
+00:09:51,231 --> 00:09:52,531
+Oh, geez!
+
+275
+00:09:52,533 --> 00:09:53,899
+Ralph, are you okay?
+
+276
+00:09:53,901 --> 00:09:55,167
+I think I'm sick.
+
+277
+00:09:55,169 --> 00:09:57,836
+Ms. Dineen, he has
+the chills pretty bad.
+
+278
+00:09:57,838 --> 00:09:59,071
+Teeth were actually chattering.
+
+279
+00:09:59,073 --> 00:10:01,239
+PAIGE:
+Okay, well, I'm a little...
+
+280
+00:10:01,241 --> 00:10:03,742
+unavailable right now.
+
+281
+00:10:03,744 --> 00:10:05,677
+Uh, I'll have to have
+Toby and Happy pick you up.
+
+282
+00:10:05,679 --> 00:10:07,446
+All right, honey?
+
+283
+00:10:07,448 --> 00:10:08,547
+Thanks, Mom.
+
+284
+00:10:08,549 --> 00:10:10,082
+I love you.
+
+285
+00:10:12,952 --> 00:10:15,687
+Would Chaz be worried that
+everything's going to hell?
+
+286
+00:10:18,825 --> 00:10:20,826
+Appreciate it, nurse.
+
+287
+00:10:20,828 --> 00:10:22,160
+No problem.
+
+288
+00:10:22,162 --> 00:10:23,862
+Feel better, Ralph.
+
+289
+00:10:23,864 --> 00:10:26,431
+It's a bummer
+you're feeling sick.
+
+290
+00:10:28,701 --> 00:10:30,368
+You know, when you
+get the chills,
+
+291
+00:10:30,370 --> 00:10:32,537
+it means your body's
+fighting an infection.
+
+292
+00:10:40,613 --> 00:10:42,814
+(school bell ringing)
+
+293
+00:10:53,693 --> 00:10:55,160
+A knapsack full of ice packs
+
+294
+00:10:55,162 --> 00:10:56,728
+to make your teeth chatter?
+
+295
+00:10:57,997 --> 00:11:00,065
+I've seen you hack
+a thermometer, Ralph.
+
+296
+00:11:00,067 --> 00:11:01,233
+This is amateur hour.
+
+297
+00:11:01,235 --> 00:11:03,835
+I had limited resources.
+
+298
+00:11:07,673 --> 00:11:09,174
+Where the hell
+have you been?
+
+299
+00:11:09,176 --> 00:11:10,375
+We're out to sea.
+
+300
+00:11:10,377 --> 00:11:11,776
+What exactly is the plan here?
+
+301
+00:11:11,778 --> 00:11:13,178
+Well, once we locate
+and reprogram
+
+302
+00:11:13,180 --> 00:11:15,814
+the rockets, we'll ride on
+to the first stop in Cancun.
+
+303
+00:11:15,816 --> 00:11:17,682
+Homeland agents will meet us
+
+304
+00:11:17,684 --> 00:11:19,284
+and get us across the border.
+
+305
+00:11:19,286 --> 00:11:21,019
+My God, the kid's green.
+
+306
+00:11:21,021 --> 00:11:22,521
+WALTER:
+Okay, let's all
+
+307
+00:11:22,523 --> 00:11:23,822
+get our comms in.
+
+308
+00:11:23,824 --> 00:11:25,290
+Link them up, come on.
+
+309
+00:11:25,292 --> 00:11:26,958
+I'm gonna call Happy, make
+sure that she's connected.
+
+310
+00:11:26,960 --> 00:11:29,628
+This whole thing has not
+gone according to plan,
+
+311
+00:11:29,630 --> 00:11:31,363
+so we need to make sure
+that we stay
+
+312
+00:11:31,365 --> 00:11:32,564
+in constant communication.
+
+313
+00:11:32,566 --> 00:11:34,332
+CABE:
+All right.
+
+314
+00:11:34,334 --> 00:11:36,234
+Listen, keep an eye
+on the kid.
+
+315
+00:11:36,236 --> 00:11:38,136
+Get him to lie down or
+something, and whatever you do,
+
+316
+00:11:38,138 --> 00:11:40,438
+don't leave this room
+and don't talk to anyone.
+
+317
+00:11:40,440 --> 00:11:42,207
+I'm gonna call Happy,
+
+318
+00:11:42,209 --> 00:11:45,443
+find out why it was so difficult
+to get a signal in the hull.
+
+319
+00:11:45,445 --> 00:11:46,611
+Keep you posted.
+
+320
+00:11:46,613 --> 00:11:48,293
+(knocking)
+CAPTAIN: Mr. and Mrs. Bonesteel?
+
+321
+00:11:48,915 --> 00:11:51,950
+Paige, come answer it.
+
+322
+00:11:55,688 --> 00:11:57,522
+Yes?
+Mrs. Bonesteel.
+
+323
+00:11:57,524 --> 00:11:58,657
+I'm Captain Steven Caine.
+
+324
+00:11:58,659 --> 00:11:59,691
+Welcome aboard.
+
+325
+00:11:59,693 --> 00:12:01,159
+I wanted to personally
+invite you
+
+326
+00:12:01,161 --> 00:12:03,161
+and Mr. Bonesteel to join me
+at my table for lunch.
+
+327
+00:12:03,163 --> 00:12:05,096
+Oh, the captain's table,
+that sounds lovely.
+
+328
+00:12:05,098 --> 00:12:06,231
+Wonderful.
+
+329
+00:12:06,233 --> 00:12:07,599
+Many people are very excited
+
+330
+00:12:07,601 --> 00:12:09,000
+about dining with Mr. Bonesteel.
+
+331
+00:12:09,936 --> 00:12:11,236
+Good, now I have to have lunch.
+
+332
+00:12:11,238 --> 00:12:13,104
+Hm.
+
+333
+00:12:13,839 --> 00:12:16,241
+WALTER:
+<i>Okay, so we meet back</i>
+
+334
+00:12:16,243 --> 00:12:18,176
+at the room after our
+respective missions, okay?
+
+335
+00:12:18,178 --> 00:12:19,981
+And, uh, Sly, please, uh,
+
+336
+00:12:20,005 --> 00:12:22,121
+WOMAN: Walter?
+try to lay off the Dramamine.
+
+337
+00:12:22,148 --> 00:12:23,415
+That's an ex.
+
+338
+00:12:23,417 --> 00:12:24,716
+Handle it fast.
+
+339
+00:12:24,718 --> 00:12:25,718
+Hey.
+
+340
+00:12:25,719 --> 00:12:27,986
+Are you working on the ship?
+
+341
+00:12:27,988 --> 00:12:29,221
+Um, yes.
+
+342
+00:12:29,223 --> 00:12:31,790
+I am, uh, currently,
+uh, working.
+
+343
+00:12:31,792 --> 00:12:34,859
+Tech support on a cruise
+is a nice step up.
+
+344
+00:12:34,861 --> 00:12:36,194
+Well, you know what they say.
+
+345
+00:12:36,196 --> 00:12:37,963
+Onward and upward.
+
+346
+00:12:37,965 --> 00:12:40,632
+Walter, we are going to lunch.
+
+347
+00:12:40,634 --> 00:12:43,501
+Meet my dad at the shuffleboard.
+
+348
+00:12:43,503 --> 00:12:45,237
+Okay.
+
+349
+00:12:45,239 --> 00:12:46,605
+Is that woman the waitress?
+
+350
+00:12:46,607 --> 00:12:49,507
+From that diner
+you used to take me to?
+
+351
+00:12:49,509 --> 00:12:51,476
+Yes, she did, uh,
+
+352
+00:12:51,478 --> 00:12:53,712
+work there for a while.
+
+353
+00:12:53,714 --> 00:12:54,846
+So she's here with you?
+
+354
+00:12:54,848 --> 00:12:55,947
+Are-are you two dating?
+
+355
+00:12:55,949 --> 00:12:58,083
+No, we work together.
+
+356
+00:12:58,985 --> 00:13:01,286
+Oh, the waitress
+is a tech expert, too.
+
+357
+00:13:01,288 --> 00:13:02,654
+Come on, Walter.
+
+358
+00:13:02,656 --> 00:13:04,856
+No, you don't understand.
+
+359
+00:13:04,858 --> 00:13:06,591
+The truth is
+
+360
+00:13:06,593 --> 00:13:09,327
+(whispering):
+we work for the government.
+
+361
+00:13:09,329 --> 00:13:11,596
+The government?
+
+362
+00:13:11,598 --> 00:13:12,998
+You expect me to believe that?
+
+363
+00:13:13,000 --> 00:13:15,600
+MAN:
+Janice!
+
+364
+00:13:15,602 --> 00:13:17,202
+Come here; there-s someone
+I want you to meet.
+
+365
+00:13:17,204 --> 00:13:18,536
+My fiancé.
+
+366
+00:13:20,306 --> 00:13:23,541
+Enjoy the cruise, Walt.
+
+367
+00:13:31,884 --> 00:13:34,119
+Happy, the signal's
+still jumping around.
+
+368
+00:13:34,121 --> 00:13:36,788
+The girders are
+just steel alloy.
+
+369
+00:13:36,790 --> 00:13:38,223
+They shouldn't be interfering
+with the signal.
+
+370
+00:13:38,225 --> 00:13:40,558
+Yeah, well, I'm down here,
+and I'm telling you,
+
+371
+00:13:40,560 --> 00:13:41,760
+I can't get a proper signal.
+
+372
+00:13:41,762 --> 00:13:42,827
+Calm down. I'm trying to find
+
+373
+00:13:42,829 --> 00:13:43,862
+an answer.
+
+374
+00:13:43,864 --> 00:13:46,231
+Excuse me, I am perfectly calm.
+
+375
+00:13:46,233 --> 00:13:47,232
+Yeah, you sound perfectly calm.
+
+376
+00:13:47,234 --> 00:13:48,800
+Enough.
+
+377
+00:13:48,802 --> 00:13:50,135
+This thing's echoing in my ear
+
+378
+00:13:50,137 --> 00:13:51,569
+from you two acting
+like children.
+
+379
+00:13:51,571 --> 00:13:53,238
+Get it together.
+
+380
+00:13:53,240 --> 00:13:55,440
+Echo?
+
+381
+00:13:56,242 --> 00:13:57,942
+Wait.
+
+382
+00:13:57,944 --> 00:13:59,177
+That's it, Walt.
+
+383
+00:13:59,179 --> 00:14:00,545
+There's got to be a hollow space
+
+384
+00:14:00,547 --> 00:14:01,980
+located in the hull somewhere
+
+385
+00:14:01,982 --> 00:14:04,182
+that's causing the signal
+to bounce around like an echo
+
+386
+00:14:04,184 --> 00:14:05,583
+whenever the boat swells.
+
+387
+00:14:05,585 --> 00:14:07,552
+Yes, there should be
+a crawlspace above you.
+
+388
+00:14:07,554 --> 00:14:09,020
+Eight, maybe ten feet up?
+
+389
+00:14:09,022 --> 00:14:10,355
+Oh, oh.
+
+390
+00:14:14,660 --> 00:14:16,695
+Oh, yeah, I see it.
+Hold that.
+
+391
+00:14:18,664 --> 00:14:20,465
+Yeah, they're here.
+
+392
+00:14:21,167 --> 00:14:23,868
+Hand it to me.
+
+393
+00:14:23,870 --> 00:14:26,071
+Oh, Cabe, Happy was right.
+
+394
+00:14:26,073 --> 00:14:28,606
+They're here.
+
+395
+00:14:29,709 --> 00:14:30,742
+Thank you.
+
+396
+00:14:30,744 --> 00:14:33,478
+Enjoy.
+
+397
+00:14:33,480 --> 00:14:34,579
+Mr. Bonesteel,
+
+398
+00:14:34,581 --> 00:14:36,348
+I read the article
+where you mentioned
+
+399
+00:14:36,350 --> 00:14:39,250
+seared frog legs were
+a particular favorite of yours.
+
+400
+00:14:40,152 --> 00:14:42,420
+So I had some flown in.
+Here you are.
+
+401
+00:14:43,422 --> 00:14:45,190
+PAIGE:
+Oh.
+
+402
+00:14:46,025 --> 00:14:47,525
+Chaz just...
+
+403
+00:14:47,527 --> 00:14:49,394
+loves his amphibious meats.
+
+404
+00:14:49,396 --> 00:14:51,896
+(clears throat)
+
+405
+00:14:53,366 --> 00:14:55,233
+Thank you.
+
+406
+00:14:57,069 --> 00:14:59,371
+(clears throat)
+
+407
+00:15:01,807 --> 00:15:03,007
+You almost done?
+
+408
+00:15:03,009 --> 00:15:05,276
+I'm only a few minutes in.
+
+409
+00:15:06,812 --> 00:15:08,113
+Besides, it's dark in here.
+
+410
+00:15:08,115 --> 00:15:09,614
+You got 197 IQ,
+
+411
+00:15:09,616 --> 00:15:11,549
+and you don't know how
+to operate a flashlight?
+
+412
+00:15:11,551 --> 00:15:12,851
+Are you kidding me?
+
+413
+00:15:12,853 --> 00:15:15,086
+(gun clicks)
+Who are you?
+
+414
+00:15:15,821 --> 00:15:18,590
+Just a little lost.
+
+415
+00:15:18,592 --> 00:15:20,325
+Lost, huh?
+
+416
+00:15:20,327 --> 00:15:21,659
+Down here in the cargo hold?
+
+417
+00:15:21,661 --> 00:15:22,694
+Turn around.
+
+418
+00:15:22,696 --> 00:15:24,929
+On your knees now.
+
+419
+00:15:24,931 --> 00:15:27,899
+Okay, okay.
+
+420
+00:15:27,901 --> 00:15:30,902
+Don't move.
+
+421
+00:15:33,572 --> 00:15:36,007
+Who you working for?
+
+422
+00:15:37,510 --> 00:15:39,577
+I said, who do you work for?
+
+423
+00:15:41,447 --> 00:15:43,148
+I'm not gonna ask you again.
+
+424
+00:15:49,922 --> 00:15:51,723
+(grunting)
+
+425
+00:15:56,362 --> 00:15:57,328
+Damn it.
+
+426
+00:15:57,330 --> 00:15:58,396
+Our cover's blown.
+
+427
+00:15:58,398 --> 00:15:59,798
+In a few minutes,
+
+428
+00:15:59,800 --> 00:16:00,800
+whoever he's working for
+
+429
+00:16:00,801 --> 00:16:02,200
+is gonna be looking for us.
+
+430
+00:16:02,202 --> 00:16:03,468
+Oh, we don't have enough time.
+
+431
+00:16:03,470 --> 00:16:05,703
+Forget about
+installing the GPS.
+
+432
+00:16:05,705 --> 00:16:08,006
+Just deactivate
+the damn things.
+
+433
+00:16:08,008 --> 00:16:09,307
+Grab them and go.
+
+434
+00:16:09,309 --> 00:16:11,776
+Chaz, when did you know
+
+435
+00:16:11,778 --> 00:16:13,611
+that you'd made it?
+
+436
+00:16:17,049 --> 00:16:18,450
+(clears throat)
+
+437
+00:16:18,452 --> 00:16:21,619
+Tell them the story...
+
+438
+00:16:21,621 --> 00:16:23,121
+Chaz.
+
+439
+00:16:23,123 --> 00:16:25,490
+Well...
+
+440
+00:16:27,293 --> 00:16:29,894
+My grandfather
+once took me ice fishing.
+
+441
+00:16:29,896 --> 00:16:32,864
+And we dropped our lines
+and we waited,
+
+442
+00:16:32,866 --> 00:16:35,133
+but I was impatient.
+
+443
+00:16:38,471 --> 00:16:40,205
+So I said to my grandfather,
+
+444
+00:16:40,207 --> 00:16:42,273
+"Grandfather,
+
+445
+00:16:42,275 --> 00:16:45,176
+my feet are frozen and I'd like
+to go home, please."
+
+446
+00:16:45,178 --> 00:16:46,678
+(chuckles)
+
+447
+00:16:49,315 --> 00:16:51,950
+And he said, "Son, grandson,
+
+448
+00:16:51,952 --> 00:16:54,452
+"when your feet are frozen,
+
+449
+00:16:54,454 --> 00:16:57,422
+"that is when the fish
+
+450
+00:16:57,424 --> 00:16:59,524
+are the warmest."
+
+451
+00:17:02,828 --> 00:17:04,662
+MAN:
+Excuse me, Captain.
+
+452
+00:17:08,133 --> 00:17:10,635
+If you'll all excuse me,
+I have a call I have to take.
+
+453
+00:17:12,972 --> 00:17:14,706
+SERVER: Excuse me, sir,
+your next course.
+
+454
+00:17:15,875 --> 00:17:17,408
+Oh.
+
+455
+00:17:17,410 --> 00:17:19,577
+Escargot.
+
+456
+00:17:19,579 --> 00:17:22,780
+Oh, that's a lot of snails.
+
+457
+00:17:22,782 --> 00:17:24,516
+Please, no.
+
+458
+00:17:24,518 --> 00:17:27,051
+There's some light over here.
+
+459
+00:17:27,053 --> 00:17:28,853
+Here, hold that.
+
+460
+00:17:28,855 --> 00:17:31,289
+Yeah.
+
+461
+00:17:31,291 --> 00:17:33,024
+Hurry up.
+
+462
+00:17:33,026 --> 00:17:35,260
+(engines whining)
+
+463
+00:17:35,262 --> 00:17:36,461
+This is your captain.
+
+464
+00:17:36,463 --> 00:17:37,962
+All passengers
+report immediately
+
+465
+00:17:37,964 --> 00:17:39,430
+to the casino on the main deck.
+No, that's not good.
+
+466
+00:17:39,432 --> 00:17:41,232
+Thank you.
+Put the ship into idle.
+
+467
+00:17:41,234 --> 00:17:42,634
+That's no coincidence.
+
+468
+00:17:42,636 --> 00:17:43,868
+They can't find us,
+
+469
+00:17:43,870 --> 00:17:45,503
+so they're going
+after the passengers.
+
+470
+00:17:46,572 --> 00:17:47,672
+Please, keep coming in.
+
+471
+00:17:47,674 --> 00:17:49,574
+Yes, that's it.
+Just this way, folks.
+
+472
+00:17:49,576 --> 00:17:50,742
+That's right, right in here.
+Do you think
+
+473
+00:17:50,744 --> 00:17:52,410
+Chaz would find this odd?
+
+474
+00:17:52,412 --> 00:17:54,445
+Not sure, but I certainly do.
+
+475
+00:17:54,447 --> 00:17:55,713
+CAPTAIN:
+Plenty of room.
+
+476
+00:17:55,715 --> 00:17:57,549
+Please, please keep coming.
+That's it.
+
+477
+00:17:57,551 --> 00:17:59,484
+Yes, ma'am. Yes, I know.
+Make your way
+
+478
+00:17:59,486 --> 00:18:02,654
+to the back of the room. There
+is plenty of space for everyone.
+
+479
+00:18:02,656 --> 00:18:04,088
+All is fine,
+nothing to worry about.
+
+480
+00:18:04,090 --> 00:18:05,290
+I'm feeling very
+strange about this.
+
+481
+00:18:05,292 --> 00:18:07,792
+PAIGE: They don't look
+like ship security.
+
+482
+00:18:07,794 --> 00:18:09,494
+SYLVESTER:
+Why are they blocking the doors?
+
+483
+00:18:09,496 --> 00:18:11,696
+(doors close)
+All right, everyone, please,
+
+484
+00:18:11,698 --> 00:18:12,864
+do not panic.
+
+485
+00:18:12,866 --> 00:18:14,933
+Everything is going to be
+absolutely fine.
+
+486
+00:18:14,935 --> 00:18:16,234
+(groans, passengers scream)
+
+487
+00:18:18,737 --> 00:18:20,939
+Thank you, Captain.
+
+488
+00:18:23,042 --> 00:18:24,709
+I'll take it from here.
+
+489
+00:18:24,711 --> 00:18:26,210
+(gun clicks)
+
+490
+00:18:26,212 --> 00:18:27,512
+(gasping)
+
+491
+00:18:27,514 --> 00:18:28,680
+Ladies and gentlemen,
+
+492
+00:18:28,682 --> 00:18:30,748
+if you want to live,
+
+493
+00:18:30,750 --> 00:18:32,984
+there's one thing
+that you need to understand.
+
+494
+00:18:32,986 --> 00:18:35,019
+Oh, my God.
+
+495
+00:18:35,021 --> 00:18:36,788
+This is my ship now.
+
+496
+00:18:46,480 --> 00:18:48,081
+Hurry up.
+
+497
+00:18:48,445 --> 00:18:50,229
+HENCHMAN:
+Electronic devices in the bag.
+
+498
+00:18:50,230 --> 00:18:51,896
+In the bag.
+
+499
+00:18:52,698 --> 00:18:54,532
+HENCHMAN 2:
+We searched the ship.
+
+500
+00:18:54,534 --> 00:18:56,033
+This is everyone on board.
+
+501
+00:18:56,035 --> 00:18:58,002
+I looked for the rockets;
+they're not where we left them.
+
+502
+00:18:58,004 --> 00:18:59,537
+Cell phone in the bag!
+
+503
+00:18:59,539 --> 00:19:00,705
+Cell phone in the bag now, lady!
+
+504
+00:19:00,707 --> 00:19:02,139
+(gunshots)
+
+505
+00:19:04,710 --> 00:19:06,210
+Do I have everyone's attention?
+
+506
+00:19:11,616 --> 00:19:13,417
+One of you knows
+where my cargo is.
+
+507
+00:19:13,419 --> 00:19:15,753
+I intend to get it back.
+
+508
+00:19:15,755 --> 00:19:19,490
+This is a passenger manifest.
+
+509
+00:19:19,492 --> 00:19:20,791
+So,
+
+510
+00:19:20,793 --> 00:19:22,660
+if you cannot produce
+an identification
+
+511
+00:19:22,662 --> 00:19:24,395
+that's on this list,
+
+512
+00:19:24,397 --> 00:19:26,497
+well then,
+
+513
+00:19:26,499 --> 00:19:28,866
+today is not your lucky day.
+
+514
+00:19:28,868 --> 00:19:30,234
+Roger that, sir.
+
+515
+00:19:30,236 --> 00:19:31,736
+We'll be prepared.
+
+516
+00:19:31,738 --> 00:19:35,539
+Navy's sending a military copter
+to handle the hostage situation.
+
+517
+00:19:35,541 --> 00:19:36,741
+They're linking up our comms,
+
+518
+00:19:36,743 --> 00:19:38,309
+but if those goons find us,
+they can't
+
+519
+00:19:38,311 --> 00:19:40,010
+have live rockets with
+helicopters approaching.
+
+520
+00:19:40,012 --> 00:19:41,378
+I'm almost done.
+
+521
+00:19:43,148 --> 00:19:44,715
+Walter, where are you?
+
+522
+00:19:44,717 --> 00:19:46,450
+We got caught in the bowels
+of the ship.
+
+523
+00:19:46,452 --> 00:19:47,585
+Why? What's going on?
+
+524
+00:19:47,587 --> 00:19:48,753
+We are in the casino.
+
+525
+00:19:48,755 --> 00:19:50,254
+Christoph is reading
+the manifest,
+
+526
+00:19:50,256 --> 00:19:51,722
+and once he gets to Bonesteel,
+
+527
+00:19:51,724 --> 00:19:53,557
+we are in big trouble.
+
+528
+00:19:53,559 --> 00:19:56,093
+The laminate that Happy used
+on both of our I.D.'s
+
+529
+00:19:56,095 --> 00:19:58,796
+is only a few hours old,
+and if he shines a light on it,
+
+530
+00:19:58,798 --> 00:19:59,730
+it'll read as fake.
+
+531
+00:19:59,732 --> 00:20:00,732
+Time frame?
+
+532
+00:20:00,733 --> 00:20:02,299
+Well, okay, statistically,
+
+533
+00:20:02,301 --> 00:20:04,602
+B is the fifth most common start
+to a surname,
+
+534
+00:20:04,604 --> 00:20:05,703
+and A is the twelfth.
+
+535
+00:20:05,705 --> 00:20:07,538
+How much time, Sylvester?
+
+536
+00:20:07,540 --> 00:20:09,473
+Okay, three minutes, tops.
+
+537
+00:20:09,475 --> 00:20:11,408
+New plan.
+
+538
+00:20:11,410 --> 00:20:13,377
+You have to finish disarming
+the rockets first.
+
+539
+00:20:13,379 --> 00:20:14,712
+We don't have enough time.
+
+540
+00:20:14,714 --> 00:20:16,147
+The rockets will take
+another four minutes.
+
+541
+00:20:16,149 --> 00:20:18,315
+Paige and Sylvester
+will be dead in three.
+
+542
+00:20:19,451 --> 00:20:21,118
+What the hell do we do?
+
+543
+00:20:21,120 --> 00:20:23,521
+Grab me a beer.
+
+544
+00:20:23,523 --> 00:20:25,990
+I have an idea.
+
+545
+00:20:28,093 --> 00:20:30,828
+RALPH: <i>I wanted to give Sloan</i>
+<i>a valentine,</i>
+
+546
+00:20:30,830 --> 00:20:32,363
+but Jason gave her one first.
+
+547
+00:20:32,365 --> 00:20:34,465
+Ralphie boy,
+you got to be persistent.
+
+548
+00:20:34,467 --> 00:20:36,467
+There are some girls
+who don't know a good thin
+
+549
+00:20:36,469 --> 00:20:38,002
+when it's right
+in front of them,
+
+550
+00:20:38,004 --> 00:20:40,738
+no matter how many times
+it has been offered.
+
+551
+00:20:42,474 --> 00:20:45,242
+You and Sloan are friends,
+right, Ralph?
+
+552
+00:20:45,244 --> 00:20:47,077
+Mm-hmm, mm-hmm.
+
+553
+00:20:47,079 --> 00:20:49,246
+HAPPY:
+Well, maybe
+
+554
+00:20:49,248 --> 00:20:51,315
+she doesn't want
+to jeopardize your friendship.
+
+555
+00:20:51,317 --> 00:20:52,983
+Maybe
+
+556
+00:20:52,985 --> 00:20:55,753
+she's never had a best friend
+like you before
+
+557
+00:20:55,755 --> 00:20:58,222
+and that probably
+means a lot to her.
+
+558
+00:21:00,058 --> 00:21:01,325
+So don't take it personally.
+
+559
+00:21:01,327 --> 00:21:02,827
+You just have to be patient.
+
+560
+00:21:02,829 --> 00:21:03,894
+How patient?
+Like, if you had
+
+561
+00:21:03,896 --> 00:21:05,429
+to put a time frame on it.
+
+562
+00:21:05,431 --> 00:21:08,732
+I really don't know what
+we're talking about anymore.
+
+563
+00:21:11,603 --> 00:21:14,004
+(phone ringing)
+
+564
+00:21:17,409 --> 00:21:19,143
+Talk to me.
+
+565
+00:21:19,145 --> 00:21:20,744
+WALTER:
+We have a situation here.
+
+566
+00:21:20,746 --> 00:21:23,180
+All the passengers
+have been taken hostage,
+
+567
+00:21:23,182 --> 00:21:24,481
+including Paige and Sylvester.
+
+568
+00:21:24,483 --> 00:21:26,317
+So I need you to find a spot
+
+569
+00:21:26,319 --> 00:21:28,219
+in the hull
+
+570
+00:21:28,221 --> 00:21:30,588
+where I can access
+the ship's intercom.
+
+571
+00:21:33,491 --> 00:21:35,860
+Okay, I'm in the ship's
+broadcasting system.
+
+572
+00:21:35,862 --> 00:21:37,294
+What are you up to?
+
+573
+00:21:37,296 --> 00:21:38,929
+There's no intercom down here,
+
+574
+00:21:38,931 --> 00:21:40,231
+so I'm building one.
+
+575
+00:21:40,233 --> 00:21:42,466
+If we're gonna negotiate
+with our captors,
+
+576
+00:21:42,468 --> 00:21:44,001
+we have to able
+to talk to them first.
+
+577
+00:21:44,003 --> 00:21:46,103
+Grab that;
+let's go.
+
+578
+00:21:46,105 --> 00:21:47,638
+HAPPY:
+It should be on your left side.
+
+579
+00:21:47,640 --> 00:21:48,640
+Here it is, here it is.
+
+580
+00:21:48,641 --> 00:21:49,641
+(grunts)
+
+581
+00:21:49,642 --> 00:21:51,775
+Ah, thank you, Happy.
+
+582
+00:21:51,777 --> 00:21:54,545
+Once we get
+a current,
+
+583
+00:21:54,547 --> 00:21:57,882
+the can will act
+as a microphone.
+
+584
+00:21:57,884 --> 00:22:00,050
+I'll have it broadcast
+over every speaker
+
+585
+00:22:00,052 --> 00:22:02,419
+on the ship.
+Watch yourself.
+
+586
+00:22:02,421 --> 00:22:05,389
+SYLVESTER: Okay, Walter, you have
+approximately 30 seconds
+
+587
+00:22:05,391 --> 00:22:07,558
+until they call Bonesteel.
+
+588
+00:22:07,560 --> 00:22:10,361
+They will kill
+me and Paige.
+
+589
+00:22:11,429 --> 00:22:12,796
+You sure
+about this?
+
+590
+00:22:12,798 --> 00:22:14,031
+There's no hiding
+once it's done.
+
+591
+00:22:14,033 --> 00:22:15,666
+We have no choice.
+
+592
+00:22:15,668 --> 00:22:18,002
+Barclay, Phineas.
+
+593
+00:22:21,273 --> 00:22:22,306
+What are we going to do?
+
+594
+00:22:22,308 --> 00:22:24,108
+When he sees our IDs,
+
+595
+00:22:24,110 --> 00:22:25,910
+he'll know that they're bogus.
+
+596
+00:22:25,912 --> 00:22:28,012
+CHRISTOPH:
+Bonesteel...
+
+597
+00:22:28,014 --> 00:22:30,147
+Alissa.
+
+598
+00:22:36,054 --> 00:22:37,821
+Alissa Bonesteel.
+
+599
+00:22:37,823 --> 00:22:40,658
+Just stay right here, okay?
+
+600
+00:22:43,261 --> 00:22:44,395
+It's okay, come here.
+
+601
+00:22:46,231 --> 00:22:47,164
+Ow!
+
+602
+00:22:47,166 --> 00:22:49,366
+CHRISTOPH:
+I will put a bullet
+
+603
+00:22:49,368 --> 00:22:52,136
+in her ponytail
+
+604
+00:22:52,138 --> 00:22:54,538
+if Ms. Alissa Bonesteel
+does not step forward.
+
+605
+00:22:54,540 --> 00:22:55,973
+I am!
+
+606
+00:22:55,975 --> 00:22:59,076
+I... I am...
+
+607
+00:22:59,078 --> 00:23:01,045
+Alissa Bonesteel.
+
+608
+00:23:01,047 --> 00:23:02,913
+(whimpers)
+
+609
+00:23:05,717 --> 00:23:07,251
+Trouble hearing?
+
+610
+00:23:07,253 --> 00:23:09,320
+No, I...
+
+611
+00:23:09,322 --> 00:23:10,688
+I'm just scared
+
+612
+00:23:10,690 --> 00:23:12,890
+because I left
+my ID in my room.
+
+613
+00:23:17,195 --> 00:23:20,064
+(gasps)
+
+614
+00:23:21,099 --> 00:23:23,600
+I'm gonna take
+a wild guess
+
+615
+00:23:23,602 --> 00:23:25,369
+that you know where my cargo is.
+
+616
+00:23:27,505 --> 00:23:30,240
+PAIGE:
+I don't know.
+
+617
+00:23:32,877 --> 00:23:34,378
+I don't know--
+No, please, please.
+
+618
+00:23:34,380 --> 00:23:36,914
+I have a son.
+
+619
+00:23:36,916 --> 00:23:38,349
+CHRISTOPH:
+In three seconds.
+
+620
+00:23:38,351 --> 00:23:40,317
+your son will
+have no mother.
+
+621
+00:23:40,319 --> 00:23:41,518
+And then...
+(whimpers)
+
+622
+00:23:41,520 --> 00:23:43,020
+...I'm gonna pay him a visit.
+No...
+
+623
+00:23:43,022 --> 00:23:44,888
+WALTER (over intercom):
+Release the hostages
+
+624
+00:23:44,890 --> 00:23:47,124
+or I throw your rockets
+overboard.
+
+625
+00:23:47,126 --> 00:23:48,659
+(passengers murmuring)
+
+626
+00:23:48,661 --> 00:23:50,294
+Are you kidding me?
+
+627
+00:23:52,597 --> 00:23:54,631
+All right,
+come on.
+
+628
+00:24:01,039 --> 00:24:03,107
+Yes, this is the man
+you stole from.
+
+629
+00:24:03,109 --> 00:24:04,208
+Who's this, please?
+
+630
+00:24:04,210 --> 00:24:06,610
+My name is not important;
+what I have is.
+
+631
+00:24:06,612 --> 00:24:09,380
+Correct.
+
+632
+00:24:09,382 --> 00:24:12,950
+But what I have is
+even more precious.
+
+633
+00:24:15,387 --> 00:24:16,920
+And I will kill them,
+
+634
+00:24:16,922 --> 00:24:18,389
+one by one,
+
+635
+00:24:18,391 --> 00:24:20,157
+unless you bring me my weapons
+
+636
+00:24:20,159 --> 00:24:21,658
+immediately.
+
+637
+00:24:22,494 --> 00:24:24,194
+(quietly):
+You give him those rockets
+
+638
+00:24:24,196 --> 00:24:27,164
+and he'll shoot that rescue
+copter right out of the sky.
+
+639
+00:24:28,466 --> 00:24:29,566
+Happy?
+
+640
+00:24:29,568 --> 00:24:31,368
+There has to be
+another vessel nearby.
+
+641
+00:24:31,370 --> 00:24:33,971
+Can you locate anything?
+I'm looking.
+
+642
+00:24:34,706 --> 00:24:37,074
+You have five seconds to comply.
+
+643
+00:24:37,076 --> 00:24:37,941
+Hurry, Happy.
+
+644
+00:24:37,943 --> 00:24:39,610
+Five...
+
+645
+00:24:39,612 --> 00:24:41,979
+four...
+No...
+
+646
+00:24:41,981 --> 00:24:43,814
+A Japanese destroyer
+isn't too far away.
+
+647
+00:24:43,816 --> 00:24:44,882
+Three...
+
+648
+00:24:44,884 --> 00:24:46,284
+Hack the destroyer's
+control system.
+
+649
+00:24:46,285 --> 00:24:47,584
+Two...
+
+650
+00:24:47,586 --> 00:24:48,952
+one.
+
+651
+00:24:48,954 --> 00:24:50,220
+WOMAN:
+No, no, no, no....
+
+652
+00:24:50,222 --> 00:24:51,989
+WALTER:
+Okay, okay, okay! You win.
+
+653
+00:24:51,991 --> 00:24:53,457
+Lido deck, five minutes,
+
+654
+00:24:53,459 --> 00:24:54,725
+with the rockets.
+
+655
+00:24:54,727 --> 00:24:56,193
+Perfect.
+
+656
+00:24:56,195 --> 00:24:57,694
+Grab the captain.
+You...
+
+657
+00:24:57,696 --> 00:24:59,363
+take Tennille.
+
+658
+00:24:59,365 --> 00:25:01,565
+Let's go.
+
+659
+00:25:01,567 --> 00:25:02,800
+PILOT (over comms):
+Navy 6-4.
+
+660
+00:25:02,802 --> 00:25:03,867
+Four minutes out and closing.
+
+661
+00:25:03,869 --> 00:25:06,670
+Okay, hold...
+
+662
+00:25:10,442 --> 00:25:12,276
+WALTER:
+Okay.
+
+663
+00:25:12,278 --> 00:25:13,343
+Okay, okay.
+
+664
+00:25:13,345 --> 00:25:14,211
+That's close enough.
+
+665
+00:25:14,213 --> 00:25:17,181
+Or they go
+overboard.
+
+666
+00:25:19,451 --> 00:25:21,685
+Can I have my
+rockets now, please?
+
+667
+00:25:21,687 --> 00:25:24,521
+Give me your word
+you'll let the passengers go.
+
+668
+00:25:28,526 --> 00:25:29,960
+You see this gun?
+
+669
+00:25:29,962 --> 00:25:31,595
+It's got a sensitive trigger.
+
+670
+00:25:31,597 --> 00:25:34,031
+Sometimes it goes off
+
+671
+00:25:34,033 --> 00:25:35,499
+when I've barely
+even touched it.
+
+672
+00:25:35,501 --> 00:25:38,068
+You guys want to see?
+
+673
+00:25:38,070 --> 00:25:39,236
+No, no, no.
+
+674
+00:25:39,238 --> 00:25:40,871
+No, no.
+
+675
+00:25:40,873 --> 00:25:43,207
+Okay.
+
+676
+00:25:45,009 --> 00:25:46,076
+Put the gun down.
+
+677
+00:25:46,078 --> 00:25:47,111
+Thank you.
+
+678
+00:25:47,113 --> 00:25:48,278
+Search them.
+
+679
+00:25:56,521 --> 00:25:57,721
+Raul's.
+
+680
+00:26:02,293 --> 00:26:04,528
+I'm sorry, who are
+you two guys working for?
+
+681
+00:26:07,031 --> 00:26:09,500
+Nothing?
+
+682
+00:26:09,502 --> 00:26:10,767
+(grunts)
+Hey!
+
+683
+00:26:10,769 --> 00:26:12,803
+(coughing)
+
+684
+00:26:12,805 --> 00:26:14,104
+(feedback whines)
+Oh.
+
+685
+00:26:14,106 --> 00:26:16,440
+Oh.
+
+686
+00:26:16,442 --> 00:26:18,642
+Who have you been talking to?
+
+687
+00:26:20,145 --> 00:26:21,845
+PILOT (over comms):
+This is Navy 6-2.
+
+688
+00:26:21,847 --> 00:26:24,381
+We are five miles out, roughly
+two minutes to intercept.
+
+689
+00:26:24,383 --> 00:26:26,517
+Are we clear to approach,
+Agent Gallo? Over.
+
+690
+00:26:28,153 --> 00:26:31,355
+Tell them everything is fine.
+
+691
+00:26:31,357 --> 00:26:32,689
+PILOT:
+Repeat. Are we clear to land?
+
+692
+00:26:32,691 --> 00:26:33,891
+Over.
+
+693
+00:26:37,495 --> 00:26:39,062
+CABE:
+Okay. Okay.
+
+694
+00:26:39,064 --> 00:26:41,765
+This is Agent Cabe Gallo.
+
+695
+00:26:41,767 --> 00:26:43,600
+You're clear to approach.
+
+696
+00:26:43,602 --> 00:26:45,235
+Good job.
+
+697
+00:26:45,237 --> 00:26:46,170
+Take 'em over there.
+
+698
+00:26:46,172 --> 00:26:48,238
+Move!
+Go, go! To the rail.
+
+699
+00:26:48,240 --> 00:26:50,474
+You all right?
+To the rail. Now, now. Move it.
+
+700
+00:26:53,745 --> 00:26:55,579
+Now for the fireworks.
+
+701
+00:27:05,957 --> 00:27:07,658
+Booyah!
+
+702
+00:27:15,730 --> 00:27:18,130
+We got painted! Single rocket
+tracking us now! Slice right!
+
+703
+00:27:18,940 --> 00:27:21,006
+Verona, this is Romeo.
+We have been engaged.
+
+704
+00:27:21,491 --> 00:27:23,091
+Chopper's
+five miles out,
+
+705
+00:27:23,093 --> 00:27:24,559
+give them standard
+approach speed...
+
+706
+00:27:24,561 --> 00:27:26,228
+impact in 90 seconds.
+
+707
+00:27:28,798 --> 00:27:31,466
+You ever been scuba diving?
+
+708
+00:27:43,613 --> 00:27:44,846
+(Cabe grunts)
+
+709
+00:27:45,481 --> 00:27:46,381
+CHRISTOPH:
+Come on!
+
+710
+00:27:46,383 --> 00:27:47,515
+What are you
+standing around for?
+
+711
+00:27:47,517 --> 00:27:49,184
+Get them!
+
+712
+00:27:51,887 --> 00:27:53,989
+Okay. We gotta get
+in touch with Happy.
+
+713
+00:27:54,991 --> 00:27:57,626
+Happy, have you hacked
+into that destroyer yet?
+
+714
+00:27:57,628 --> 00:27:59,828
+How much time we got?
+45 seconds.
+
+715
+00:27:59,830 --> 00:28:01,830
+We got 45 seconds
+until that rocket
+
+716
+00:28:01,832 --> 00:28:03,498
+takes out a U.S.
+military helicopter.
+
+717
+00:28:03,500 --> 00:28:05,767
+Thank you for filling me in
+on the stakes now.
+
+718
+00:28:05,769 --> 00:28:06,901
+We're in the ship's
+weapons system,
+
+719
+00:28:06,903 --> 00:28:08,136
+but we need more time.
+
+720
+00:28:08,138 --> 00:28:09,337
+The Japanese are alerted
+
+721
+00:28:09,339 --> 00:28:10,438
+to our Trojan horse entry,
+
+722
+00:28:10,440 --> 00:28:12,040
+and they're
+throwing up firewalls.
+
+723
+00:28:12,042 --> 00:28:13,108
+We can't hack like Walter!
+
+724
+00:28:13,110 --> 00:28:14,376
+CABE:
+Just figure something out.
+
+725
+00:28:16,045 --> 00:28:17,979
+PILOT:
+<i>Rocket closing.</i>
+
+726
+00:28:17,981 --> 00:28:19,814
+1.8 miles.
+Alter our vector!
+
+727
+00:28:19,816 --> 00:28:21,416
+CABE:
+<i>This is Agent Cabe Gallo.</i>
+
+728
+00:28:21,418 --> 00:28:23,318
+If you want to live
+to tell this war story,
+
+729
+00:28:23,320 --> 00:28:24,886
+do exactly as I say.
+
+730
+00:28:24,888 --> 00:28:26,388
+We only have 30 seconds.
+
+731
+00:28:26,390 --> 00:28:28,290
+There's no time
+for evasive maneuvers.
+
+732
+00:28:28,292 --> 00:28:29,791
+Hold your course.
+
+733
+00:28:29,793 --> 00:28:30,892
+Do nothing?
+
+734
+00:28:30,894 --> 00:28:32,394
+CABE:
+The less you move,
+
+735
+00:28:32,396 --> 00:28:33,561
+the less the rocket moves.
+
+736
+00:28:33,563 --> 00:28:34,596
+We're gonna intercept it.
+
+737
+00:28:34,598 --> 00:28:35,797
+Using what?!
+
+738
+00:28:35,799 --> 00:28:37,899
+(alarms blaring)
+
+739
+00:28:37,901 --> 00:28:40,101
+(speaking Japanese)
+
+740
+00:28:46,409 --> 00:28:49,711
+Wow, you picked a hell of
+a day to ditch school, kid.
+
+741
+00:28:52,081 --> 00:28:53,682
+(missile launching)
+
+742
+00:28:55,685 --> 00:28:58,086
+CABE: Maintain your position,
+lieutenant!
+
+743
+00:29:02,792 --> 00:29:04,626
+Lieutenant...
+
+744
+00:29:05,861 --> 00:29:08,129
+Talk to me, guys.
+
+745
+00:29:08,131 --> 00:29:09,397
+We're good.
+
+746
+00:29:09,399 --> 00:29:10,532
+We're alive.
+
+747
+00:29:10,534 --> 00:29:12,767
+Can't say the same
+for our fuel line, though.
+
+748
+00:29:12,769 --> 00:29:14,869
+We shook up pretty bad.
+
+749
+00:29:14,871 --> 00:29:15,904
+We're pouring gas.
+
+750
+00:29:15,906 --> 00:29:17,138
+No chance we could
+make it to you.
+
+751
+00:29:17,140 --> 00:29:19,741
+Better come up with
+a plan "B," Walter.
+
+752
+00:29:21,911 --> 00:29:24,346
+How about a plan "C"?
+
+753
+00:29:25,648 --> 00:29:26,681
+THUG:
+Go, go, go.
+
+754
+00:29:26,683 --> 00:29:27,649
+WALTER:
+Okay.
+
+755
+00:29:27,651 --> 00:29:29,084
+CHRISTOPH:
+Here they are!
+
+756
+00:29:29,086 --> 00:29:31,820
+The men who cause us
+nothing but trouble.
+
+757
+00:29:31,822 --> 00:29:34,489
+In a few moments, the Navy's
+gonna send another helo,
+
+758
+00:29:34,491 --> 00:29:37,325
+so... you can tell me
+
+759
+00:29:37,327 --> 00:29:39,394
+what agencies
+you work for,
+
+760
+00:29:39,396 --> 00:29:41,329
+or you guys are going
+into the sea.
+
+761
+00:29:44,100 --> 00:29:45,533
+Well...
+
+762
+00:29:46,669 --> 00:29:48,937
+Yeah, we're, uh...
+
+763
+00:29:48,939 --> 00:29:50,271
+we're here working with...
+
+764
+00:29:51,707 --> 00:29:54,008
+(grunting)
+
+765
+00:30:00,916 --> 00:30:02,517
+Freeze! Hold it!
+
+766
+00:30:02,519 --> 00:30:04,886
+Hold it!
+Hold it right there!
+
+767
+00:30:04,888 --> 00:30:05,888
+Good work.
+
+768
+00:30:05,889 --> 00:30:07,255
+Give me the gun
+
+769
+00:30:07,257 --> 00:30:08,156
+and we'll put 'em in the hold.
+
+770
+00:30:08,158 --> 00:30:10,058
+Not exactly, Agent.
+Hey.
+
+771
+00:30:15,398 --> 00:30:16,998
+You're with Christoph.
+
+772
+00:30:17,000 --> 00:30:18,533
+No...
+
+773
+00:30:21,070 --> 00:30:22,504
+...he is Christoph.
+
+774
+00:30:24,039 --> 00:30:25,006
+Licensed captain,
+
+775
+00:30:25,008 --> 00:30:26,508
+legitimate
+commercial vessel,
+
+776
+00:30:26,510 --> 00:30:29,277
+minimal customs issues compared
+to big cruise liners...
+
+777
+00:30:29,279 --> 00:30:30,745
+It's perfect front
+for big weapons.
+
+778
+00:30:30,747 --> 00:30:31,747
+Yes.
+
+779
+00:30:31,748 --> 00:30:33,548
+It surely was.
+
+780
+00:30:33,550 --> 00:30:35,049
+Raul.
+
+781
+00:30:35,051 --> 00:30:36,084
+We've wasted
+enough time.
+
+782
+00:30:36,086 --> 00:30:38,353
+We need to get these rockets
+off the ship.
+
+783
+00:30:38,355 --> 00:30:39,320
+Grab the girl,
+
+784
+00:30:39,322 --> 00:30:40,755
+meet me on the lower deck.
+
+785
+00:30:43,259 --> 00:30:44,426
+Move!
+(screams)
+
+786
+00:30:44,428 --> 00:30:45,493
+Come with me.
+
+787
+00:30:45,495 --> 00:30:47,328
+Hey! Hey. Take me. Take me.
+Hey!
+
+788
+00:30:48,197 --> 00:30:49,898
+(passengers screaming)
+
+789
+00:30:49,900 --> 00:30:51,299
+Don't move.
+
+790
+00:30:51,301 --> 00:30:53,001
+Let's go.
+
+791
+00:30:59,542 --> 00:31:01,075
+(passengers exclaiming,
+shouting)
+
+792
+00:31:01,077 --> 00:31:03,611
+WOMAN 1:
+Hey! Get us out of here!
+
+793
+00:31:03,613 --> 00:31:04,813
+(indistinct shouting)
+
+794
+00:31:04,815 --> 00:31:06,047
+MAN:
+What's going on?
+
+795
+00:31:06,049 --> 00:31:07,081
+Okay.
+
+796
+00:31:07,083 --> 00:31:08,316
+MAN 2:
+We can't get out.
+
+797
+00:31:08,318 --> 00:31:09,484
+MAN:
+Wait, wait...
+
+798
+00:31:09,486 --> 00:31:11,653
+All right, okay.
+
+799
+00:31:16,325 --> 00:31:18,293
+Hold this.
+What the hell are you doing?
+
+800
+00:31:18,295 --> 00:31:20,862
+Chaz Bonesteel
+ain't going out like this.
+
+801
+00:31:21,831 --> 00:31:23,698
+(groans)
+
+802
+00:31:23,700 --> 00:31:25,967
+Okay.
+
+803
+00:31:25,969 --> 00:31:28,603
+Come on, Bonesteel.
+Come on, Bonesteel.
+
+804
+00:31:28,605 --> 00:31:30,638
+(panting):
+Okay.
+
+805
+00:31:37,646 --> 00:31:39,981
+I'm gonna need a boost.
+
+806
+00:31:40,749 --> 00:31:42,050
+PAIGE: Please, no.
+MAN: Come on.
+
+807
+00:31:42,052 --> 00:31:43,284
+Please, no.
+Let's go!
+
+808
+00:31:43,286 --> 00:31:44,586
+Get her in the raft.
+Come on!
+
+809
+00:31:44,588 --> 00:31:45,820
+We got to move fast.
+No.
+
+810
+00:31:45,822 --> 00:31:48,389
+Please, please.
+Let's go!
+
+811
+00:31:48,391 --> 00:31:50,358
+Hold on, hold on.
+You want to guarantee
+
+812
+00:31:50,360 --> 00:31:52,594
+they don't blow you out
+of the water? Take me.
+
+813
+00:31:52,596 --> 00:31:53,728
+Why is that?
+
+814
+00:31:53,730 --> 00:31:55,530
+I'm a high-value
+government asset.
+
+815
+00:31:55,532 --> 00:31:56,664
+You take me,
+
+816
+00:31:56,666 --> 00:31:58,266
+you'll have
+a fighting chance.
+
+817
+00:31:58,268 --> 00:31:59,501
+Let her go.
+
+818
+00:31:59,503 --> 00:32:01,469
+Walter, don't.
+
+819
+00:32:03,539 --> 00:32:05,273
+Right. Get on.
+
+820
+00:32:05,275 --> 00:32:07,108
+No!
+
+821
+00:32:08,644 --> 00:32:10,812
+MAN: Let's go!
+Walter.
+
+822
+00:32:16,452 --> 00:32:18,186
+CAINE:
+Let's go.
+
+823
+00:32:27,363 --> 00:32:30,431
+(grunting, panting)
+
+824
+00:32:30,433 --> 00:32:32,834
+CAINE (in distance):
+Come on. Move it!
+
+825
+00:32:46,982 --> 00:32:50,385
+You can do this.
+You can do this.
+
+826
+00:32:50,387 --> 00:32:52,487
+(grunting)
+
+827
+00:32:55,658 --> 00:32:58,393
+Bonesteel!
+
+828
+00:33:09,091 --> 00:33:10,959
+Wha...?
+
+829
+00:33:10,961 --> 00:33:12,794
+(brief burst of gunfire)
+
+830
+00:33:16,032 --> 00:33:17,733
+WALTER:
+Sly, where are you?
+
+831
+00:33:17,735 --> 00:33:20,703
+Ah, I... I'm tangled
+in the rope.
+
+832
+00:33:20,705 --> 00:33:21,937
+I can't get free.
+
+833
+00:33:23,573 --> 00:33:25,813
+SYLVESTER: It's dragging me
+back. It's dragging me under.
+
+834
+00:33:31,514 --> 00:33:34,116
+Oh, God.
+
+835
+00:33:34,118 --> 00:33:35,551
+Walter.
+
+836
+00:33:35,553 --> 00:33:37,987
+Walter, the suction from the
+propeller is pulling me in.
+
+837
+00:33:37,989 --> 00:33:39,955
+It's too strong.
+Hold on, buddy.
+
+838
+00:33:39,957 --> 00:33:41,790
+Hold on!
+Walter?
+
+839
+00:33:41,792 --> 00:33:43,692
+Walter.
+Sylvester!
+
+840
+00:33:43,694 --> 00:33:44,893
+You got to find the crew.
+
+841
+00:33:44,895 --> 00:33:46,528
+They need to shut off
+the propeller.
+
+842
+00:33:46,530 --> 00:33:48,831
+The crew's...
+
+843
+00:33:48,833 --> 00:33:50,366
+locked up.
+
+844
+00:33:50,368 --> 00:33:52,468
+Happy, I'm gonna need your help.
+
+845
+00:33:53,637 --> 00:33:56,805
+WALTER:
+Cabe! Cabe, where are you?
+
+846
+00:34:01,211 --> 00:34:02,544
+Cabe!
+
+847
+00:34:02,546 --> 00:34:03,712
+Cabe, Sylvester!
+
+848
+00:34:03,714 --> 00:34:05,281
+Here! Grab my hand.
+
+849
+00:34:05,283 --> 00:34:07,516
+Walter, it's pulling too strong.
+Cabe, don't let me go.
+
+850
+00:34:07,518 --> 00:34:10,052
+Hold on, kid! Grab my hand!
+Don't let me go.
+
+851
+00:34:10,054 --> 00:34:11,153
+Happy, I'm here.
+
+852
+00:34:11,155 --> 00:34:12,821
+HAPPY: Okay, take
+the throttles out of gear.
+
+853
+00:34:12,823 --> 00:34:14,990
+The control handles are in
+the middle of the panel.
+
+854
+00:34:14,992 --> 00:34:16,492
+(sighs)
+Okay, I see them.
+
+855
+00:34:16,494 --> 00:34:18,927
+Push them both down toward you.
+
+856
+00:34:18,929 --> 00:34:20,329
+CABE:
+Hold on, kid!
+
+857
+00:34:20,331 --> 00:34:22,498
+I don't think I'm gonna make it.
+Hold on!
+
+858
+00:34:23,566 --> 00:34:24,533
+It's not working.
+
+859
+00:34:24,535 --> 00:34:25,734
+HAPPY:
+Okay, you need to pull
+
+860
+00:34:25,736 --> 00:34:26,869
+the manual diesel kill switch.
+
+861
+00:34:26,871 --> 00:34:28,170
+There should be a handle
+on the floor somewhere.
+
+862
+00:34:28,172 --> 00:34:30,706
+Oh, I see it. Okay.
+
+863
+00:34:33,443 --> 00:34:34,443
+WALTER:
+Don't let go!
+
+864
+00:34:34,445 --> 00:34:35,477
+Come on.
+
+865
+00:34:35,479 --> 00:34:36,812
+(grunting)
+
+866
+00:34:38,848 --> 00:34:41,083
+(sighs)
+Thank God.
+
+867
+00:34:41,085 --> 00:34:43,018
+I got it.
+
+868
+00:34:43,020 --> 00:34:45,087
+It worked.
+
+869
+00:34:45,089 --> 00:34:46,588
+CABE:
+Take a breath, kid.
+
+870
+00:34:46,590 --> 00:34:47,890
+Everything's gonna
+be okay, pal.
+
+871
+00:34:47,892 --> 00:34:49,425
+(Sylvester panting)
+
+872
+00:34:49,427 --> 00:34:52,127
+Take it easy.
+Take it easy.
+
+873
+00:34:52,129 --> 00:34:54,697
+SYLVESTER:
+Cabe, watch out! (gasping)
+
+874
+00:34:54,699 --> 00:34:55,964
+You really screwed this up.
+
+875
+00:34:55,966 --> 00:34:59,068
+The people I promised
+those rockets to--
+
+876
+00:34:59,070 --> 00:35:02,071
+they're gonna take my life,
+so I'm gonna take yours.
+
+877
+00:35:02,073 --> 00:35:05,240
+(ship's horn blowing)
+
+878
+00:35:10,413 --> 00:35:12,247
+WALTER: No, you got it.
+You got it.
+
+879
+00:35:12,249 --> 00:35:14,416
+Was I right about boats?
+Yeah, probably.
+
+880
+00:35:14,418 --> 00:35:16,251
+I was right about boats.
+Yeah. Okay.
+
+881
+00:35:16,253 --> 00:35:17,753
+Yeah, you're
+right. Yeah.
+
+882
+00:35:17,755 --> 00:35:19,588
+(grunting)
+Okay.
+
+883
+00:35:19,590 --> 00:35:21,824
+PAIGE: <i>Yeah, we had</i>
+<i>an interesting day.</i>
+
+884
+00:35:21,826 --> 00:35:23,359
+<i>We were on a</i>
+
+885
+00:35:23,361 --> 00:35:25,461
+big, beautiful
+cruise ship, and, uh...
+
+886
+00:35:25,463 --> 00:35:27,563
+so, um...
+
+887
+00:35:29,199 --> 00:35:31,166
+So you really do work
+for the government.
+
+888
+00:35:31,168 --> 00:35:32,735
+Yep.
+
+889
+00:35:32,737 --> 00:35:36,538
+I, uh... always did
+tell you the truth,
+
+890
+00:35:36,540 --> 00:35:38,240
+so, um...
+
+891
+00:35:38,242 --> 00:35:41,210
+I was wondering if you
+could tell me the truth.
+
+892
+00:35:41,212 --> 00:35:43,312
+What could I do better
+
+893
+00:35:43,314 --> 00:35:46,515
+so that Th-the mistakes
+that I made with you...
+
+894
+00:35:46,517 --> 00:35:49,284
+that I-I don't make them again?
+
+895
+00:35:49,286 --> 00:35:51,620
+You are who you are.
+
+896
+00:35:51,622 --> 00:35:53,122
+But you're challenging
+
+897
+00:35:53,124 --> 00:35:55,858
+and sometimes
+impossible because
+
+898
+00:35:55,860 --> 00:35:58,827
+no woman can stimulate
+that mind of yours forever.
+
+899
+00:35:58,829 --> 00:36:00,429
+If you want honesty...
+
+900
+00:36:02,732 --> 00:36:05,834
+...after a while,
+you lost interest in me--
+
+901
+00:36:05,836 --> 00:36:08,971
+I could tell-- and that hurt.
+
+902
+00:36:10,173 --> 00:36:12,307
+Oh.
+
+903
+00:36:12,309 --> 00:36:14,910
+I'm sorry.
+
+904
+00:36:15,879 --> 00:36:18,781
+There's no malice in you,
+Walter.
+
+905
+00:36:18,783 --> 00:36:20,816
+Just facts.
+
+906
+00:36:20,818 --> 00:36:23,385
+And, um...
+
+907
+00:36:23,387 --> 00:36:24,953
+Things didn't go
+exactly like we planned.
+
+908
+00:36:24,955 --> 00:36:27,156
+...the fact is,
+
+909
+00:36:27,158 --> 00:36:29,792
+before you get involved
+with someone else,
+
+910
+00:36:29,794 --> 00:36:32,761
+make sure you can
+make a real connection.
+
+911
+00:36:32,763 --> 00:36:34,763
+It wouldn't be fair
+to her otherwise.
+
+912
+00:36:37,100 --> 00:36:39,134
+Take care of yourself.
+
+913
+00:36:46,543 --> 00:36:48,277
+Mm-hmm.
+
+914
+00:36:52,415 --> 00:36:54,917
+(sighs)
+You ready, Ralph?
+
+915
+00:36:54,919 --> 00:36:57,719
+Once I start this fire,
+there's no putting it out.
+
+916
+00:37:02,592 --> 00:37:04,293
+Back up. Let's go.
+Come on.
+
+917
+00:37:14,904 --> 00:37:16,271
+And...
+
+918
+00:37:16,273 --> 00:37:17,673
+there's the money.
+
+919
+00:37:21,044 --> 00:37:23,412
+Where's the lucky lady?
+
+920
+00:37:24,948 --> 00:37:26,648
+Well, I'm breaking
+about 12 laws right now,
+
+921
+00:37:26,650 --> 00:37:29,518
+so I suggest you talk to her
+while you can.
+
+922
+00:37:37,861 --> 00:37:39,895
+I'm gonna seal the deal
+for the kid.
+
+923
+00:37:39,897 --> 00:37:41,730
+(whooshing)
+
+924
+00:37:42,832 --> 00:37:45,434
+TOBY:
+Ah, crap.
+
+925
+00:37:46,336 --> 00:37:48,237
+"Love, Ralhp."
+
+926
+00:37:50,406 --> 00:37:53,408
+TOBY: Look at 'em.
+They're both content.
+
+927
+00:37:53,410 --> 00:37:56,645
+Love can be misspelled
+and messy, but it still works.
+
+928
+00:37:56,647 --> 00:37:58,914
+Just needs to be
+given a chance.
+
+929
+00:38:05,688 --> 00:38:08,257
+Oh, forget it.
+
+930
+00:38:22,906 --> 00:38:24,806
+Whoa, what are you doing?
+
+931
+00:38:24,808 --> 00:38:26,408
+Are you gonna punch me?
+
+932
+00:38:26,410 --> 00:38:28,176
+I don't think so.
+
+933
+00:38:28,178 --> 00:38:29,511
+Okay, then.
+
+934
+00:38:29,513 --> 00:38:31,580
+WOMAN:
+What is going on?!
+
+935
+00:38:31,582 --> 00:38:33,148
+This is extremely dangerous!
+
+936
+00:38:33,150 --> 00:38:35,017
+I have called the police.
+Damn it.
+
+937
+00:38:35,019 --> 00:38:36,885
+This cannot happen on school grounds!
+Let's go, Ralph.
+
+938
+00:38:36,887 --> 00:38:38,086
+What...?
+She called the fuzz.
+
+939
+00:38:38,088 --> 00:38:39,321
+What about Sloan?
+
+940
+00:38:39,323 --> 00:38:40,923
+Don't worry.
+Chicks dig outlaws.
+
+941
+00:38:40,925 --> 00:38:42,724
+Start the car!
+
+942
+00:38:42,726 --> 00:38:44,993
+♪ ♪
+
+943
+00:38:48,598 --> 00:38:49,898
+Hey.
+
+944
+00:38:50,667 --> 00:38:52,167
+Uh, are we
+still doing
+
+945
+00:38:52,169 --> 00:38:53,602
+that business dinner
+tomorrow night?
+
+946
+00:38:53,604 --> 00:38:55,404
+(sighs)
+
+947
+00:38:55,406 --> 00:38:56,872
+You know, um...
+
+948
+00:38:56,874 --> 00:38:59,575
+I've been thinking
+about that, now.
+
+949
+00:39:00,777 --> 00:39:03,879
+You've been working hard
+lately, and, uh...
+
+950
+00:39:03,881 --> 00:39:06,148
+I don't want to take up
+your Saturday.
+
+951
+00:39:06,150 --> 00:39:08,650
+If you think there's stuff
+we should go over...
+
+952
+00:39:08,652 --> 00:39:10,185
+You're an incredible asset
+to the team,
+
+953
+00:39:10,187 --> 00:39:11,620
+and I want what's best for you.
+
+954
+00:39:11,622 --> 00:39:13,355
+That's a weekend off.
+
+955
+00:39:13,357 --> 00:39:16,191
+Especially with a case
+like today.
+
+956
+00:39:17,226 --> 00:39:18,860
+Okay.
+
+957
+00:39:21,130 --> 00:39:22,397
+I'll see you Monday.
+
+958
+00:39:22,399 --> 00:39:23,865
+Monday.
+
+959
+00:39:36,713 --> 00:39:39,281
+Are you sending
+a valentine to Megan?
+
+960
+00:39:41,884 --> 00:39:44,086
+Why is that a secret?
+
+961
+00:39:44,088 --> 00:39:46,321
+(whispering):
+Because she's Walter's sister.
+
+962
+00:39:46,323 --> 00:39:47,823
+I know that.
+
+963
+00:39:47,825 --> 00:39:49,825
+So...
+
+964
+00:39:49,827 --> 00:39:51,259
+he's my boss
+
+965
+00:39:51,261 --> 00:39:52,861
+and my best friend.
+
+966
+00:39:52,863 --> 00:39:54,763
+And she's sweet,
+and you like her.
+
+967
+00:39:57,066 --> 00:39:58,533
+(sighs)
+
+968
+00:39:58,535 --> 00:40:00,969
+Chaz would send her
+that valentine.
+
+969
+00:40:04,807 --> 00:40:06,274
+Hey, soda?
+
+970
+00:40:06,276 --> 00:40:08,910
+Figured we, uh,
+order some pizza,
+
+971
+00:40:08,912 --> 00:40:10,345
+pull an all-nighter
+on this thing,
+
+972
+00:40:10,347 --> 00:40:11,880
+you know, like the old days.
+
+973
+00:40:11,882 --> 00:40:14,850
+You know,
+normally I'd love to, but...
+
+974
+00:40:14,852 --> 00:40:17,285
+I think I need to see
+someone tonight.
+
+975
+00:40:17,287 --> 00:40:19,187
+Oh, Valentine's.
+
+976
+00:40:19,189 --> 00:40:20,656
+Ah.
+
+977
+00:40:20,658 --> 00:40:21,790
+Who's the girl?
+
+978
+00:40:23,159 --> 00:40:24,593
+It's early stages.
+
+979
+00:40:24,595 --> 00:40:27,429
+I didn't think you went
+for the sappy holidays, buddy.
+
+980
+00:40:27,431 --> 00:40:29,498
+(chuckles)
+Yeah.
+
+981
+00:40:29,500 --> 00:40:31,500
+Whoever she is, she's, uh...
+
+982
+00:40:31,502 --> 00:40:33,335
+she's lucky to have
+a guy like you.
+
+983
+00:40:33,337 --> 00:40:35,070
+You mean that?
+
+984
+00:40:35,072 --> 00:40:36,872
+Uh-huh. Of course.
+
+985
+00:40:36,874 --> 00:40:40,075
+There's a reservation
+at 8:00 at Escala,
+
+986
+00:40:40,077 --> 00:40:41,810
+in my name, for tomorrow.
+
+987
+00:40:41,812 --> 00:40:43,245
+You should take her.
+
+988
+00:40:43,247 --> 00:40:45,480
+Thank you, Walter.
+
+989
+00:40:46,816 --> 00:40:48,583
+Have a good night.
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

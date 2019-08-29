@@ -1,0 +1,4091 @@
+﻿1
+00:00:05,688 --> 00:00:07,289
+<i>My name is Walter O'Brien.</i>
+
+2
+00:00:07,291 --> 00:00:11,726
+<i>I have the fourth highest IQ</i>
+<i><i><i>ever recorded: 197.</i>
+
+3
+00:00:11,728 --> 00:00:13,461
+<i>Einstein's was 160.</i>
+
+4
+00:00:13,463 --> 00:00:15,997
+<i>When I was 11,
+the FBI</i> <i>arrested me for hacking NASA</i>
+
+5
+00:00:15,999 --> 00:00:18,700
+<i>to get their blueprints</i> <i>for my bedroom wall.</i>
+
+6
+00:00:18,702 --> 00:00:20,935
+<i>Now I run a team of geniuses,</i>
+
+7
+00:00:20,937 --> 00:00:22,404
+<i>tackling worldwide threats</i>
+
+8
+00:00:22,406 --> 00:00:23,938
+<i>only we can solve.</i>
+
+9
+00:00:23,940 --> 00:00:25,673
+<i>Toby's our behaviorist.</i>
+
+10
+00:00:25,675 --> 00:00:27,442
+<i>Sylvester's a human calculator.</i>
+
+11
+00:00:27,444 --> 00:00:29,844
+<i>Happy, a mechanical prodigy.</i>
+
+12
+00:00:29,846 --> 00:00:32,080
+<i>Agent Cabe Gallo's</i> <i>our government handler.</i>
+
+13
+00:00:32,082 --> 00:00:33,114
+<i>And Paige?</i>
+
+14
+00:00:33,116 --> 00:00:34,315
+<i>Well, Paige isn't like us.</i>
+
+15
+00:00:34,317 --> 00:00:35,416
+<i>She's normal</i>
+
+16
+00:00:35,418 --> 00:00:36,751
+<i>and translates the world for us</i>
+
+17
+00:00:36,753 --> 00:00:38,052
+<i>while we help her understand</i>
+
+18
+00:00:38,054 --> 00:00:39,354
+<i>her genius son.</i>
+
+19
+00:00:39,356 --> 00:00:41,422
+<i>Together, we are Scorpion.</i>
+
+20
+00:00:42,625 --> 00:00:46,494
+<i>Of the six</i> three-digit integers
+
+21
+00:00:46,496 --> 00:00:47,996
+on the board,
+
+22
+00:00:47,998 --> 00:00:49,931
+which are divisible by four?
+
+23
+00:00:49,933 --> 00:00:51,566
+O'Brien! All of them.
+
+24
+00:00:51,568 --> 00:00:55,236
+Not even in the outer reaches of Pluto,
+
+25
+00:00:55,238 --> 00:00:57,772
+where you generally reside,
+
+26
+00:00:57,774 --> 00:01:00,241
+is 703 divisible by four.
+
+27
+00:01:00,243 --> 00:01:05,012
+703 divided by four is 175.75.
+
+28
+00:01:05,014 --> 00:01:07,348
+They can all be divided by four,
+
+29
+00:01:07,350 --> 00:01:09,083
+just with the remainders.
+
+30
+00:01:10,185 --> 00:01:12,019
+You didn't define your terms.
+
+31
+00:01:17,226 --> 00:01:18,192
+O'Brien!
+
+32
+00:01:18,194 --> 00:01:20,361
+Stay.
+
+33
+00:01:26,268 --> 00:01:29,103
+You show a growing disdain for authority.
+
+34
+00:01:29,105 --> 00:01:30,704
+It's concerning.
+
+35
+00:01:30,706 --> 00:01:32,506
+Hands on the desk.
+
+36
+00:01:33,742 --> 00:01:36,377
+Hands on the desk.
+
+37
+00:01:41,184 --> 00:01:43,325
+There's no drill scheduled.
+
+38
+00:01:43,821 --> 00:01:45,420
+Move out, O'Brien.
+
+39
+00:01:51,926 --> 00:01:54,486
+Walter. Let's go.
+
+40
+00:01:57,465 --> 00:01:59,433
+You could get arrested for
+pulling the fire alarm.
+
+41
+00:01:59,435 --> 00:02:01,268
+He should get arrested
+for daring to strike you.
+
+42
+00:02:01,270 --> 00:02:02,369
+He'll just call Dad.
+
+43
+00:02:02,371 --> 00:02:03,904
+I'll take care of that, too.
+
+44
+00:02:03,906 --> 00:02:05,939
+Megan, someday I'll pay you back.
+
+45
+00:02:05,941 --> 00:02:07,141
+I'll take a Lamborghini,
+
+46
+00:02:07,143 --> 00:02:08,742
+bright yellow.
+
+47
+00:02:08,744 --> 00:02:10,024
+Race ya!
+
+48
+00:02:29,898 --> 00:02:30,997
+Sorry I'm late.
+
+49
+00:02:30,999 --> 00:02:32,699
+Uh, Ralph's sick again.
+
+50
+00:02:32,701 --> 00:02:34,568
+That's two days in a row, huh, pal?
+
+51
+00:02:34,570 --> 00:02:35,902
+Yeah, his fever won't break.
+
+52
+00:02:35,904 --> 00:02:37,337
+I'm gonna take him to the doctor at 10:00
+
+53
+00:02:37,339 --> 00:02:38,505
+and then my neighbor can watch him.
+
+54
+00:02:38,507 --> 00:02:41,041
+- If that's okay?
+- Mm-hmm.
+
+55
+00:02:41,043 --> 00:02:42,709
+Are you okay? You don't look so...
+
+56
+00:02:42,711 --> 00:02:43,944
+Never been healthier.
+
+57
+00:02:45,112 --> 00:02:46,880
+So... mail arrived.
+
+58
+00:02:46,882 --> 00:02:49,583
+Menus and... paychecks.
+
+59
+00:02:50,249 --> 00:02:52,285
+Mo' money. Mo' problems.
+
+60
+00:02:52,287 --> 00:02:53,653
+Or so I've heard in the rapper song.
+
+61
+00:02:53,631 --> 00:02:56,232
+Well, rappers may have 99 or so problems
+
+62
+00:02:56,258 --> 00:02:58,591
+but misplacing paychecks is not one of them.
+
+63
+00:02:58,593 --> 00:03:00,427
+LAX cleared our debt.
+
+64
+00:03:00,429 --> 00:03:01,728
+This is our first fresh cash.
+
+65
+00:03:01,730 --> 00:03:04,064
+Toby, are you gonna be okay with this?
+
+66
+00:03:04,066 --> 00:03:05,331
+I'm way ahead of you.
+
+67
+00:03:05,333 --> 00:03:07,300
+High stress levels triggers
+my gambling addictions.
+
+68
+00:03:07,302 --> 00:03:09,636
+If my levels go up...
+
+69
+00:03:10,906 --> 00:03:13,907
+See, it reminds me I'm being a jackass.
+
+70
+00:03:13,909 --> 00:03:15,208
+Hell, I could do that for you.
+
+71
+00:03:16,477 --> 00:03:17,443
+I'll be upstairs.
+
+72
+00:03:17,445 --> 00:03:19,145
+Hey, seriously, what's wrong?
+
+73
+00:03:19,147 --> 00:03:20,113
+I'm fine.
+
+74
+00:03:20,115 --> 00:03:21,981
+Clearly.
+
+75
+00:03:24,693 --> 00:03:27,820
+So is Ralph by the way.
+
+76
+00:03:27,822 --> 00:03:29,689
+Yep.
+
+77
+00:03:29,691 --> 00:03:31,224
+He hacked the thermometer.
+
+78
+00:03:31,226 --> 00:03:33,192
+Recalibrated the digital display.
+
+79
+00:03:33,194 --> 00:03:35,495
+He did what? Ralph?
+
+80
+00:03:35,497 --> 00:03:36,996
+He hates school.
+
+81
+00:03:36,998 --> 00:03:38,498
+We all did.
+
+82
+00:03:38,500 --> 00:03:41,501
+Especially those of us
+with math proficiency.
+
+83
+00:03:42,469 --> 00:03:44,704
+You know, to get through the day,
+
+84
+00:03:44,706 --> 00:03:46,239
+I would look at the clock
+
+85
+00:03:46,241 --> 00:03:47,573
+and I'd create formulas
+
+86
+00:03:47,575 --> 00:03:49,142
+expressing trigonomic functions
+
+87
+00:03:49,144 --> 00:03:50,543
+based on the clock hands.
+
+88
+00:03:50,545 --> 00:03:52,979
+My sister suggested that
+to me a long time ago.
+
+89
+00:03:52,981 --> 00:03:54,513
+Oh, I didn't know you had a sister.
+
+90
+00:03:54,515 --> 00:03:56,082
+Is she...
+
+91
+00:03:56,084 --> 00:03:57,283
+enabled, too?
+
+92
+00:03:57,285 --> 00:03:58,484
+Not like us.
+
+93
+00:03:58,486 --> 00:04:00,486
+But in her own way.
+
+94
+00:04:04,459 --> 00:04:06,592
+Ralph... backpack.
+
+95
+00:04:08,729 --> 00:04:10,096
+What's his story today?
+
+96
+00:04:10,098 --> 00:04:11,530
+Don't know. But that is only
+
+97
+00:04:11,532 --> 00:04:13,466
+the second time he's ever
+mentioned his sister.
+
+98
+00:04:16,369 --> 00:04:18,971
+Still stalking your ex-wife?
+
+99
+00:04:18,973 --> 00:04:20,773
+Ex-fiancée.
+
+100
+00:04:20,775 --> 00:04:22,007
+And I am not "stalking."
+
+101
+00:04:22,009 --> 00:04:22,842
+I'm keeping current.
+
+102
+00:04:22,844 --> 00:04:24,410
+- Uh-huh.
+- Cabe called.
+
+103
+00:04:24,412 --> 00:04:26,345
+We're all going to meet
+the governor of California.
+
+104
+00:04:26,347 --> 00:04:27,847
+My back-tax status
+
+105
+00:04:27,849 --> 00:04:28,948
+with the state isn't exactly
+
+106
+00:04:28,950 --> 00:04:30,049
+what you'd call good.
+
+107
+00:04:30,051 --> 00:04:31,216
+What's this about?
+
+108
+00:04:31,218 --> 00:04:32,718
+He said hurry, all right? So let's hurry.
+
+109
+00:04:33,297 --> 00:04:35,254
+Paige, Ralph's school is on the way,
+
+110
+00:04:35,256 --> 00:04:36,388
+so we'll drop him off.
+
+111
+00:04:36,390 --> 00:04:37,589
+Come on, guys!
+
+112
+00:04:44,431 --> 00:04:46,265
+The new car rides nice.
+
+113
+00:04:46,267 --> 00:04:48,100
+Steady paycheck equals safe car for my kid.
+
+114
+00:04:48,102 --> 00:04:49,401
+Heavy security.
+
+115
+00:04:49,403 --> 00:04:51,671
+Way more than you'd expect
+for the governor.
+
+116
+00:04:51,697 --> 00:04:53,238
+Walter, why is there a van
+
+117
+00:04:53,240 --> 00:04:54,841
+from the Center for Disease Control here?
+
+118
+00:04:54,842 --> 00:04:55,874
+I don't know.
+
+119
+00:04:55,876 --> 00:04:56,975
+We'll find out pretty soon.
+
+120
+00:04:56,977 --> 00:04:58,143
+Uh, they handle diseases that
+
+121
+00:04:58,145 --> 00:04:59,645
+wipe out civilizations.
+
+122
+00:04:59,647 --> 00:05:01,246
+Diseases that have no cure.
+
+123
+00:05:01,248 --> 00:05:02,114
+And they're, they're here.
+
+124
+00:05:02,116 --> 00:05:03,615
+It's gonna be fine, come on.
+
+125
+00:05:03,617 --> 00:05:05,751
+Good, you're here. Follow me.
+
+126
+00:05:05,753 --> 00:05:07,986
+Wait, why are you wearing a
+surgical mask around your neck?
+
+127
+00:05:07,988 --> 00:05:09,454
+What exactly are you
+protecting yourself from?
+
+128
+00:05:09,456 --> 00:05:10,455
+Relax.
+
+129
+00:05:10,457 --> 00:05:11,890
+They put up a quarantine tent.
+
+130
+00:05:11,892 --> 00:05:14,426
+A quarantine tent?
+
+131
+00:05:14,428 --> 00:05:15,660
+I will be in the car.
+
+132
+00:05:15,662 --> 00:05:17,796
+Uh, Mr. Gallo, sir?
+
+133
+00:05:17,798 --> 00:05:18,930
+Is there a very terrible,
+
+134
+00:05:18,932 --> 00:05:20,065
+possibly communicable disease in this home?
+
+135
+00:05:21,468 --> 00:05:22,601
+Sorry.
+
+136
+00:05:22,603 --> 00:05:24,603
+Stress levels are a tad elevated right now.
+
+137
+00:05:24,605 --> 00:05:27,272
+Weird, phone's off but
+I still hear a donkey.
+
+138
+00:05:27,274 --> 00:05:29,274
+Today's not the
+day to be screwing off.
+
+139
+00:05:29,276 --> 00:05:30,516
+You two go wait with Sylvester.
+
+140
+00:05:41,754 --> 00:05:44,022
+There's a computer I need you to look at.
+
+141
+00:05:46,559 --> 00:05:48,193
+That poor little girl.
+
+142
+00:06:03,648 --> 00:06:04,647
+Who's that kid?
+
+143
+00:06:04,649 --> 00:06:06,049
+That's a need-to-know.
+
+144
+00:06:06,051 --> 00:06:08,218
+You know, what I need to know
+
+145
+00:06:08,220 --> 00:06:09,652
+is exactly what's going on.
+
+146
+00:06:09,654 --> 00:06:10,920
+Otherwise, I can't help.
+
+147
+00:06:11,956 --> 00:06:13,790
+Guys, this is Governor Lane.
+
+148
+00:06:13,792 --> 00:06:15,625
+This is the man who can help my daughter?
+
+149
+00:06:15,627 --> 00:06:16,759
+I'm gonna need to know
+
+150
+00:06:16,761 --> 00:06:17,794
+everything that's happening here.
+
+151
+00:06:17,796 --> 00:06:19,362
+So governmental habits
+
+152
+00:06:19,364 --> 00:06:21,531
+of proprietary knowledge and
+"need to know..."
+
+153
+00:06:21,533 --> 00:06:22,732
+Jettison that nonsense
+
+154
+00:06:22,734 --> 00:06:24,701
+or my efforts to help your child
+
+155
+00:06:24,703 --> 00:06:25,802
+will be hampered.
+
+156
+00:06:25,804 --> 00:06:27,637
+You have to forgive Mr. O'Brien.
+
+157
+00:06:27,639 --> 00:06:29,572
+He's brilliant but impolitic.
+
+158
+00:06:29,574 --> 00:06:31,207
+Don't care what he is,
+
+159
+00:06:31,209 --> 00:06:32,575
+long as he helps.
+
+160
+00:06:32,577 --> 00:06:33,876
+In here...
+
+161
+00:06:33,878 --> 00:06:36,346
+We're really not trying to hamper anyone,
+
+162
+00:06:36,348 --> 00:06:38,514
+but if the public hears "unknown virus,"
+
+163
+00:06:38,516 --> 00:06:39,816
+it could cause panic.
+
+164
+00:06:39,818 --> 00:06:42,251
+Especially if there's
+a political motivation.
+
+165
+00:06:42,253 --> 00:06:44,220
+What kind of virus?
+
+166
+00:06:44,222 --> 00:06:45,621
+She tested negative for Hanta,
+
+167
+00:06:45,623 --> 00:06:47,190
+Rift Valley, Ebola...
+
+168
+00:06:47,192 --> 00:06:49,392
+- Eastern equine encephalitis? 
+- Also negative.
+
+169
+00:06:49,394 --> 00:06:53,396
+She's only positive for the common cold.
+
+170
+00:06:53,398 --> 00:06:54,564
+The CDC has a database
+
+171
+00:06:54,566 --> 00:06:56,699
+of the rarest infective agents in the world.
+
+172
+00:06:56,701 --> 00:06:57,900
+They're searching.
+
+173
+00:06:57,902 --> 00:06:59,235
+Yeah, but while they search,
+
+174
+00:06:59,237 --> 00:07:01,237
+Helena's kidneys, liver,
+all shutting down.
+
+175
+00:07:01,239 --> 00:07:03,799
+Her fever's cli...
+
+176
+00:07:05,108 --> 00:07:06,442
+How long?
+
+177
+00:07:07,577 --> 00:07:09,145
+Doctors said she has
+
+178
+00:07:09,147 --> 00:07:11,509
+- less than 24 hours.
+- This is a medical problem.
+
+179
+00:07:11,535 --> 00:07:13,268
+- Why am I here?
+- First of all,
+
+180
+00:07:13,270 --> 00:07:16,271
+Governor, we're so sorry
+this is happening to you.
+
+181
+00:07:16,273 --> 00:07:18,506
+I have a child, too,
+
+182
+00:07:18,508 --> 00:07:20,508
+and I can't imagine how you feel.
+
+183
+00:07:20,510 --> 00:07:22,277
+All we want to do is help.
+
+184
+00:07:24,013 --> 00:07:25,547
+Thank you.
+
+185
+00:07:25,549 --> 00:07:26,829
+Come with me.
+
+186
+00:07:34,390 --> 00:07:35,724
+We found this virus
+
+187
+00:07:35,726 --> 00:07:37,592
+on Helena's laptop a few hours ago.
+
+188
+00:07:37,594 --> 00:07:39,494
+Based on this, we're working
+on the assumption
+
+189
+00:07:39,496 --> 00:07:41,763
+that someone made Helena sick intentionally.
+
+190
+00:07:41,765 --> 00:07:43,164
+Targeting you, no doubt.
+
+191
+00:07:43,166 --> 00:07:44,165
+Any idea why?
+
+192
+00:07:44,167 --> 00:07:46,034
+Immigration reform? Three strikes?
+
+193
+00:07:46,036 --> 00:07:47,769
+Those are my hot-button issues,
+
+194
+00:07:47,771 --> 00:07:50,271
+but would they prompt this kind
+of hostility against my kid?
+
+195
+00:07:50,273 --> 00:07:52,440
+We're compiling all threats,
+past and present.
+
+196
+00:07:52,442 --> 00:07:53,942
+The FBI, NSA,
+
+197
+00:07:53,944 --> 00:07:56,077
+Homeland, all the top computer guys
+
+198
+00:07:56,079 --> 00:07:58,146
+been trying to trace the sender.
+
+199
+00:07:58,148 --> 00:08:00,581
+The source bounced around to 15 countries.
+
+200
+00:08:00,583 --> 00:08:01,549
+We hit a wall.
+
+201
+00:08:01,551 --> 00:08:02,917
+Agent Gallo said that you
+
+202
+00:08:02,919 --> 00:08:04,018
+and your team were brilliant.
+
+203
+00:08:04,020 --> 00:08:05,987
+That you could find out who sent it.
+
+204
+00:08:05,989 --> 00:08:07,155
+All right.
+
+205
+00:08:07,157 --> 00:08:10,158
+All of your devices are
+on the same home network?
+
+206
+00:08:10,160 --> 00:08:11,192
+Yeah.
+
+207
+00:08:11,194 --> 00:08:12,460
+Any other computer
+
+208
+00:08:12,462 --> 00:08:13,428
+have this virus?
+
+209
+00:08:13,430 --> 00:08:14,595
+No.
+
+210
+00:08:14,597 --> 00:08:16,864
+Okay, so he directed the virus
+
+211
+00:08:16,866 --> 00:08:18,866
+to just Helena's computer.
+
+212
+00:08:18,868 --> 00:08:20,134
+Anybody else in the house sick?
+
+213
+00:08:20,136 --> 00:08:21,869
+- No.
+- So...
+
+214
+00:08:21,871 --> 00:08:23,871
+you, your wife and your staff...
+
+215
+00:08:23,873 --> 00:08:25,139
+they've all been in her proximity?
+
+216
+00:08:25,141 --> 00:08:26,374
+Yes. What are you getting at?
+
+217
+00:08:26,376 --> 00:08:27,475
+Well, he could have taken out
+
+218
+00:08:27,477 --> 00:08:29,043
+the whole home network,
+
+219
+00:08:29,045 --> 00:08:32,446
+but he directed the computer
+virus at just your child.
+
+220
+00:08:32,448 --> 00:08:33,914
+I don't think it's a coincidence
+
+221
+00:08:33,916 --> 00:08:35,449
+that no one else but Helena is ill.
+
+222
+00:08:35,451 --> 00:08:37,985
+Wait, wait. What does this mean?
+
+223
+00:08:37,987 --> 00:08:40,187
+Give the girl some cool air.
+She's hot enough.
+
+224
+00:08:40,189 --> 00:08:41,622
+What are you doing?
+
+225
+00:08:41,624 --> 00:08:43,157
+No!
+
+226
+00:08:44,259 --> 00:08:45,359
+You can't catch it.
+
+227
+00:08:45,361 --> 00:08:46,727
+None of us can.
+
+228
+00:08:46,729 --> 00:08:48,229
+The virus he placed on the computer
+
+229
+00:08:48,231 --> 00:08:49,630
+is custom-built.
+
+230
+00:08:49,632 --> 00:08:50,998
+He did the same with your daughter,
+
+231
+00:08:51,000 --> 00:08:53,133
+- or why is no one else ill?
+- You're saying
+
+232
+00:08:53,135 --> 00:08:54,702
+he custom-built a virus
+
+233
+00:08:54,704 --> 00:08:56,305
+that would make just this child sick?
+
+234
+00:08:56,331 --> 00:08:58,138
+Yeah. There's computer hacking,
+
+235
+00:08:58,140 --> 00:08:59,506
+and more recently, there's biohacking.
+
+236
+00:08:59,508 --> 00:09:00,941
+Now, whoever infected
+
+237
+00:09:00,943 --> 00:09:03,310
+the computer also infected your daughter.
+
+238
+00:09:03,312 --> 00:09:04,979
+Until we find that person
+
+239
+00:09:04,981 --> 00:09:07,614
+and know exactly what
+biological agent he used,
+
+240
+00:09:07,616 --> 00:09:09,316
+there's not gonna be any hope for a cure.
+
+241
+00:09:09,318 --> 00:09:10,818
+Wait, wait, wait. Where are you going?
+
+242
+00:09:10,820 --> 00:09:13,053
+You can't just drop a
+theory like that and leave.
+
+243
+00:09:13,055 --> 00:09:14,555
+Governor, the helplessness you feel
+
+244
+00:09:14,557 --> 00:09:16,390
+will incline you to irrational behavior.
+
+245
+00:09:16,392 --> 00:09:18,058
+So please,
+
+246
+00:09:18,060 --> 00:09:20,694
+resist the temptation to do anything stupid,
+
+247
+00:09:20,696 --> 00:09:22,162
+like standing in my way.
+
+248
+00:09:22,164 --> 00:09:24,431
+Let me do my job.
+
+249
+00:09:32,936 --> 00:09:37,615
+sync and corrections by <font color="#FF0000">dreaMaker7</font>
+www.addic7ed.com
+
+250
+00:09:43,459 --> 00:09:44,692
+I checked the AVG scanner,
+
+251
+00:09:44,694 --> 00:09:45,994
+came up with nothing.
+
+252
+00:09:45,996 --> 00:09:48,229
+If we can find a signature
+
+253
+00:09:48,231 --> 00:09:49,364
+in the viral code,
+
+254
+00:09:49,366 --> 00:09:50,498
+it'll tell us who sent it.
+
+255
+00:09:50,500 --> 00:09:51,499
+Meaning we have nothing.
+
+256
+00:09:51,501 --> 00:09:53,034
+So far, Walt.
+
+257
+00:09:53,036 --> 00:09:54,202
+Keep your shorts on.
+
+258
+00:09:54,204 --> 00:09:55,803
+Governor's had
+
+259
+00:09:55,805 --> 00:09:57,805
+ten distinct threats
+since he took the office.
+
+260
+00:09:57,807 --> 00:09:59,107
+Four of the perps are locked up,
+
+261
+00:09:59,109 --> 00:10:01,761
+- thus leaving six. 
+- Guillermo Flacos?
+
+262
+00:10:01,787 --> 00:10:04,488
+This is way too subtle
+for a Mexican drug lord.
+
+263
+00:10:04,490 --> 00:10:06,023
+Oh, announcing your intent via e-mail?
+
+264
+00:10:06,025 --> 00:10:06,957
+That's too subtle?
+
+265
+00:10:06,959 --> 00:10:08,559
+Personally, I would keep digging.
+
+266
+00:10:08,561 --> 00:10:09,560
+Any on the list
+
+267
+00:10:09,562 --> 00:10:10,828
+have computer proficiency
+
+268
+00:10:10,830 --> 00:10:12,629
+<i>and</i> a knowledge of biophysics?
+
+269
+00:10:12,631 --> 00:10:14,064
+Well, that'll probably
+narrow our list down to zero,
+
+270
+00:10:14,066 --> 00:10:14,998
+but we'll keep digging.
+
+271
+00:10:15,000 --> 00:10:16,700
+What I want to understand is
+
+272
+00:10:16,702 --> 00:10:18,802
+how you hack into a human being.
+
+273
+00:10:18,804 --> 00:10:20,404
+I get your DNA from anywhere...
+a coffee cup,
+
+274
+00:10:20,406 --> 00:10:21,672
+a piece of gum...
+
+275
+00:10:21,674 --> 00:10:22,973
+and then I study your genetics
+
+276
+00:10:22,975 --> 00:10:25,475
+for a deficiency... say, uh, lung disease...
+
+277
+00:10:25,477 --> 00:10:26,943
+and then I harness that genetic sequence
+
+278
+00:10:26,945 --> 00:10:29,279
+onto a cold virus and
+I blow it in your face.
+
+279
+00:10:29,281 --> 00:10:30,947
+Or into the air around you.
+
+280
+00:10:30,949 --> 00:10:31,948
+Toby, anything?
+
+281
+00:10:31,950 --> 00:10:32,949
+I traced the computer virus' code...
+
+282
+00:10:32,951 --> 00:10:34,317
+Russia, China, Serbia.
+
+283
+00:10:34,319 --> 00:10:35,786
+It's no wonder the
+government couldn't crack it.
+
+284
+00:10:35,788 --> 00:10:37,454
+It uses none of the known building blocks.
+
+285
+00:10:37,456 --> 00:10:38,655
+That's where you leave it, huh?
+
+286
+00:10:38,657 --> 00:10:39,956
+With a young girl dying.
+
+287
+00:10:42,894 --> 00:10:45,562
+All right, trace the IP header.
+
+288
+00:10:45,564 --> 00:10:46,997
+Study it for patterns.
+
+289
+00:10:46,999 --> 00:10:49,032
+Maybe that'll get us somewhere.
+
+290
+00:10:56,701 --> 00:10:59,099
+Don't say "I'm fine."
+
+291
+00:10:59,125 --> 00:11:00,950
+I was gonna say "I'll live."
+
+292
+00:11:01,064 --> 00:11:02,230
+What's eating you?
+
+293
+00:11:02,232 --> 00:11:03,865
+You're acting... I'm...
+
+294
+00:11:03,867 --> 00:11:06,267
+I'm tempted to use the word "emotional."
+
+295
+00:11:06,269 --> 00:11:09,570
+Particularly challenging problems create...
+
+296
+00:11:09,572 --> 00:11:11,505
+impatience.
+
+297
+00:11:11,507 --> 00:11:13,841
+But you were already off this
+morning when you came in.
+
+298
+00:11:13,843 --> 00:11:15,209
+You only became "impatient"
+
+299
+00:11:15,211 --> 00:11:17,144
+when you saw that little girl in her bed.
+
+300
+00:11:17,146 --> 00:11:19,280
+Yeah, she reminded me of a
+problem I couldn't solve.
+
+301
+00:11:19,282 --> 00:11:21,482
+You realize the more evasive you are,
+the more I'll press.
+
+302
+00:11:21,484 --> 00:11:22,608
+All right.
+
+303
+00:11:22,610 --> 00:11:27,764
+As a child my, uh, sister got sick.
+
+304
+00:11:27,790 --> 00:11:29,090
+She survived.
+
+305
+00:11:29,092 --> 00:11:30,224
+She's fine.
+
+306
+00:11:30,226 --> 00:11:33,127
+Like you, all day.
+
+307
+00:11:33,129 --> 00:11:35,629
+All right, you know what?
+I couldn't help her.
+
+308
+00:11:35,631 --> 00:11:37,198
+It felt like she was being beaten,
+
+309
+00:11:37,200 --> 00:11:38,899
+and I was handcuffed.
+
+310
+00:11:38,901 --> 00:11:40,467
+I couldn't solve her problem.
+
+311
+00:11:40,469 --> 00:11:43,771
+And that's how you felt,
+seeing that girl today?
+
+312
+00:11:43,773 --> 00:11:45,639
+Walter!
+
+313
+00:11:45,641 --> 00:11:48,272
+- We've got something!
+- Thank you for the bandage.
+
+314
+00:11:48,298 --> 00:11:49,943
+All right, hide the mugs,
+
+315
+00:11:49,945 --> 00:11:52,079
+I'm coming down!
+
+316
+00:12:13,038 --> 00:12:16,354
+Okay, so we've successfully
+mirrored the infected laptop.
+
+317
+00:12:16,380 --> 00:12:18,347
+The good news is... we traced the e-mail.
+
+318
+00:12:18,349 --> 00:12:19,581
+The bad news... it doesn't justoue off
+
+319
+00:12:19,583 --> 00:12:20,782
+a few servers around the world.
+
+320
+00:12:20,784 --> 00:12:22,417
+It's caught in an endless loop.
+
+321
+00:12:22,419 --> 00:12:24,186
+That is a dirty one, it's a good one.
+
+322
+00:12:24,188 --> 00:12:27,456
+They're using a round-robin
+on an IP address,
+
+323
+00:12:27,458 --> 00:12:30,158
+but it's too clever by half.
+It narrows the source.
+
+324
+00:12:30,160 --> 00:12:33,395
+There's a pattern in the routing data.
+You see that prefix?
+
+325
+00:12:33,397 --> 00:12:36,331
+I know the place that uses this trick
+
+326
+00:12:36,333 --> 00:12:38,233
+to mask their e-mail origins.
+
+327
+00:12:38,235 --> 00:12:39,515
+Let's go.
+
+328
+00:12:50,847 --> 00:12:52,380
+The sophistication
+of the e-mail sent
+
+329
+00:12:52,382 --> 00:12:54,549
+to the governor's daughter
+stamps of this place.
+
+330
+00:12:54,551 --> 00:12:56,585
+It's a known hacker petri dish.
+
+331
+00:12:56,587 --> 00:12:58,520
+One guy makes an
+advancement in deception,
+
+332
+00:12:58,522 --> 00:13:00,055
+passes it on to another guy.
+
+333
+00:13:00,057 --> 00:13:02,757
+It's how Silk Road stayed
+online for so long.
+
+334
+00:13:02,759 --> 00:13:04,926
+You know that how?
+
+335
+00:13:06,963 --> 00:13:09,631
+I think we both take the Fifth on that.
+
+336
+00:13:14,236 --> 00:13:16,371
+Hey! Kill the music!
+
+337
+00:13:16,373 --> 00:13:17,972
+Homeland Security!
+
+338
+00:13:18,499 --> 00:13:20,842
+I'm looking for the scumbag that sent
+
+339
+00:13:20,844 --> 00:13:23,545
+the e-mail virus to the governor's daughter.
+
+340
+00:13:25,047 --> 00:13:26,714
+That greaseball right there.
+
+341
+00:13:26,716 --> 00:13:28,750
+His wide eyes and twitching hands
+
+342
+00:13:28,752 --> 00:13:31,085
+go beyond the standard for
+ten cans of Mountain Dew.
+
+343
+00:13:32,588 --> 00:13:34,889
+You. Don't move.
+
+344
+00:13:42,698 --> 00:13:45,366
+Since when does Walter get physical?
+
+345
+00:13:45,368 --> 00:13:47,201
+Um...
+
+346
+00:13:47,203 --> 00:13:49,338
+Never.
+
+347
+00:13:49,364 --> 00:13:51,345
+Got the job on Craigslist.
+
+348
+00:13:51,441 --> 00:13:53,207
+I never even met the client.
+
+349
+00:13:54,210 --> 00:13:56,244
+I think he broke some ribs.
+
+350
+00:13:56,246 --> 00:13:57,879
+Mm-hmm.
+
+351
+00:13:57,881 --> 00:14:00,915
+Refocus, or I'll break the rest of them.
+
+352
+00:14:00,917 --> 00:14:02,116
+How were you paid?
+
+353
+00:14:02,118 --> 00:14:04,218
+Cash, to my P.O. Box.
+
+354
+00:14:04,220 --> 00:14:06,087
+Great. Untraceable.
+
+355
+00:14:06,089 --> 00:14:07,822
+I didn't know about any sick kid.
+
+356
+00:14:07,824 --> 00:14:09,724
+I just sent a few anonymous e-mails,
+
+357
+00:14:09,726 --> 00:14:10,891
+and I pocketed three grand.
+
+358
+00:14:10,893 --> 00:14:11,892
+Three <i>e-mails?</i>
+
+359
+00:14:11,894 --> 00:14:12,994
+More than one?
+
+360
+00:14:12,996 --> 00:14:14,862
+I sent four total.
+
+361
+00:14:14,864 --> 00:14:17,298
+All the same...
+"It's your fault she's sick."
+
+362
+00:14:17,300 --> 00:14:19,820
+So, there<i> are</i> more victims?
+
+363
+00:14:20,488 --> 00:14:22,837
+Sir, we identified the three other victims.
+
+364
+00:14:22,839 --> 00:14:24,305
+They're all children.
+
+365
+00:14:24,307 --> 00:14:25,439
+My God.
+
+366
+00:14:25,441 --> 00:14:26,640
+They're all as sick as your daughter.
+
+367
+00:14:26,642 --> 00:14:29,009
+Sons and daughters of Dwight Carrington,
+
+368
+00:14:29,011 --> 00:14:31,378
+Victoria Cooper, and John Tuttle.
+
+369
+00:14:31,380 --> 00:14:33,080
+Wait, I know them.
+
+370
+00:14:33,082 --> 00:14:36,183
+You were all employees of
+Vlaxco Pharmaceuticals in 2008.
+
+371
+00:14:36,185 --> 00:14:37,618
+That's before I went into politics.
+
+372
+00:14:37,620 --> 00:14:38,986
+I only worked there for a
+year in risk management.
+
+373
+00:14:38,988 --> 00:14:40,721
+There's a drug called Trexicane.
+
+374
+00:14:40,723 --> 00:14:42,355
+You all worked on its development.
+
+375
+00:14:42,381 --> 00:14:45,025
+Trexicane had promise as a cure for SMA...
+
+376
+00:14:45,027 --> 00:14:46,293
+it's spinal muscular atrophy.
+
+377
+00:14:46,295 --> 00:14:48,896
+It causes your muscles to waste away
+
+378
+00:14:48,898 --> 00:14:49,963
+until you can't breathe anymore.
+
+379
+00:14:49,965 --> 00:14:51,699
+The clinical trial was going really well
+
+380
+00:14:51,701 --> 00:14:53,500
+until Vlaxco pulled the plug.
+
+381
+00:14:53,502 --> 00:14:55,469
+Yeah, it also worked well on asthma.
+
+382
+00:14:55,471 --> 00:14:57,237
+It was redeveloped solely for asthma.
+
+383
+00:14:57,239 --> 00:14:58,539
+Way more profit, huh?
+
+384
+00:14:58,541 --> 00:15:00,661
+Left all the SMA sufferers out in the cold.
+
+385
+00:15:03,044 --> 00:15:04,778
+I spent months fielding
+their angry phone calls.
+
+386
+00:15:04,780 --> 00:15:06,146
+I hated the job.
+
+387
+00:15:06,148 --> 00:15:08,188
+But how it this related to Helena?
+
+388
+00:15:08,214 --> 00:15:11,151
+We think that whoever attacked
+Helena and these other children
+
+389
+00:15:11,153 --> 00:15:13,086
+must be someone who suffered from SMA.
+
+390
+00:15:13,088 --> 00:15:14,621
+And they're trying to make us suffer, too?
+
+391
+00:15:14,623 --> 00:15:16,056
+What kind of mind thinks this way?
+
+392
+00:15:16,058 --> 00:15:17,491
+Well, the kind that sends taunting e-mails
+
+393
+00:15:17,493 --> 00:15:19,159
+alongside his deadly disease.
+
+394
+00:15:19,161 --> 00:15:22,062
+So, someone in enough
+psychological pain to not care
+
+395
+00:15:22,064 --> 00:15:24,297
+about how stupid that is
+from a criminal standpoint.
+
+396
+00:15:24,299 --> 00:15:26,101
+Okay, is this headed towards ransom?
+
+397
+00:15:26,127 --> 00:15:28,301
+More likely,
+like his experience with Trexicane,
+
+398
+00:15:28,303 --> 00:15:30,570
+he's saying there is a cure out there,
+
+399
+00:15:30,572 --> 00:15:31,872
+you just can't have it.
+
+400
+00:15:31,874 --> 00:15:34,075
+This person would need
+high scientific aptitude
+
+401
+00:15:34,076 --> 00:15:36,743
+and access to cutting-edge
+genetic sequencers.
+
+402
+00:15:36,745 --> 00:15:41,615
+I got thousands of complaints
+after the trial ended.
+
+403
+00:15:41,617 --> 00:15:43,583
+Our best bet at finding
+someone that angry enough
+
+404
+00:15:43,585 --> 00:15:45,752
+to infect your daughter
+and three other children
+
+405
+00:15:45,754 --> 00:15:47,020
+is in the drug-trial records.
+
+406
+00:15:47,022 --> 00:15:49,256
+None of the other families
+work at Vlaxco anymore.
+
+407
+00:15:49,258 --> 00:15:50,256
+You're the governor.
+
+408
+00:15:50,258 --> 00:15:52,459
+Convince Vlaxco to hand them over.
+
+409
+00:15:52,461 --> 00:15:54,728
+I'll beg if I have to.
+
+410
+00:15:54,730 --> 00:15:57,597
+Where are Cabe and Sylvester?
+
+411
+00:15:57,599 --> 00:15:58,631
+You haven't eaten today.
+
+412
+00:15:58,633 --> 00:16:00,700
+If you don't take care of yourself,
+
+413
+00:16:00,702 --> 00:16:01,968
+then you can't help anyone else.
+
+414
+00:16:01,970 --> 00:16:03,770
+Are you barking at me now?
+
+415
+00:16:03,772 --> 00:16:06,332
+I'm here to help you guys.
+
+416
+00:16:07,174 --> 00:16:08,454
+They're here.
+
+417
+00:16:11,612 --> 00:16:13,279
+Hey, when are we getting the Vlaxco records?
+
+418
+00:16:13,281 --> 00:16:14,814
+Vlaxco says they're not
+gonna give them to us, yet.
+
+419
+00:16:14,816 --> 00:16:17,150
+They want to help,
+but their lawyers are complaining
+
+420
+00:16:17,152 --> 00:16:18,585
+about breaking patient confidentiality
+
+421
+00:16:18,587 --> 00:16:19,686
+with a politician.
+
+422
+00:16:19,688 --> 00:16:22,722
+They say it'll take 12
+hours to get us access.
+
+423
+00:16:22,724 --> 00:16:26,459
+Walter, I saw the governor's daughter,
+
+424
+00:16:26,461 --> 00:16:27,960
+she doesn't have 12 hours.
+
+425
+00:16:27,962 --> 00:16:30,063
+Kid's dying, and they're stonewalling.
+
+426
+00:16:30,065 --> 00:16:31,497
+Bastards won't budge.
+
+427
+00:16:31,499 --> 00:16:33,599
+What about a court order?
+
+428
+00:16:33,601 --> 00:16:35,368
+24 hours, at least.
+
+429
+00:16:35,370 --> 00:16:37,930
+How hard did you push them, Cabe?
+
+430
+00:16:38,338 --> 00:16:40,773
+You know me.
+
+431
+00:16:40,775 --> 00:16:43,142
+I tried as hard as I could.
+
+432
+00:16:44,567 --> 00:16:47,547
+I've been trying to hack Vlaxco's records,
+
+433
+00:16:47,549 --> 00:16:49,115
+but all confidential drug trials
+
+434
+00:16:49,117 --> 00:16:51,183
+are kept on an air-gapped system.
+
+435
+00:16:51,185 --> 00:16:53,085
+That means not connected to the Web.
+
+436
+00:16:53,087 --> 00:16:54,453
+We can't get it.
+
+437
+00:16:54,455 --> 00:16:57,390
+If I had another coffee cup in
+my hand right now, I'd smash it.
+
+438
+00:16:57,392 --> 00:16:58,758
+I don't think I'd blame you.
+
+439
+00:17:05,832 --> 00:17:06,632
+Cabe.
+
+440
+00:17:06,634 --> 00:17:08,567
+Hmm. Call the governor.
+
+441
+00:17:08,569 --> 00:17:11,604
+Ask if Vlaxco keeps hard
+copies of the study files.
+
+442
+00:17:11,606 --> 00:17:13,072
+Why am I asking?
+
+443
+00:17:13,074 --> 00:17:14,573
+We're gonna break in.
+
+444
+00:17:25,027 --> 00:17:27,369
+I understand that we need
+to get all the patients
+
+445
+00:17:27,395 --> 00:17:28,728
+for the Vlaxco drug trial.
+
+446
+00:17:28,754 --> 00:17:31,388
+I get that that is where
+we're going to find the person
+
+447
+00:17:31,390 --> 00:17:32,989
+who keeps making these kids sick.
+
+448
+00:17:32,991 --> 00:17:37,093
+But I think<i> I</i> would be better
+suited for an advisory role.
+
+449
+00:17:37,095 --> 00:17:38,762
+Sylvester, if Cabe gets caught,
+
+450
+00:17:38,764 --> 00:17:40,363
+it's federal time. If Paige gets caught,
+
+451
+00:17:40,365 --> 00:17:43,466
+she loses Ralph.
+Happy and Toby are the distraction.
+
+452
+00:17:45,002 --> 00:17:46,603
+<i>I</i> could be the distraction.
+
+453
+00:17:46,605 --> 00:17:48,571
+N-N-No, you need to memorize the files.
+No one else can do that.
+
+454
+00:17:48,573 --> 00:17:50,407
+It's over a hundred pages long.
+
+455
+00:17:50,409 --> 00:17:51,708
+I'm gonna be reading the layout
+
+456
+00:17:51,710 --> 00:17:53,276
+and guiding you through the building, okay?
+
+457
+00:17:53,278 --> 00:17:54,577
+Okay.
+
+458
+00:17:54,579 --> 00:17:56,312
+I'm still not clear on what this has to do
+
+459
+00:17:56,314 --> 00:17:58,148
+with Earl's Sub Shop across the street.
+
+460
+00:17:58,150 --> 00:18:00,750
+Well, Vlaxco has a brutal security firewall
+
+461
+00:18:00,752 --> 00:18:03,052
+that would take hours to hack.
+
+462
+00:18:03,054 --> 00:18:05,221
+But they also have hundreds of employees.
+So, statistically,
+
+463
+00:18:05,223 --> 00:18:07,757
+one of them is gonna
+order from Earl's today.
+
+464
+00:18:07,759 --> 00:18:09,425
+Now, I've hacked into the sub shop's server
+
+465
+00:18:09,427 --> 00:18:13,663
+and I've placed a Trojan
+shell on their PDF menu.
+
+466
+00:18:13,665 --> 00:18:17,333
+Your Trojan horse is a
+two-for-one sub coupon.
+
+467
+00:18:17,335 --> 00:18:19,636
+That's a really good deal.
+
+468
+00:18:19,638 --> 00:18:22,272
+Earl knows his way around a hoagie.
+
+469
+00:18:22,274 --> 00:18:24,807
+Now, as soon as someone
+clicks on the PDF menu
+
+470
+00:18:24,809 --> 00:18:26,175
+and downloads the coupon,
+
+471
+00:18:26,177 --> 00:18:28,378
+we're past the Vlaxco firewall.
+
+472
+00:18:28,380 --> 00:18:30,940
+It's lunchtime, so it shouldn't take long.
+
+473
+00:18:32,916 --> 00:18:35,084
+I'm in.
+
+474
+00:18:35,086 --> 00:18:37,987
+All right, just going through HR.
+
+475
+00:18:37,989 --> 00:18:41,591
+Just looking through the
+employee security badges.
+
+476
+00:18:41,593 --> 00:18:42,692
+I'll be damned.
+
+477
+00:18:42,694 --> 00:18:44,494
+All right, look for someone
+in middle management.
+
+478
+00:18:44,496 --> 00:18:47,263
+A guy driving a low-level luxury sedan,
+
+479
+00:18:47,265 --> 00:18:48,798
+trying to keep up with the VPs.
+
+480
+00:18:48,800 --> 00:18:50,199
+That's someone that can really get angry.
+
+481
+00:18:50,201 --> 00:18:51,167
+- Mmm. 
+- Uh-huh, uh-huh.
+
+482
+00:18:51,169 --> 00:18:52,969
+Jed Hausler.
+
+483
+00:18:52,971 --> 00:18:54,437
+Just copying his data.
+
+484
+00:18:54,439 --> 00:18:57,773
+Should have a bogus security
+badge in a few seconds.
+
+485
+00:18:57,775 --> 00:18:59,909
+I'm heading over to Happy.
+
+486
+00:18:59,911 --> 00:19:00,910
+Good luck, Sly.
+
+487
+00:19:00,912 --> 00:19:02,378
+Governor.
+
+488
+00:19:02,380 --> 00:19:04,380
+We may have some good news
+for you here in a while.
+
+489
+00:19:04,382 --> 00:19:07,083
+It's an involved operation,
+
+490
+00:19:07,085 --> 00:19:10,019
+I'll run it down for you later.
+
+491
+00:19:10,021 --> 00:19:12,555
+My thoughts and prayers are with you,
+Governor.
+
+492
+00:19:12,557 --> 00:19:13,659
+How is she?
+
+493
+00:19:13,685 --> 00:19:15,605
+She's holding on as best she can.
+
+494
+00:19:17,260 --> 00:19:19,161
+Walter lied to me earlier about his sister.
+
+495
+00:19:19,163 --> 00:19:21,664
+Said she'd gotten over a childhood illness,
+
+496
+00:19:21,666 --> 00:19:23,599
+but I saw a letter that said
+
+497
+00:19:23,601 --> 00:19:26,068
+she's in a care facility battling MS.
+
+498
+00:19:27,170 --> 00:19:28,871
+He doesn't talk about her much.
+
+499
+00:19:28,873 --> 00:19:30,539
+I know, but when he's reminded of her,
+
+500
+00:19:30,541 --> 00:19:32,174
+he smashes things and tackles people
+
+501
+00:19:32,176 --> 00:19:33,442
+and does daytime robberies.
+
+502
+00:19:33,444 --> 00:19:37,012
+I'm just trying to give
+him as much space as I can.
+
+503
+00:19:42,052 --> 00:19:43,685
+Third message.
+
+504
+00:19:43,687 --> 00:19:46,288
+Just want to reiterate,
+I am making real money now.
+
+505
+00:19:46,290 --> 00:19:48,257
+Can start to re-pay you.
+
+506
+00:19:48,259 --> 00:19:49,625
+Even if you're seeing someone.
+
+507
+00:19:49,627 --> 00:19:50,726
+It's totally immaterial.
+
+508
+00:19:52,696 --> 00:19:55,063
+You can call me back anytime.
+
+509
+00:20:02,672 --> 00:20:05,273
+She's not getting back with you.
+
+510
+00:20:05,275 --> 00:20:07,743
+Look, people only let you down.
+
+511
+00:20:07,745 --> 00:20:09,778
+Sooner you realize that, the better.
+
+512
+00:20:09,780 --> 00:20:11,313
+That's a cynical worldview.
+
+513
+00:20:11,315 --> 00:20:13,582
+When I was two,
+my dad took me to St. Luke's,
+
+514
+00:20:13,584 --> 00:20:16,485
+handed me to a nurse and said,
+“Find her a good home. ”
+
+515
+00:20:16,487 --> 00:20:18,120
+Thanks to how my brain works,
+
+516
+00:20:18,122 --> 00:20:19,721
+I remember every moment of it.
+
+517
+00:20:19,723 --> 00:20:22,724
+So 25 years later, I'm not cynical...
+
+518
+00:20:22,726 --> 00:20:23,992
+I'm smart.
+
+519
+00:20:23,994 --> 00:20:25,660
+You put a quarter-inch wrench
+
+520
+00:20:25,662 --> 00:20:27,262
+on a quarter-inch bolt, it works.
+
+521
+00:20:27,264 --> 00:20:29,664
+Tools don't let you down. Only people do.
+
+522
+00:20:29,666 --> 00:20:32,500
+Spending your life scared
+to connect to anyone
+
+523
+00:20:32,502 --> 00:20:33,835
+isn't any way to live.
+
+524
+00:20:37,373 --> 00:20:40,442
+Software just picked up Jed
+Hausler's license plate.
+
+525
+00:20:40,444 --> 00:20:41,509
+Let's go find his car.
+
+526
+00:20:41,511 --> 00:20:41,776
+Here's your earpiece.
+
+527
+00:20:41,778 --> 00:20:42,744
+- Arpiece. 
+- Let's go find his car.
+
+528
+00:20:42,746 --> 00:20:45,231
+The laboratories have
+disease samples, Walter.
+
+529
+00:20:45,257 --> 00:20:46,857
+Like the plague.
+
+530
+00:20:46,859 --> 00:20:48,959
+They have the actual plague.
+
+531
+00:20:48,961 --> 00:20:50,856
+Sylvester, you're not going
+near the biohazard lab.
+
+532
+00:20:50,917 --> 00:20:52,758
+I'm gonna be talking you
+through the whole way.
+
+533
+00:20:52,852 --> 00:20:53,986
+Okay, you guys ready?
+
+534
+00:20:54,012 --> 00:20:57,612
+Looking for Jed Hausler's car.
+
+535
+00:20:58,658 --> 00:21:00,826
+There! Punch it, sister!
+
+536
+00:21:08,534 --> 00:21:10,435
+Excuse me.
+
+537
+00:21:10,437 --> 00:21:12,404
+My wife is the world's worst driver.
+
+538
+00:21:12,430 --> 00:21:14,410
+Could you find out who owns this car?
+
+539
+00:21:17,543 --> 00:21:18,743
+You can do this.
+
+540
+00:21:19,657 --> 00:21:20,523
+You just walk in,
+
+541
+00:21:20,525 --> 00:21:22,058
+look at the files,
+
+542
+00:21:22,060 --> 00:21:24,027
+you walk out.
+
+543
+00:21:24,029 --> 00:21:26,829
+Walk in, look, walk out.
+
+544
+00:21:28,499 --> 00:21:30,433
+That's our guy. Sylvester...
+
+545
+00:21:30,435 --> 00:21:31,601
+you're on.
+
+546
+00:21:31,603 --> 00:21:33,844
+You need to get out of
+there before he comes back
+
+547
+00:21:33,870 --> 00:21:35,031
+and swipes his real ID.
+
+548
+00:21:35,057 --> 00:21:36,457
+Okay.
+
+549
+00:21:46,250 --> 00:21:47,216
+Oh...
+
+550
+00:21:47,218 --> 00:21:48,484
+He looks angry. Perfect.
+
+551
+00:21:48,790 --> 00:21:50,680
+What the hell did you do to my car?
+
+552
+00:21:50,721 --> 00:21:51,621
+Not me. Him.
+
+553
+00:21:51,623 --> 00:21:53,189
+Who was driving?
+
+554
+00:21:53,191 --> 00:21:54,423
+You distracted me.
+
+555
+00:21:54,425 --> 00:21:56,058
+Oh, talking is a distraction?
+
+556
+00:21:56,060 --> 00:21:57,460
+Constant complaining is distraction.
+
+557
+00:21:57,694 --> 00:21:58,761
+Hey!
+
+558
+00:21:58,763 --> 00:22:01,323
+Can we please talk about
+the damage to my car?
+
+559
+00:22:01,331 --> 00:22:02,031
+My bad.
+
+560
+00:22:02,033 --> 00:22:03,065
+Love the 'stache.
+
+561
+00:22:03,067 --> 00:22:05,468
+Um... $300, we'll call it a day?
+
+562
+00:22:05,470 --> 00:22:07,536
+There's thousands in damage here.
+
+563
+00:22:07,538 --> 00:22:09,071
+$350.
+
+564
+00:22:10,140 --> 00:22:12,700
+Just give me your insurance papers.
+
+565
+00:22:16,346 --> 00:22:18,881
+Hey, you recently divorced?
+
+566
+00:22:18,883 --> 00:22:20,923
+There's a tan line where
+your wedding ring would be.
+
+567
+00:22:20,984 --> 00:22:22,418
+I only ask
+
+568
+00:22:22,420 --> 00:22:26,455
+'cause... I think I'm about
+to pull that trigger myself.
+
+569
+00:22:29,693 --> 00:22:31,126
+All right.
+
+570
+00:22:31,128 --> 00:22:33,228
+You're looking for 2008, January to August.
+
+571
+00:22:33,230 --> 00:22:35,297
+Trexicane trial program.
+
+572
+00:22:36,566 --> 00:22:38,333
+Okay. I got the box.
+
+573
+00:22:38,335 --> 00:22:41,403
+Okay, get the name of 
+every patient in the trial.
+
+574
+00:22:51,881 --> 00:22:53,615
+How long is that going to take?
+
+575
+00:22:54,117 --> 00:22:54,850
+Accuracy is bliss.
+
+576
+00:22:54,852 --> 00:22:56,184
+Do you see this?
+
+577
+00:22:56,186 --> 00:22:58,420
+Cold as Pennsylvania steel.
+
+578
+00:22:58,422 --> 00:23:00,462
+Maybe if you knew how to warm me up...
+
+579
+00:23:00,857 --> 00:23:01,723
+That's my supervisor,
+
+580
+00:23:01,725 --> 00:23:03,191
+who's going to kick my ass.
+
+581
+00:23:03,217 --> 00:23:04,811
+Hold on. He can wait.
+
+582
+00:23:04,837 --> 00:23:06,519
+You're the guy just a step ahead of me:
+
+583
+00:23:06,545 --> 00:23:08,338
+you're back in the single scene,
+
+584
+00:23:08,364 --> 00:23:09,297
+trading boxers for briefs,
+
+585
+00:23:09,299 --> 00:23:11,266
+hitting the gym, scoring hair plugs...
+
+586
+00:23:11,268 --> 00:23:14,317
+Get the hell out of my way and
+leave your info at the desk.
+
+587
+00:23:17,507 --> 00:23:18,874
+Not good.
+
+588
+00:23:18,876 --> 00:23:20,996
+Yeah, we couldn't hold our patsy any longer.
+
+589
+00:23:21,128 --> 00:23:23,448
+- He's heading back in. 
+- There he is.
+
+590
+00:23:29,819 --> 00:23:32,087
+Mr. Hausler,
+it's saying you're already in here.
+
+591
+00:23:32,089 --> 00:23:33,788
+Well, clearly, I'm not.
+
+592
+00:23:35,291 --> 00:23:37,452
+I don't want you to panic,
+but the guards know
+
+593
+00:23:37,478 --> 00:23:38,668
+you're in the building.
+
+594
+00:23:38,694 --> 00:23:39,327
+Oh, boy...
+
+595
+00:23:39,329 --> 00:23:41,129
+Okay...
+
+596
+00:23:43,699 --> 00:23:45,633
+Security's been alerted.
+
+597
+00:23:45,635 --> 00:23:47,075
+They are coming toward the file room.
+
+598
+00:23:47,303 --> 00:23:48,436
+Okay. All done.
+
+599
+00:23:48,438 --> 00:23:51,114
+Now,
+you can get out through the doors
+
+600
+00:23:51,140 --> 00:23:52,900
+in the back. To your left.
+
+601
+00:23:55,244 --> 00:23:57,045
+Walter, you said no biohazard.
+
+602
+00:23:57,047 --> 00:23:58,179
+You have to.
+
+603
+00:23:58,181 --> 00:23:59,781
+Anthrax!
+
+604
+00:23:59,783 --> 00:24:01,816
+Last year the CDC exposed 86
+
+605
+00:24:01,818 --> 00:24:03,818
+of their own people to anthrax.
+
+606
+00:24:03,820 --> 00:24:05,900
+Walter, there could be anthrax back there.
+
+607
+00:24:05,926 --> 00:24:07,497
+Listen to me, you have no other way out.
+
+608
+00:24:07,523 --> 00:24:08,521
+Walter, there's got to be...
+
+609
+00:24:09,073 --> 00:24:10,238
+Walter!
+
+610
+00:24:18,910 --> 00:24:20,519
+We see you on the security cam.
+
+611
+00:24:20,545 --> 00:24:22,255
+I am in a dirty room, Walter.
+
+612
+00:24:22,281 --> 00:24:25,046
+Just stay calm. Head out the 
+east side door. Do you see it?
+
+613
+00:24:25,072 --> 00:24:26,072
+Yes.
+
+614
+00:24:26,074 --> 00:24:27,766
+Now, there's a service hall
+
+615
+00:24:27,792 --> 00:24:29,633
+on the other side. Head down there
+
+616
+00:24:29,659 --> 00:24:31,379
+to the exit, where we'll be waiting for you.
+
+617
+00:24:32,045 --> 00:24:33,245
+Sylvester, pick up the pace, pal.
+
+618
+00:24:33,247 --> 00:24:35,981
+I don't know if you can push
+him too hard here, Walter.
+
+619
+00:24:36,007 --> 00:24:38,522
+This is my worst nightmare. Literally.
+
+620
+00:24:38,661 --> 00:24:40,861
+I have had this one.
+
+621
+00:24:40,887 --> 00:24:42,421
+Oh...
+
+622
+00:24:42,423 --> 00:24:44,623
+Guards are getting closer, Sylvester.
+
+623
+00:24:44,625 --> 00:24:46,091
+I can't touch that handle.
+
+624
+00:24:46,117 --> 00:24:47,479
+Logically, it's probably
+
+625
+00:24:47,505 --> 00:24:49,303
+one of the cleanest handles in the world.
+
+626
+00:24:49,329 --> 00:24:50,506
+Much better than a public bathroom.
+
+627
+00:24:50,532 --> 00:24:52,373
+- I don't touch those either!
+- Open the damn door,
+
+628
+00:24:52,399 --> 00:24:53,764
+because if you think this lab's dirty,
+
+629
+00:24:53,790 --> 00:24:54,894
+wait until you're in a prison cell,
+
+630
+00:24:54,920 --> 00:24:57,111
+which is where they will take you
+if you don't open the door.
+
+631
+00:24:57,137 --> 00:24:58,537
+No.
+
+632
+00:24:58,539 --> 00:24:59,705
+Come on, Sylvester.
+
+633
+00:24:59,707 --> 00:25:01,548
+Get the hell out of there, now.
+
+634
+00:25:01,574 --> 00:25:02,983
+You cannot be impatient with him.
+Sylvester...
+
+635
+00:25:03,009 --> 00:25:03,709
+it's Paige.
+
+636
+00:25:03,711 --> 00:25:05,217
+What if you take off your sweater
+
+637
+00:25:05,243 --> 00:25:06,687
+and put it around your hand?
+
+638
+00:25:06,713 --> 00:25:09,816
+What kind of deterrent against a
+lethal spore is a poly-cotton blend?
+
+639
+00:25:09,842 --> 00:25:10,963
+Think of something else.
+
+640
+00:25:10,989 --> 00:25:12,593
+Um... so you got a paycheck today.
+
+641
+00:25:12,619 --> 00:25:13,660
+What are you going to do with your money?
+
+642
+00:25:13,686 --> 00:25:14,886
+Get rid of it. Money makes me nervous.
+
+643
+00:25:14,888 --> 00:25:16,863
+Okay, then close your 
+eyes and get rid of it.
+
+644
+00:25:16,889 --> 00:25:17,956
+Okay.
+
+645
+00:25:17,958 --> 00:25:19,878
+You need to hand over the money...
+
+646
+00:25:20,293 --> 00:25:20,826
+All right. Oh...
+
+647
+00:25:20,828 --> 00:25:21,927
+Pull down...
+
+648
+00:25:21,929 --> 00:25:24,129
+and run like hell!
+
+649
+00:25:31,678 --> 00:25:33,529
+Come on! Come on!
+
+650
+00:25:52,291 --> 00:25:53,525
+Her fever's worse.
+
+651
+00:25:53,527 --> 00:25:54,859
+She's in decline.
+
+652
+00:25:54,861 --> 00:25:57,095
+Where are we, folks?
+
+653
+00:25:57,097 --> 00:25:59,464
+Well, based on the names Sylvester got us,
+
+654
+00:25:59,466 --> 00:26:02,333
+we're pulling background on the
+people from the Vlaxco trial.
+
+655
+00:26:02,335 --> 00:26:04,002
+Now we can look for our suspect.
+
+656
+00:26:04,804 --> 00:26:06,724
+The last participant in the trial.
+
+657
+00:26:07,973 --> 00:26:10,108
+So, we have 50 names here.
+
+658
+00:26:10,110 --> 00:26:11,809
+One of them is our biohacker.
+
+659
+00:26:12,478 --> 00:26:13,811
+How do we narrow it down?
+
+660
+00:26:13,813 --> 00:26:15,979
+Our bad guy's gotten kids sick
+
+661
+00:26:16,005 --> 00:26:18,091
+and made sure the parents knew
+it was done intentionally.
+
+662
+00:26:18,117 --> 00:26:19,044
+That's a real angry dude.
+
+663
+00:26:19,070 --> 00:26:20,393
+Take it from someone who has dropped
+
+664
+00:26:20,419 --> 00:26:21,619
+a fortune at games of chance:
+
+665
+00:26:21,671 --> 00:26:24,026
+nothing makes the psyche
+more vindictive than loss.
+
+666
+00:26:24,052 --> 00:26:25,084
+It's primal;
+
+667
+00:26:25,086 --> 00:26:26,752
+through vengeance, humans wrongly believe
+
+668
+00:26:26,754 --> 00:26:27,987
+they can be made whole again.
+
+669
+00:26:28,013 --> 00:26:29,555
+We need to find whoever
+
+670
+00:26:29,557 --> 00:26:31,163
+lost the most from this
+drug not being approved.
+
+671
+00:26:31,203 --> 00:26:34,092
+So, 20 test subjects showed
+no improvement from the drugs.
+
+672
+00:26:34,118 --> 00:26:35,514
+So they didn't really lose anything
+
+673
+00:26:35,540 --> 00:26:36,615
+from being part of the trial.
+
+674
+00:26:36,641 --> 00:26:37,971
+They entered sick, they left sick.
+
+675
+00:26:37,997 --> 00:26:40,404
+- We're down to 30.
+- Same with those who got the placebo...
+
+676
+00:26:40,512 --> 00:26:41,278
+their situation didn't change.
+
+677
+00:26:41,280 --> 00:26:42,713
+They might have been disappointed
+
+678
+00:26:42,739 --> 00:26:44,827
+they didn't get the real drug,
+but that's not loss.
+
+679
+00:26:44,853 --> 00:26:46,295
+Five died since the trial ended.
+
+680
+00:26:46,321 --> 00:26:47,251
+They're all out.
+
+681
+00:26:47,253 --> 00:26:49,027
+Okay, here's where we get down
+
+682
+00:26:49,053 --> 00:26:50,053
+to the nitty-gritty.
+
+683
+00:26:50,055 --> 00:26:52,089
+The guys left have all suffered loss.
+
+684
+00:26:52,115 --> 00:26:54,316
+All would have improved
+with the Trexicane drug.
+
+685
+00:26:56,820 --> 00:26:59,537
+Benjamin Carlisle, maybe?
+
+686
+00:26:59,563 --> 00:27:00,929
+32 years old,
+
+687
+00:27:00,931 --> 00:27:02,676
+entrepreneur making six figures.
+
+688
+00:27:02,755 --> 00:27:03,945
+When he started the study,
+
+689
+00:27:03,968 --> 00:27:05,401
+he was engaged... world on a string.
+
+690
+00:27:05,427 --> 00:27:06,702
+Where's he now?
+
+691
+00:27:06,704 --> 00:27:08,637
+Begging for charity for his treatment,
+
+692
+00:27:08,639 --> 00:27:10,305
+blogging pretty angrily
+
+693
+00:27:10,307 --> 00:27:13,642
+regarding his degenerating condition...
+
+694
+00:27:13,644 --> 00:27:15,310
+and no longer engaged.
+
+695
+00:27:15,312 --> 00:27:18,447
+If I lost a fiancée to a disease
+
+696
+00:27:18,449 --> 00:27:20,616
+that could have been cured,
+I'd consider revenge.
+
+697
+00:27:20,642 --> 00:27:22,517
+That's not the guy.
+
+698
+00:27:22,519 --> 00:27:24,086
+This is.
+
+699
+00:27:24,088 --> 00:27:25,220
+Robert Richter.
+
+700
+00:27:25,222 --> 00:27:26,755
+Single dad.
+
+701
+00:27:26,757 --> 00:27:27,990
+According to this, his child
+
+702
+00:27:28,016 --> 00:27:29,176
+responded well to the meds
+
+703
+00:27:29,202 --> 00:27:31,282
+but died after the drug trial was scrapped.
+
+704
+00:27:32,528 --> 00:27:34,429
+He lost more than anyone.
+
+705
+00:27:35,665 --> 00:27:37,699
+You're basing this purely on emotion.
+
+706
+00:27:37,701 --> 00:27:39,868
+There's entire sections of jurisprudence
+
+707
+00:27:39,870 --> 00:27:41,436
+based on crimes of passion.
+
+708
+00:27:41,438 --> 00:27:45,006
+Emotion is as good as any of them.
+
+709
+00:27:45,008 --> 00:27:47,375
+Especially in a case like this.
+
+710
+00:27:47,377 --> 00:27:49,111
+Trust me.
+
+711
+00:27:50,279 --> 00:27:51,847
+Guys? There's a Robert Richter
+
+712
+00:27:51,849 --> 00:27:55,283
+that works at Venice College of Science.
+
+713
+00:27:55,285 --> 00:27:58,353
+And he is a microbiology professor.
+
+714
+00:28:05,461 --> 00:28:09,301
+There should be some
+evidence here in Richter's office.
+
+715
+00:28:10,199 --> 00:28:12,067
+I'm sorry, Mr. Richter
+
+716
+00:28:12,069 --> 00:28:13,501
+is gone for the day.
+
+717
+00:28:13,527 --> 00:28:16,271
+Um, maybe I should call 
+campus security first?
+
+718
+00:28:16,338 --> 00:28:17,939
+Feel free, but my badge is bigger.
+
+719
+00:28:17,941 --> 00:28:20,642
+We'll take it from here.
+
+720
+00:28:20,644 --> 00:28:22,279
+All I have in here are exam papers.
+
+721
+00:28:22,305 --> 00:28:23,511
+Same here.
+
+722
+00:28:23,513 --> 00:28:26,073
+Oh, oh, oh. Look what I found.
+
+723
+00:28:27,616 --> 00:28:30,118
+He was computer modeling spray patterns.
+
+724
+00:28:30,120 --> 00:28:32,420
+I bet he loads
+
+725
+00:28:32,422 --> 00:28:34,068
+a small aerosol device with the virus;
+
+726
+00:28:34,094 --> 00:28:35,694
+all he's got to do is get a few feet
+
+727
+00:28:35,720 --> 00:28:37,234
+from the victim, presses a button
+
+728
+00:28:37,260 --> 00:28:38,793
+and then he infects them with a gene
+
+729
+00:28:38,819 --> 00:28:40,351
+that'll kill only them.
+
+730
+00:28:41,163 --> 00:28:42,697
+Target never even knows.
+
+731
+00:28:42,699 --> 00:28:44,499
+That's a pretty sophisticated murder weapon.
+
+732
+00:28:44,501 --> 00:28:45,767
+And scary easy to make.
+
+733
+00:28:45,944 --> 00:28:47,695
+He's got fast DNA sequencers,
+
+734
+00:28:47,770 --> 00:28:50,071
+graphene-based nanochannel hardware...
+
+735
+00:28:50,073 --> 00:28:52,340
+Today, genetic engineering is a hobby;
+
+736
+00:28:52,342 --> 00:28:53,574
+if you're smart enough,
+
+737
+00:28:53,576 --> 00:28:55,743
+you can be a modern Typhoid Mary.
+
+738
+00:29:04,019 --> 00:29:05,620
+Uh... what are you doing?
+
+739
+00:29:05,622 --> 00:29:07,455
+Happy was right.
+
+740
+00:29:07,457 --> 00:29:12,927
+Richter is a modern Typhoid Mary,
+emphasis on modern.
+
+741
+00:29:12,929 --> 00:29:15,997
+His daughter died in 2010.
+
+742
+00:29:15,999 --> 00:29:18,966
+The reason he had to wait
+years to retaliate is he had
+
+743
+00:29:18,992 --> 00:29:20,313
+to wait for technology to catch up
+
+744
+00:29:20,339 --> 00:29:22,259
+to his plans. But now that it has,
+
+745
+00:29:22,285 --> 00:29:25,081
+the same technology might
+be the thing that stops him.
+
+746
+00:29:25,107 --> 00:29:25,639
+Here.
+
+747
+00:29:25,641 --> 00:29:26,974
+Saved in the memory
+
+748
+00:29:26,976 --> 00:29:29,076
+are the sequences for the killer genes.
+
+749
+00:29:29,978 --> 00:29:31,618
+And how does that help us?
+
+750
+00:29:31,780 --> 00:29:33,314
+We send this to CDC,
+
+751
+00:29:33,316 --> 00:29:35,876
+they can follow the blueprint backwards
+
+752
+00:29:36,017 --> 00:29:37,751
+to reverse-engineer what
+Richter did in two hours.
+
+753
+00:29:37,753 --> 00:29:39,787
+They can save the people he infected.
+
+754
+00:29:39,813 --> 00:29:41,592
+They can make an antidote.
+
+755
+00:29:42,825 --> 00:29:44,392
+Before I send this...
+
+756
+00:29:44,418 --> 00:29:45,484
+I'm positive.
+
+757
+00:29:45,837 --> 00:29:47,837
+Great work.
+
+758
+00:29:50,399 --> 00:29:52,366
+Well, considering we just saved four kids,
+
+759
+00:29:52,368 --> 00:29:54,433
+maybe we earned a celebratory toast.
+
+760
+00:29:54,459 --> 00:29:55,826
+Sylvester?
+
+761
+00:29:55,852 --> 00:29:58,013
+Uh, you really think I'm
+gonna drink something
+
+762
+00:29:58,039 --> 00:29:59,199
+out of a bio lab's fridge?
+
+763
+00:30:01,677 --> 00:30:03,577
+Well... yeah.
+
+764
+00:30:03,579 --> 00:30:05,045
+Don't celebrate just yet.
+
+765
+00:30:06,360 --> 00:30:08,048
+There's another sequence here.
+
+766
+00:30:08,050 --> 00:30:10,050
+There's a fifth target.
+
+767
+00:30:10,052 --> 00:30:11,752
+- Fifth target?
+Mm-hmm.
+
+768
+00:30:11,754 --> 00:30:14,655
+That spam creep said he only
+sent four e-mail viruses.
+
+769
+00:30:14,919 --> 00:30:16,581
+Well, maybe this guy didn't get an e-mail
+
+770
+00:30:16,607 --> 00:30:18,201
+'cause he's special to Richter.
+
+771
+00:30:18,227 --> 00:30:20,527
+Special how?
+
+772
+00:30:20,529 --> 00:30:22,396
+This sequence also appears
+
+773
+00:30:22,398 --> 00:30:25,432
+in a file in Richter's
+laptop referring to...
+
+774
+00:30:31,873 --> 00:30:33,373
+It's the governor.
+
+775
+00:30:35,977 --> 00:30:37,897
+So, the last one is Governor Lane.
+
+776
+00:30:37,923 --> 00:30:39,412
+But the sequence is
+different from the others.
+
+777
+00:30:39,414 --> 00:30:41,948
+The sequence targets a potassium channel
+
+778
+00:30:41,950 --> 00:30:44,551
+in the heart, killing the person instantly.
+
+779
+00:30:48,889 --> 00:30:50,690
+He's not at his house.
+
+780
+00:30:50,716 --> 00:30:52,081
+His wife said he ditched security,
+
+781
+00:30:52,107 --> 00:30:54,162
+went out the back.
+They don't know where he went.
+
+782
+00:30:54,188 --> 00:30:56,638
+The only thing that can keep a
+man away from his dying child
+
+783
+00:30:56,664 --> 00:30:58,184
+is if he thinks he can make her better.
+
+784
+00:30:58,232 --> 00:30:59,466
+Richter called him.
+
+785
+00:30:59,468 --> 00:31:01,367
+Promised him an antidote
+
+786
+00:31:01,369 --> 00:31:04,237
+if the governor would meet
+with him and just hear him out.
+
+787
+00:31:05,272 --> 00:31:07,273
+He's not gonna give the
+governor an antidote.
+
+788
+00:31:07,275 --> 00:31:08,608
+He's gonna give him the virus.
+
+789
+00:31:08,849 --> 00:31:10,249
+It's not just gonna make him suffer.
+
+790
+00:31:11,312 --> 00:31:12,846
+It's gonna stop the governor's heart
+
+791
+00:31:12,848 --> 00:31:14,447
+within seconds.
+
+792
+00:31:23,941 --> 00:31:27,039
+I put an alarm on the governor's family car.
+
+793
+00:31:27,931 --> 00:31:29,597
+Why the hell isn't he
+answering his cell phone?
+
+794
+00:31:29,599 --> 00:31:32,166
+It's not on and even if it were,
+he wouldn't answer.
+
+795
+00:31:32,567 --> 00:31:33,401
+Checking GPS.
+
+796
+00:31:33,403 --> 00:31:35,870
+We'll track him soon.
+
+797
+00:31:35,872 --> 00:31:38,114
+- Toby, what about Richter?
+- I'm getting a bead
+
+798
+00:31:38,140 --> 00:31:38,910
+on his phone, too.
+
+799
+00:31:38,936 --> 00:31:40,539
+I got Richter's cell records.
+
+800
+00:31:40,565 --> 00:31:43,195
+Last call was to Governor Lane,
+15 minutes ago.
+
+801
+00:31:43,221 --> 00:31:45,222
+I warned the governor 
+about irrational behavior.
+
+802
+00:31:45,248 --> 00:31:47,292
+I told him not to do anything stupid.
+
+803
+00:31:47,983 --> 00:31:49,743
+Got him! Got the governor.
+
+804
+00:31:50,485 --> 00:31:51,752
+- He's at Marina Beach Plaza.
+- Really?
+
+805
+00:31:51,754 --> 00:31:53,995
+Well, then we got a problem,
+'cause so is Richter.
+
+806
+00:32:02,564 --> 00:32:04,832
+Spread out! We need to find the governor!
+
+807
+00:32:14,309 --> 00:32:15,943
+I got nothing up here!
+
+808
+00:32:16,678 --> 00:32:19,179
+Ditto that in the...
+
+809
+00:32:19,181 --> 00:32:20,981
+rotunda.
+
+810
+00:32:20,983 --> 00:32:22,249
+Lower level's clear.
+
+811
+00:32:22,617 --> 00:32:23,417
+Okay, okay.
+
+812
+00:32:23,419 --> 00:32:24,836
+Think about how this would go down.
+
+813
+00:32:24,862 --> 00:32:27,964
+He sees the police and knows it's
+got to happen fast but private.
+
+814
+00:32:32,827 --> 00:32:34,027
+Toby, anything?
+
+815
+00:32:34,029 --> 00:32:35,229
+He wouldn't wait in the open.
+
+816
+00:32:35,255 --> 00:32:36,376
+Not with all the police.
+
+817
+00:32:36,402 --> 00:32:38,373
+Someplace in here, but someplace quiet.
+
+818
+00:32:38,399 --> 00:32:39,963
+Side hallways maybe.
+
+819
+00:32:43,971 --> 00:32:45,105
+I found Richter!
+
+820
+00:32:45,107 --> 00:32:47,541
+We're on our way.
+
+821
+00:32:53,714 --> 00:32:55,081
+He's moving towards the target.
+
+822
+00:32:55,136 --> 00:32:56,727
+I got eyes on him!
+
+823
+00:32:59,086 --> 00:33:01,421
+Cabe, if he even gets close,
+Governor Lane is dead!
+
+824
+00:33:02,156 --> 00:33:04,157
+Homeland Security! Don't move!
+
+825
+00:33:07,429 --> 00:33:10,163
+He expelled the virus!
+
+826
+00:33:10,165 --> 00:33:12,085
+- It'll be aerosolized in...
+- Ten seconds!
+
+827
+00:33:12,196 --> 00:33:13,905
+Based on where the governor is standing,
+
+828
+00:33:13,931 --> 00:33:14,810
+the interior wind patterns
+
+829
+00:33:14,836 --> 00:33:16,836
+and s-scattergrams!
+
+830
+00:33:16,862 --> 00:33:18,539
+Now, you have seven seconds.
+
+831
+00:33:19,212 --> 00:33:20,993
+- What are you doing?
+- Making it rain.
+
+832
+00:33:21,019 --> 00:33:23,271
+- What? 
+- To take down the virus.
+
+833
+00:33:23,556 --> 00:33:25,171
+Two seconds, Walter!
+
+834
+00:33:38,792 --> 00:33:40,627
+How do we know this worked?
+
+835
+00:33:40,629 --> 00:33:43,296
+Well, if it didn't, he'd be dead by now.
+
+836
+00:33:52,272 --> 00:33:55,341
+- He said he had an antidote! 
+- No, sir.
+
+837
+00:33:55,343 --> 00:33:57,677
+We already sent the
+antidote for your daughter.
+
+838
+00:33:57,703 --> 00:33:59,297
+He was trying to kill you.
+
+839
+00:34:02,683 --> 00:34:04,450
+Agent Gallo,
+
+840
+00:34:04,452 --> 00:34:05,851
+she's gonna be fine.
+
+841
+00:34:05,853 --> 00:34:07,620
+So glad to hear it, Governor.
+
+842
+00:34:07,622 --> 00:34:09,121
+I'll tell my team.
+
+843
+00:34:12,893 --> 00:34:16,696
+The antidote the CDC synthesized is working.
+
+844
+00:34:16,698 --> 00:34:19,332
+Helena's fever broke.
+
+845
+00:34:19,334 --> 00:34:22,009
+We're getting reports of the
+same from the other victims.
+
+846
+00:34:24,704 --> 00:34:26,939
+You think I care... getting caught?
+
+847
+00:34:26,941 --> 00:34:28,908
+Dying in prison?
+
+848
+00:34:28,910 --> 00:34:31,110
+I died when my daughter did.
+
+849
+00:34:31,112 --> 00:34:32,545
+I just didn't feel
+
+850
+00:34:32,547 --> 00:34:34,246
+that I should be the only one
+
+851
+00:34:34,272 --> 00:34:35,823
+to feel the pain I experienced.
+
+852
+00:34:35,849 --> 00:34:37,383
+You're not.
+
+853
+00:34:37,385 --> 00:34:39,485
+I know what it feels like to sit
+
+854
+00:34:39,511 --> 00:34:41,712
+at your child's bedside.
+
+855
+00:34:42,256 --> 00:34:45,791
+Watching each breath they take,
+praying it won't be their last.
+
+856
+00:34:45,793 --> 00:34:48,961
+To hold your daughter's hand,
+
+857
+00:34:48,963 --> 00:34:52,498
+trying to memorize what it feels like
+
+858
+00:34:52,500 --> 00:34:55,200
+so you won't forget.
+
+859
+00:34:57,537 --> 00:35:00,272
+Your daughter
+
+860
+00:35:00,274 --> 00:35:02,141
+too scared to close her eyes,
+
+861
+00:35:02,143 --> 00:35:05,077
+even when she's so tired,
+because she's worried
+
+862
+00:35:05,079 --> 00:35:07,379
+she won't be able to open them again.
+
+863
+00:35:08,081 --> 00:35:11,049
+Some things you just can't fix.
+
+864
+00:35:11,051 --> 00:35:14,152
+You got to live with them.
+
+865
+00:35:15,488 --> 00:35:17,456
+You don't take innocent lives.
+
+866
+00:35:18,691 --> 00:35:20,859
+We shouldn't be listening to this.
+
+867
+00:35:25,598 --> 00:35:27,432
+That man deserved to die.
+
+868
+00:35:27,434 --> 00:35:31,069
+They all deserved to feel my pain!
+
+869
+00:35:31,071 --> 00:35:34,539
+No, they didn't.
+
+870
+00:35:34,541 --> 00:35:36,741
+No one deserves it.
+
+871
+00:35:39,582 --> 00:35:42,117
+Hey, I'm going to get Ralph.
+
+872
+00:35:42,143 --> 00:35:43,876
+I got him a new telescope.
+
+873
+00:35:43,878 --> 00:35:46,478
+And I thought we might set
+it up on the roof and grill.
+
+874
+00:35:46,504 --> 00:35:47,679
+Want to join us?
+
+875
+00:35:47,681 --> 00:35:49,915
+Uh, maybe later, but thanks.
+
+876
+00:35:49,917 --> 00:35:51,550
+Okay.
+
+877
+00:35:51,552 --> 00:35:54,286
+Isn't that called "trying to unring a bell"?
+
+878
+00:35:55,777 --> 00:35:58,860
+Sometimes it's okay to admit
+you don't have all the answers.
+
+879
+00:36:00,326 --> 00:36:02,361
+You know about my sister, don't you?
+
+880
+00:36:02,363 --> 00:36:04,329
+How she's still sick?
+
+881
+00:36:04,331 --> 00:36:06,265
+It's not really my business.
+
+882
+00:36:06,267 --> 00:36:09,768
+I was just trying to help you today.
+
+883
+00:36:11,537 --> 00:36:13,868
+For me, my mind...
+
+884
+00:36:14,842 --> 00:36:17,676
+every problem has a solution.
+
+885
+00:36:19,512 --> 00:36:22,647
+There must be a solution for her.
+
+886
+00:36:27,627 --> 00:36:29,027
+Hey.
+
+887
+00:36:31,657 --> 00:36:34,013
+I should never have yelled at you earlier.
+
+888
+00:36:35,162 --> 00:36:37,195
+You're the bravest person I've ever met.
+
+889
+00:36:37,720 --> 00:36:40,406
+That girl would've died today without you.
+
+890
+00:36:40,801 --> 00:36:43,935
+Without us.
+
+891
+00:36:46,613 --> 00:36:51,576
+Federal transpo just came
+around back and picked up Richter.
+
+892
+00:36:51,578 --> 00:36:52,717
+I'm on my way out.
+
+893
+00:36:52,743 --> 00:36:55,357
+Ralph and I were gonna barbecue
+some burgers up on the roof.
+
+894
+00:36:55,383 --> 00:36:56,863
+It would really help if you could keep
+
+895
+00:36:56,889 --> 00:36:58,901
+an eye on him while I work the grill.
+
+896
+00:37:10,830 --> 00:37:13,298
+<i>Can I help you?</i>
+
+897
+00:37:13,300 --> 00:37:14,799
+Yes, uh, this is for the kids.
+
+898
+00:37:15,701 --> 00:37:18,236
+But nothing for the biology department.
+
+899
+00:37:18,238 --> 00:37:21,406
+Or a-a lab of any kind.
+
+900
+00:37:21,408 --> 00:37:23,608
+Something fun?
+
+901
+00:37:26,245 --> 00:37:28,479
+And safe.
+
+902
+00:37:52,070 --> 00:37:55,132
+<i>- Hi. This is</i> <i>Dr. Tobias M. Curtis.</i>
+<i>- Please leave a message.</i>
+
+903
+00:37:55,158 --> 00:37:57,029
+<i>Hi, Toby. It's me.</i>
+
+904
+00:37:57,055 --> 00:37:59,590
+<i>I'm really glad things
+are going well for you.</i>
+
+905
+00:37:59,616 --> 00:38:02,327
+<i>But I don't care</i> <i>about the money you owe.</i>
+
+906
+00:38:02,353 --> 00:38:04,254
+<i>I moved on.</i>
+
+907
+00:38:04,256 --> 00:38:05,855
+<i>Please do the same.</i>
+
+908
+00:38:05,857 --> 00:38:08,832
+<i>And don't call again. Bye.</i>
+
+909
+00:38:08,858 --> 00:38:10,363
+All in.
+
+910
+00:38:10,389 --> 00:38:12,056
+You didn't even see your cards yet.
+
+911
+00:38:12,082 --> 00:38:12,815
+I don't have to.
+
+912
+00:38:13,565 --> 00:38:16,432
+I see you.
+
+913
+00:38:25,175 --> 00:38:26,275
+Hey.
+
+914
+00:38:26,277 --> 00:38:28,744
+Hi, Walter.
+
+915
+00:38:31,336 --> 00:38:33,951
+Your sister is the best patient we have.
+
+916
+00:38:34,090 --> 00:38:35,614
+Never quits.
+
+917
+00:38:37,827 --> 00:38:39,312
+I got my first paycheck.
+
+918
+00:38:39,381 --> 00:38:41,348
+Well, I hope you're gonna do something fun.
+
+919
+00:38:41,374 --> 00:38:42,241
+You deserve it.
+
+920
+00:38:42,651 --> 00:38:44,918
+Yeah, I'm gonna do something for you.
+
+921
+00:38:44,920 --> 00:38:46,119
+Hey.
+
+922
+00:38:47,588 --> 00:38:51,224
+MS is my fight, not yours.
+
+923
+00:38:51,226 --> 00:38:53,359
+I'm not gonna let you die, Megan.
+
+924
+00:38:53,361 --> 00:38:55,795
+I'm going to fix you.
+
+925
+00:38:59,033 --> 00:39:01,868
+Cabe, another medium-well?
+
+926
+00:39:01,870 --> 00:39:03,036
+"Another"?
+
+927
+00:39:03,038 --> 00:39:04,437
+The last one was raw.
+
+928
+00:39:06,106 --> 00:39:07,307
+Hi, Walter.
+
+929
+00:39:07,309 --> 00:39:09,876
+Ralph.
+
+930
+00:39:09,878 --> 00:39:11,945
+There, I think I'm done, Ralph.
+
+931
+00:39:11,947 --> 00:39:13,746
+Come check this out.
+
+932
+00:39:18,018 --> 00:39:19,452
+See all the stars?
+
+933
+00:39:19,454 --> 00:39:22,488
+There's millions of them up there.
+
+934
+00:39:25,826 --> 00:39:27,427
+You got a notepad?
+
+935
+00:39:32,966 --> 00:39:34,567
+Thank you.
+
+936
+00:39:42,075 --> 00:39:45,578
+You know, having a family
+can be a hard thing.
+
+937
+00:39:47,447 --> 00:39:50,282
+Makes you vulnerable.
+
+938
+00:39:50,284 --> 00:39:52,451
+I know.
+
+939
+00:39:57,891 --> 00:40:00,025
+It can be a good thing, too.
+
+940
+00:40:02,729 --> 00:40:04,330
+I know.
+
+941
+00:40:07,734 --> 00:40:10,936
+Hey. Hey.
+
+942
+00:40:18,879 --> 00:40:21,180
+Hey, Ralph? If you look at the curvature
+
+943
+00:40:21,206 --> 00:40:24,434
+of the moon's surface, Orion's belt makes
+
+944
+00:40:24,460 --> 00:40:27,094
+a perfect horizontal tangent line.
+
+945
+00:40:27,120 --> 00:40:29,554
+- Isn't that cool?
+- It is cool!
+
+946
+00:40:29,924 --> 00:40:31,323
+Thank you.
+
+947
+00:40:32,496 --> 00:40:34,429
+No problem.
+
+948
+00:40:38,029 --> 00:40:42,638
+sync and corrections by <font color="#FF0000">dreaMaker7</font>
+www.addic7ed.com
+
+949
+00:41:26,546 --> 00:41:27,746
+BRANDS YOU LOVE,
+
+950
+00:41:27,748 --> 00:41:29,581
+PRICES THAT WORK FOR YOU.
+
+951
+00:41:29,583 --> 00:41:30,682
+YOU DESERVE IT.
+
+952
+00:41:30,684 --> 00:41:33,618
+MAXX LIFE AT T.J.MAXX.
+
+953
+00:41:48,734 --> 00:41:49,901
+YOU DESERVE IT.
+
+954
+00:41:50,035 --> 00:41:53,156
+When was the last time your wireless
+company made you feel like this?
+
+955
+00:41:54,740 --> 00:41:58,610
+The new Cricket Wireless believes you
+should be doing a lot more of this.
+
+956
+00:41:59,445 --> 00:42:02,347
+So we don't have any of
+those silly annual contracts.
+
+957
+00:42:03,015 --> 00:42:04,882
+But we do have a whole lot of coverage...
+
+958
+00:42:04,917 --> 00:42:06,084
+..for not a lot of money.
+
+959
+00:42:06,618 --> 00:42:08,653
+So everyone can feel like this.
+
+960
+00:42:09,088 --> 00:42:11,355
+Switch now and get a free 4G smartphone
+
+961
+00:42:11,390 --> 00:42:13,091
+on our reliable 4G network.
+
+962
+00:42:13,125 --> 00:42:15,993
+After $50 mail-in rebate
+Cricket Visa Promotion Card.
+
+963
+00:42:16,028 --> 00:42:17,528
+The new Cricket Wireless.
+
+964
+00:42:17,563 --> 00:42:18,763
+Something to smile about.
+
+965
+00:42:19,064 --> 00:42:21,632
+MUSICAL CHAIRS. FUN, RIGHT?
+
+966
+00:42:21,634 --> 00:42:23,401
+WELLLLLLLLL,
+NOT WHEN YOUR TRAVEL REWARDS CARD
+
+967
+00:42:23,403 --> 00:42:25,870
+MAKES IT SO HARD TO GET
+A SEAT USING YOUR MILES.
+
+968
+00:42:25,872 --> 00:42:27,104
+THAT'S THEIR GAME.
+
+969
+00:42:27,106 --> 00:42:28,839
+THE FLIGHTS YOU WANT ARE BLACKED OUT.
+
+970
+00:42:28,841 --> 00:42:31,609
+OR THEY ASK FOR SOME
+RIDICULOUS NUMBER OF MILES.
+
+971
+00:42:31,611 --> 00:42:33,544
+HONESTLY, IT'S TIME TO SWITCH
+
+972
+00:42:33,546 --> 00:42:35,112
+TO THE VENTURE CARD FROM CAPITAL ONE.
+
+973
+00:42:35,114 --> 00:42:37,581
+WITH VENTURE, USE YOUR MILES ON ANY AIRLINE,
+
+974
+00:42:37,583 --> 00:42:38,983
+ANY FLIGHT, ANY TIME.
+
+975
+00:42:38,985 --> 00:42:40,451
+NO BLACKOUT DATES.
+
+976
+00:42:40,453 --> 00:42:43,454
+AND WITH EVERY PURCHASE,
+YOU'LL EARN UNLIMITED DOUBLE MILES.
+
+977
+00:42:43,456 --> 00:42:46,690
+FROM NOW ON, NO ONE'S TAKING YOUR SEAT AWAY.
+
+978
+00:42:46,692 --> 00:42:48,559
+WHAT'S IN YOUR WALLET?
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

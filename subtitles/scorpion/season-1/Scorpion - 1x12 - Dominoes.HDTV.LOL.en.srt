@@ -1,0 +1,4133 @@
+﻿1
+00:00:03,260 --> 00:00:04,926
+<i>My name is Walter O'Brien.</i>
+
+2
+00:00:05,190 --> 00:00:09,559
+<i>I have the fourth highest IQ</i>
+<i><i><i>ever recorded: 197.</i>
+
+3
+00:00:09,561 --> 00:00:11,361
+<i>Einstein's was 160.</i>
+
+4
+00:00:11,363 --> 00:00:13,897
+<i>When I was 11, the FBI</i>
+<i>arrested me for hacking NASA</i>
+
+5
+00:00:13,899 --> 00:00:16,633
+<i>to get their blueprints</i>
+<i>for my bedroom wall.</i>
+
+6
+00:00:16,635 --> 00:00:18,802
+<i>Now I run a team of geniuses,</i>
+
+7
+00:00:18,804 --> 00:00:20,270
+<i>tackling worldwide threats</i>
+
+8
+00:00:20,272 --> 00:00:21,805
+<i>only we can solve.</i>
+
+9
+00:00:21,807 --> 00:00:23,607
+<i>Toby's our behaviorist.</i>
+
+10
+00:00:23,609 --> 00:00:25,308
+<i>Sylvester's a human calculator.</i>
+
+11
+00:00:25,310 --> 00:00:27,677
+<i>Happy, a mechanical prodigy.</i>
+
+12
+00:00:27,679 --> 00:00:29,846
+<i>Agent Cabe Gallo's</i>
+<i>our government handler.</i>
+
+13
+00:00:29,848 --> 00:00:32,082
+<i>And Paige?</i>
+<i>Well, Paige isn't like us.</i>
+
+14
+00:00:32,084 --> 00:00:34,551
+<i>She's normal</i>
+<i>and translates the world for us</i>
+
+15
+00:00:34,553 --> 00:00:37,220
+<i>while we help her understand</i>
+<i>her genius son.</i>
+
+16
+00:00:37,222 --> 00:00:39,322
+<i>Together, we are Scorpion.</i>
+
+17
+00:01:03,548 --> 00:01:05,715
+Hello!
+
+18
+00:01:05,717 --> 00:01:07,017
+Merry Christmas Eve, everybody.
+
+19
+00:01:07,019 --> 00:01:08,184
+Wow.
+
+20
+00:01:08,186 --> 00:01:10,220
+Black Sabbath instead of
+“White Christmas”?
+
+21
+00:01:10,222 --> 00:01:13,456
+No way. Okay, we're all getting
+into the Christmas spirit.
+
+22
+00:01:13,458 --> 00:01:14,991
+You know, we're kind of busy.
+
+23
+00:01:14,993 --> 00:01:17,060
+Shocker. That's why I'm
+bringing the celebration here.
+
+24
+00:01:17,062 --> 00:01:18,962
+Tonight, we're going
+to have dinner together.
+
+25
+00:01:18,964 --> 00:01:20,997
+And yes, you have
+to help decorate.
+
+26
+00:01:22,300 --> 00:01:23,967
+So, Ralph's a
+little disappointed.
+
+27
+00:01:23,969 --> 00:01:25,935
+Drew had to head to Portland--
+last-minute tryout
+
+28
+00:01:25,937 --> 00:01:27,570
+for a minor league team.
+TOBY Wow.
+
+29
+00:01:27,572 --> 00:01:28,805
+Missing Christmas
+with his son.
+
+30
+00:01:28,807 --> 00:01:30,440
+That doesn't sound like him.
+No, wait.
+
+31
+00:01:30,442 --> 00:01:32,709
+That sounds exactly like him.
+Drew wasn't happy
+
+32
+00:01:32,711 --> 00:01:35,178
+about it, but they wanted to see
+him throw before the manager
+
+33
+00:01:35,180 --> 00:01:36,646
+left for vacation
+or something.
+
+34
+00:01:36,648 --> 00:01:38,682
+Anyway, I want to soften
+the blow for Ralph.
+
+35
+00:01:38,684 --> 00:01:40,050
+Tree, lights, Santa.
+
+36
+00:01:40,052 --> 00:01:42,585
+Gonna give him everything
+this Christmas except for snow.
+
+37
+00:01:42,587 --> 00:01:43,853
+Uh, news flash.
+
+38
+00:01:43,855 --> 00:01:45,355
+Ralph doesn't believe in Santa.
+
+39
+00:01:45,357 --> 00:01:46,523
+You can be a genius
+
+40
+00:01:46,525 --> 00:01:48,091
+and still believe
+in things that are magical.
+
+41
+00:01:48,093 --> 00:01:50,960
+Oh, speaking of... Santa,
+
+42
+00:01:50,962 --> 00:01:53,029
+I have your gifts.
+
+43
+00:01:53,999 --> 00:01:57,033
+Happy, Paige got us gifts.
+
+44
+00:01:58,503 --> 00:02:00,070
+You didn't get me anything,
+did you?
+
+45
+00:02:01,273 --> 00:02:03,006
+No problem. Happy.
+
+46
+00:02:04,676 --> 00:02:06,342
+Sylvester.
+
+47
+00:02:06,712 --> 00:02:08,678
+And Toby.
+
+48
+00:02:09,448 --> 00:02:10,680
+Oh.
+
+49
+00:02:10,682 --> 00:02:12,148
+I miss my hat.
+
+50
+00:02:12,150 --> 00:02:14,684
+It's on a cliff
+somewhere in Bosnia.
+
+51
+00:02:14,686 --> 00:02:16,219
+Uh, this wrench
+isn't functional.
+
+52
+00:02:16,221 --> 00:02:18,521
+They're ornaments.
+Now all we need is a tree.
+
+53
+00:02:18,523 --> 00:02:20,790
+And I can't figure out
+what to get Walter.
+
+54
+00:02:20,792 --> 00:02:23,059
+What do you get somebody
+with a 197 IQ?
+
+55
+00:02:23,061 --> 00:02:24,561
+Definitely not this stuff.
+
+56
+00:02:24,563 --> 00:02:25,762
+Okay.
+
+57
+00:02:30,035 --> 00:02:33,403
+I could have built
+a better robot when I was five.
+
+58
+00:02:34,339 --> 00:02:37,807
+I did build a better robot
+when I was five.
+
+59
+00:02:37,809 --> 00:02:39,909
+Well, thank you for the gifts, Paige.
+Sure.
+
+60
+00:02:39,911 --> 00:02:41,544
+You know, before my parents
+
+61
+00:02:41,546 --> 00:02:43,413
+shipped me off
+to live with my uncle,
+
+62
+00:02:43,415 --> 00:02:45,815
+my dad bought me a weight set
+for Christmas.
+
+63
+00:02:45,817 --> 00:02:47,751
+Which is crazy because
+
+64
+00:02:47,753 --> 00:02:49,319
+I'm big, not strong.
+
+65
+00:02:49,321 --> 00:02:52,021
+Uh, try a foster home
+Christmas.
+
+66
+00:02:52,023 --> 00:02:53,423
+They'd send me back
+to the state
+
+67
+00:02:53,425 --> 00:02:55,525
+a week earlier so they wouldn't
+have to get me a present.
+
+68
+00:02:55,527 --> 00:02:57,694
+Do any of you have
+good Christmas memories?
+
+69
+00:02:57,696 --> 00:02:59,062
+I loved Christmas.
+
+70
+00:02:59,064 --> 00:03:02,465
+My dad would wake me early,
+and we'd rush downstairs.
+
+71
+00:03:02,467 --> 00:03:03,900
+Okay, now we're talking.
+
+72
+00:03:03,902 --> 00:03:05,201
+Then we'd head straight
+to off-track betting.
+
+73
+00:03:05,203 --> 00:03:06,636
+It was magical.
+The whole gang
+
+74
+00:03:06,638 --> 00:03:08,138
+would be there--
+Timmy No Shoes,
+
+75
+00:03:08,140 --> 00:03:10,273
+Smelly Jim, Pooter.
+
+76
+00:03:10,275 --> 00:03:11,641
+They taught me
+how, on Christmas,
+
+77
+00:03:11,643 --> 00:03:13,676
+you never bet the two
+or the five horse.
+
+78
+00:03:13,678 --> 00:03:15,445
+Nags put there for
+superstitious suckers
+
+79
+00:03:15,447 --> 00:03:17,113
+betting on the twenty-fifth.
+
+80
+00:03:17,115 --> 00:03:18,948
+Best of all, by the
+time we got home,
+
+81
+00:03:18,950 --> 00:03:21,584
+my mom would be passed out
+on the couch from the eggnog.
+
+82
+00:03:25,657 --> 00:03:27,857
+That was.. that was almost worse
+than Happy's.
+
+83
+00:03:27,859 --> 00:03:30,360
+I've-I've never heard people
+so jaded about Christmas.
+
+84
+00:03:30,362 --> 00:03:31,594
+I mean,
+
+85
+00:03:31,596 --> 00:03:33,096
+who thinks that way?
+
+86
+00:03:33,098 --> 00:03:35,765
+While Christmas has zero impact
+on me personally,
+
+87
+00:03:35,767 --> 00:03:38,835
+it does provide people
+with, um, psychological uplift,
+
+88
+00:03:38,837 --> 00:03:41,171
+thus making workers
+more productive,
+
+89
+00:03:41,173 --> 00:03:44,574
+so the holiday
+does have value.
+
+90
+00:03:44,576 --> 00:03:47,010
+The point is to
+be with family.
+
+91
+00:03:47,012 --> 00:03:48,111
+That's what we're doing.
+
+92
+00:03:48,113 --> 00:03:49,646
+Eating Fat Burger?
+
+93
+00:03:49,648 --> 00:03:51,281
+It's not exactly
+a holiday meal.
+
+94
+00:03:51,283 --> 00:03:54,150
+Yours has bacon. That's
+practically Christmas ham.
+
+95
+00:03:58,089 --> 00:03:59,923
+That is just sad.
+
+96
+00:03:59,925 --> 00:04:01,424
+Hmm.
+
+97
+00:04:05,730 --> 00:04:07,997
+Excuse me. Hi.
+
+98
+00:04:07,999 --> 00:04:10,800
+The wind's not striking the sail
+with enough velocity.
+
+99
+00:04:10,802 --> 00:04:13,469
+This produces insubstantial
+pressure on the face, and,
+
+100
+00:04:13,471 --> 00:04:15,238
+consequently,
+not enough upward thrust
+
+101
+00:04:15,240 --> 00:04:17,006
+to counterbalance gravity.
+
+102
+00:04:19,044 --> 00:04:20,310
+Got to turn your kite.
+
+103
+00:04:20,312 --> 00:04:22,045
+Here.
+
+104
+00:04:22,047 --> 00:04:24,013
+Thank you.
+
+105
+00:04:27,819 --> 00:04:29,986
+Oh.
+
+106
+00:04:32,290 --> 00:04:34,958
+How'd you know that?
+I know a few things.
+
+107
+00:04:34,960 --> 00:04:37,093
+Did you know
+that Ben Franklin-- he...?
+
+108
+00:04:37,095 --> 00:04:38,895
+He discovered electricity
+by flying a kite.
+
+109
+00:04:38,897 --> 00:04:39,897
+No. If his kite
+
+110
+00:04:39,898 --> 00:04:41,631
+had actually been struck
+by lightning,
+
+111
+00:04:41,633 --> 00:04:44,000
+the key would have
+electrocuted him.
+
+112
+00:04:44,002 --> 00:04:45,235
+It's just a myth.
+
+113
+00:04:45,237 --> 00:04:47,537
+- I like the way you think, kid.
+- Owen,
+
+114
+00:04:47,539 --> 00:04:48,271
+leave the poor man alone.
+
+115
+00:04:48,273 --> 00:04:49,772
+- Oh.
+- Okay.
+
+116
+00:04:49,774 --> 00:04:51,608
+Merry Christmas.
+
+117
+00:04:51,610 --> 00:04:53,409
+Yeah.
+
+118
+00:04:59,551 --> 00:05:02,585
+Do you think it's ironic
+
+119
+00:05:02,587 --> 00:05:04,487
+that Mom got you a kite
+for Christmas,
+
+120
+00:05:04,489 --> 00:05:05,722
+and you never used it?
+
+121
+00:05:05,724 --> 00:05:07,690
+Oh, that's,
+uh, not irony.
+
+122
+00:05:07,692 --> 00:05:10,360
+That's her
+not understanding me.
+
+123
+00:05:10,362 --> 00:05:14,330
+Yeah. You were never into
+the holiday, even as a kid.
+
+124
+00:05:14,332 --> 00:05:16,432
+It's because
+I had more important things
+
+125
+00:05:16,434 --> 00:05:20,436
+to occupy my time,
+like the Rohaxinal study.
+
+126
+00:05:20,438 --> 00:05:22,639
+I pulled
+some favors.
+
+127
+00:05:22,641 --> 00:05:23,773
+You're in.
+
+128
+00:05:23,775 --> 00:05:25,708
+I...
+
+129
+00:05:25,710 --> 00:05:27,977
+I don't want
+to be a guinea pig.
+
+130
+00:05:28,780 --> 00:05:29,913
+Well, that drug has
+
+131
+00:05:29,915 --> 00:05:31,080
+some serious side effects.
+
+132
+00:05:31,082 --> 00:05:32,782
+It could save your life.
+
+133
+00:05:32,784 --> 00:05:34,550
+You've seen
+the test results, Walt.
+
+134
+00:05:34,552 --> 00:05:36,853
+At this point,
+I don't need a new drug.
+
+135
+00:05:36,855 --> 00:05:38,087
+I need a miracle.
+
+136
+00:05:38,089 --> 00:05:40,924
+There is no such thing!
+
+137
+00:05:40,926 --> 00:05:44,394
+All right, do know how
+Jonas Salk cured polio?
+
+138
+00:05:44,396 --> 00:05:48,364
+With science, not by singing
+about snowmen and reindeer.
+
+139
+00:05:48,366 --> 00:05:50,733
+Well, sometimes you need
+a little faith.
+
+140
+00:05:50,735 --> 00:05:53,002
+I do have faith,
+just in things that are real.
+
+141
+00:05:54,372 --> 00:05:55,805
+Are we having an earthquake?
+
+142
+00:05:57,676 --> 00:06:00,243
+It's a rock slide.
+
+143
+00:06:00,245 --> 00:06:01,344
+Owen!
+
+144
+00:06:01,346 --> 00:06:03,112
+Help!
+
+145
+00:06:03,114 --> 00:06:05,448
+He's trapped!
+
+146
+00:06:06,651 --> 00:06:07,951
+Oh, my God.
+
+147
+00:06:09,387 --> 00:06:11,321
+Owen's down there!
+
+148
+00:06:11,323 --> 00:06:12,822
+Wait. Down where?
+
+149
+00:06:12,824 --> 00:06:15,825
+He was in the cave, and the
+bluff just started to come down.
+
+150
+00:06:15,827 --> 00:06:16,960
+Owen! Owen!
+
+151
+00:06:16,962 --> 00:06:18,861
+The ground just
+opened up.
+
+152
+00:06:18,863 --> 00:06:20,296
+He fell in. It happened so fast.
+
+153
+00:06:20,298 --> 00:06:22,131
+Owen! What do you mean,
+the ground just opened up?
+
+154
+00:06:22,133 --> 00:06:23,333
+It's a sinkhole.
+
+155
+00:06:23,335 --> 00:06:24,534
+Rock slides often start
+
+156
+00:06:24,536 --> 00:06:26,769
+with small seismic shifts
+at ground level.
+
+157
+00:06:26,771 --> 00:06:28,204
+It's common in California.
+It can cause
+
+158
+00:06:28,206 --> 00:06:30,139
+a small, spontaneous hole,
+especially in sand.
+
+159
+00:06:30,141 --> 00:06:31,541
+Oh, my God!
+
+160
+00:06:31,543 --> 00:06:33,076
+He's buried alive!
+No, no, no.
+
+161
+00:06:33,078 --> 00:06:34,344
+Not necessarily.
+
+162
+00:06:34,346 --> 00:06:36,679
+Sinkholes very rarely self-fill.
+
+163
+00:06:36,681 --> 00:06:38,681
+There's a good chance he's stuck
+in a hollow right now.
+
+164
+00:06:38,683 --> 00:06:40,049
+We need the L.A.
+Fire Department,
+
+165
+00:06:40,051 --> 00:06:42,251
+Army Corps of Engineers,
+anyone that can help.
+
+166
+00:06:42,253 --> 00:06:43,720
+Copy that. But who
+the hell are you?
+
+167
+00:06:43,722 --> 00:06:45,521
+I'm with Homeland.
+
+168
+00:06:45,523 --> 00:06:47,857
+I know some people.
+We can help.
+
+169
+00:06:56,334 --> 00:06:59,068
+Touch it, and you will have
+a blue Christmas.
+
+170
+00:06:59,070 --> 00:07:00,336
+I helped, too.
+
+171
+00:07:00,338 --> 00:07:02,739
+Walter designed it, Sylvester
+calculated it, I built it.
+
+172
+00:07:02,741 --> 00:07:04,240
+What was your job?
+Moral support.
+
+173
+00:07:04,242 --> 00:07:05,441
+Toby,
+
+174
+00:07:05,443 --> 00:07:06,876
+a few weeks ago,
+I was in a hospital
+
+175
+00:07:06,878 --> 00:07:08,277
+getting shrapnel
+taken out of my chest,
+
+176
+00:07:08,279 --> 00:07:10,747
+and I still did more work
+for this project than you did.
+
+177
+00:07:10,749 --> 00:07:12,415
+Grinch.
+
+178
+00:07:12,417 --> 00:07:13,816
+Hey, guys,
+Walter just called.
+
+179
+00:07:13,818 --> 00:07:15,885
+There's a ten-year-old
+boy trapped in
+
+180
+00:07:15,887 --> 00:07:17,020
+a sinkhole at Zuma Beach.
+
+181
+00:07:17,022 --> 00:07:18,254
+Let's go.
+
+182
+00:07:21,326 --> 00:07:24,060
+Zuma Beach is on high alert,
+as a ten-year-old boy is trapped
+
+183
+00:07:24,062 --> 00:07:26,129
+one and a half stories
+below the earth's surface.
+
+184
+00:07:26,131 --> 00:07:27,463
+Walter!
+
+185
+00:07:27,465 --> 00:07:29,298
+We have seen emergency
+crews arriving on scene...
+
+186
+00:07:29,300 --> 00:07:30,005
+Yeah?
+
+187
+00:07:30,029 --> 00:07:31,735
+We were listening
+to the news on the way here.
+
+188
+00:07:31,736 --> 00:07:34,037
+Okay. We'll start off by
+getting you up to speed.
+
+189
+00:07:34,039 --> 00:07:36,406
+This is Dan Heather,
+Army Corps of Engineers,
+
+190
+00:07:36,408 --> 00:07:37,774
+Geotech Division. Dan?
+
+191
+00:07:37,776 --> 00:07:39,509
+Mind filling my guys in?
+
+192
+00:07:39,511 --> 00:07:43,813
+Those boulders up here
+are blocking access to the boy.
+
+193
+00:07:43,815 --> 00:07:47,150
+He's trapped in a sinkhole
+14 feet deep underground here.
+
+194
+00:07:47,152 --> 00:07:49,719
+If we use heavy machinery
+to move them,
+
+195
+00:07:49,721 --> 00:07:51,387
+ground shifts will cause
+the sinkhole to collapse,
+
+196
+00:07:51,389 --> 00:07:53,356
+which means
+we have no way to reach him.
+
+197
+00:07:53,358 --> 00:07:55,158
+Oh, my God.
+But it gets worse.
+
+198
+00:07:55,160 --> 00:07:56,225
+We can't get in,
+
+199
+00:07:56,227 --> 00:07:57,227
+but water can.
+
+200
+00:07:57,228 --> 00:07:58,561
+There are gaps
+
+201
+00:07:58,563 --> 00:08:00,029
+between those rocks.
+
+202
+00:08:00,031 --> 00:08:02,365
+Waves are dumping down 30
+gallons of seawater per minute.
+
+203
+00:08:02,367 --> 00:08:05,068
+We're putting sandbags
+to restrict the flow,
+
+204
+00:08:05,070 --> 00:08:06,869
+but tide is too strong.
+
+205
+00:08:06,871 --> 00:08:08,304
+The hole is filling up fast.
+
+206
+00:08:08,306 --> 00:08:09,572
+Dimensions of the hole?
+
+207
+00:08:09,574 --> 00:08:11,707
+Best guess: 1,100 cubic feet.
+
+208
+00:08:11,709 --> 00:08:13,776
+Taking into account
+the water displacement
+
+209
+00:08:13,778 --> 00:08:16,479
+due to an average-sized
+ten-year-old boy, he will drown
+
+210
+00:08:16,481 --> 00:08:17,980
+in one hour and 22 minutes.
+
+211
+00:08:17,982 --> 00:08:19,882
+You can't drill
+to him before then?
+
+212
+00:08:19,884 --> 00:08:22,051
+A CalTrans team offered
+to help.
+
+213
+00:08:22,053 --> 00:08:24,854
+They have the right drills, but
+the sand is incredibly unstable.
+
+214
+00:08:24,856 --> 00:08:28,057
+Normally, we'd drill
+at a steep angle,
+
+215
+00:08:28,059 --> 00:08:29,992
+but that could cause a cave-in,
+killing him instantly.
+
+216
+00:08:29,994 --> 00:08:33,796
+Instead, we're digging at a
+shallow angle, farther away.
+
+217
+00:08:33,798 --> 00:08:35,565
+But progress is slow.
+
+218
+00:08:35,567 --> 00:08:37,300
+Doesn't help, this
+entire bluff's unstable
+
+219
+00:08:37,302 --> 00:08:39,469
+and could re-slide at
+any time, burying him.
+
+220
+00:08:39,471 --> 00:08:41,604
+Follow me.
+
+221
+00:08:41,606 --> 00:08:42,738
+Where's his parents?
+
+222
+00:08:42,740 --> 00:08:44,040
+Driving back
+from up north.
+
+223
+00:08:44,042 --> 00:08:46,142
+Bringing his grandparents
+back for Christmas.
+
+224
+00:08:46,144 --> 00:08:47,710
+Babysitter's trying
+to get ahold of them.
+
+225
+00:08:47,712 --> 00:08:49,912
+Speaking of communication,
+we need a way to talk to Owen,
+
+226
+00:08:49,914 --> 00:08:51,380
+find out his exact location.
+
+227
+00:08:51,382 --> 00:08:54,217
+So you don't drill through the
+sinkhole wall and impale him.
+
+228
+00:08:54,219 --> 00:08:55,585
+That's right.
+
+229
+00:08:55,587 --> 00:08:57,753
+We considered flying in
+a high-tech sound wave device
+
+230
+00:08:57,755 --> 00:08:59,021
+from Nellis Air
+Force Base, but...
+
+231
+00:08:59,023 --> 00:09:00,523
+Even an HH-60
+helicopter
+
+232
+00:09:00,525 --> 00:09:02,625
+with a top speed
+of 195 knots
+
+233
+00:09:02,627 --> 00:09:04,127
+wouldn't get here
+for another 86 minutes,
+
+234
+00:09:04,129 --> 00:09:06,095
+and that's four minutes after
+the hole would be full of water.
+
+235
+00:09:06,097 --> 00:09:07,463
+The sinkhole is in there,
+
+236
+00:09:07,465 --> 00:09:08,465
+under that rock.
+
+237
+00:09:08,466 --> 00:09:09,732
+No way the kid can hear us.
+
+238
+00:09:09,734 --> 00:09:11,100
+No. I've got a way.
+
+239
+00:09:13,638 --> 00:09:16,272
+Okay, Walter,
+I really don't feel
+
+240
+00:09:16,274 --> 00:09:18,141
+comfortable being in
+a cave that was formed
+
+241
+00:09:18,143 --> 00:09:21,177
+by a rock slide that happened
+less than an hour ago.
+
+242
+00:09:21,179 --> 00:09:22,445
+Oh, no.
+
+243
+00:09:22,447 --> 00:09:24,680
+Guys, okay,
+Owen is right under there.
+
+244
+00:09:24,682 --> 00:09:29,185
+But we can't dig a rescue tunnel
+this close to Owen, but CalTrans
+
+245
+00:09:29,187 --> 00:09:31,487
+can auger an eight-inch
+diameter tunnel
+
+246
+00:09:31,489 --> 00:09:32,788
+at a 75 degree angle.
+
+247
+00:09:32,790 --> 00:09:34,423
+Small enough not
+to compromise the sinkhole.
+
+248
+00:09:34,425 --> 00:09:36,759
+Use a collapsible mast drill
+bit so if it accidentally
+
+249
+00:09:36,761 --> 00:09:39,462
+hits the kid's body, it'll
+retract without major injury.
+
+250
+00:09:39,464 --> 00:09:40,596
+In this soft sand,
+
+251
+00:09:40,598 --> 00:09:41,831
+they'll reach
+him in minutes.
+
+252
+00:09:41,833 --> 00:09:42,899
+We need a PVC pipe.
+
+253
+00:09:42,901 --> 00:09:44,267
+I saw some on the
+CalTrans truck.
+
+254
+00:09:44,269 --> 00:09:46,369
+Okay, how do we
+communicate with Owen?
+
+255
+00:09:46,371 --> 00:09:48,404
+Do you have some kind
+of high-tech device?
+
+256
+00:09:48,406 --> 00:09:50,039
+As a matter of fact, I do.
+
+257
+00:09:52,343 --> 00:09:54,610
+Pipe is secure.
+
+258
+00:09:54,612 --> 00:09:56,879
+If he's alive, we can
+send scuba gear down
+
+259
+00:09:56,881 --> 00:09:59,815
+so he can breathe when
+the water gets too high.
+
+260
+00:09:59,817 --> 00:10:01,517
+All right. Get that there.
+
+261
+00:10:01,519 --> 00:10:03,619
+Let me see this.
+
+262
+00:10:05,056 --> 00:10:06,155
+Come on, Owen.
+
+263
+00:10:08,259 --> 00:10:10,693
+Come on.
+
+264
+00:10:12,564 --> 00:10:13,729
+Hello?
+
+265
+00:10:13,731 --> 00:10:14,564
+Hey.
+
+266
+00:10:14,566 --> 00:10:15,566
+Owen. Owen.
+
+267
+00:10:15,567 --> 00:10:16,699
+My name's Walter O'Brien.
+
+268
+00:10:16,701 --> 00:10:18,267
+I helped you with your kite.
+
+269
+00:10:18,269 --> 00:10:19,835
+Me and my friends
+are here to help you.
+
+270
+00:10:19,837 --> 00:10:22,038
+- Please, get me out of here.
+- We're working on it
+
+271
+00:10:22,040 --> 00:10:24,173
+now, okay, but it's gonna
+take some time.
+
+272
+00:10:24,175 --> 00:10:25,708
+Where are my mom and dad?
+
+273
+00:10:25,710 --> 00:10:27,310
+I want my mom and dad.
+
+274
+00:10:27,312 --> 00:10:28,811
+We're trying to
+reach out to them.
+
+275
+00:10:28,813 --> 00:10:30,513
+Put him on mute
+for one second.
+
+276
+00:10:30,515 --> 00:10:32,448
+That rapid breathing
+and confusion--
+
+277
+00:10:32,450 --> 00:10:34,317
+if he goes into shock, he could
+pass out and slump down.
+
+278
+00:10:34,319 --> 00:10:36,819
+And there's already enough water
+in there that he'll drown.
+
+279
+00:10:36,821 --> 00:10:38,354
+We need to keep him calm.
+
+280
+00:10:38,356 --> 00:10:41,490
+Walter! I got
+his parents.
+
+281
+00:10:41,492 --> 00:10:43,292
+Uh, Owen?
+
+282
+00:10:43,294 --> 00:10:45,294
+Owen, we got your parents
+on the phone, okay?
+
+283
+00:10:45,296 --> 00:10:47,530
+Hold on a sec. Hi.
+
+284
+00:10:47,532 --> 00:10:50,800
+Uh, now I'm gonna hold the phone
+up so your son can hear you.
+
+285
+00:10:50,802 --> 00:10:52,134
+Okay.
+
+286
+00:10:52,136 --> 00:10:53,402
+Owen, can you hear me?
+
+287
+00:10:53,404 --> 00:10:55,538
+Dad! I want to go home.
+
+288
+00:10:55,540 --> 00:10:57,573
+I know you do.
+We'll be there soon.
+
+289
+00:10:57,575 --> 00:10:58,507
+Where are you?
+
+290
+00:10:58,509 --> 00:11:00,209
+Sweetheart, it's Mom.
+
+291
+00:11:00,211 --> 00:11:02,511
+We're coming, baby.
+We're driving as fast as we can.
+
+292
+00:11:02,513 --> 00:11:05,014
+The phone's dying.
+
+293
+00:11:05,016 --> 00:11:06,515
+We don't have a charger.
+
+294
+00:11:06,517 --> 00:11:08,618
+Owen, listen, we don't
+have a lot of time to talk.
+
+295
+00:11:08,620 --> 00:11:09,919
+Don't hang up!
+
+296
+00:11:09,921 --> 00:11:11,320
+I love you so much, baby.
+
+297
+00:11:11,322 --> 00:11:13,055
+Son, we're gonna
+get cut off soon.
+
+298
+00:11:13,057 --> 00:11:14,090
+Please, don't be afraid.
+
+299
+00:11:14,092 --> 00:11:16,025
+We're gonna get to you,
+and when we do,
+
+300
+00:11:16,027 --> 00:11:17,326
+Mommy and I are gonna
+hold you, sweetie,
+
+301
+00:11:17,328 --> 00:11:18,461
+and we're never gonna let you...
+
+302
+00:11:18,463 --> 00:11:21,397
+Dad? Dad!
+
+303
+00:11:21,399 --> 00:11:23,733
+Phone's dead.
+
+304
+00:11:25,336 --> 00:11:27,303
+Guys, remember what I said
+about keeping him calm. Paige.
+
+305
+00:11:27,305 --> 00:11:30,072
+Owen.
+
+306
+00:11:30,074 --> 00:11:31,974
+My name is Paige. I'm a mom.
+
+307
+00:11:31,976 --> 00:11:34,043
+I have a ten-year-old son, too.
+Can I sit in for your parents
+
+308
+00:11:34,045 --> 00:11:35,544
+until they get here
+and just talk to you?
+
+309
+00:11:35,546 --> 00:11:37,747
+It's almost Christmas.
+
+310
+00:11:37,749 --> 00:11:40,116
+Do you decorate
+your-your tree with, um,
+
+311
+00:11:40,118 --> 00:11:41,817
+candy canes
+and ornaments?
+
+312
+00:11:41,819 --> 00:11:45,021
+My dad strings popcorn.
+We do, too.
+
+313
+00:11:45,023 --> 00:11:47,323
+We make a super long one, and
+we wrap it all the way around.
+
+314
+00:11:47,325 --> 00:11:48,991
+Hey, he's doing better.
+Keep going.
+
+315
+00:11:48,993 --> 00:11:50,726
+What else do you do
+for Christmas?
+
+316
+00:11:50,728 --> 00:11:53,796
+We... we watch Christmas movies.
+
+317
+00:11:53,798 --> 00:11:54,930
+Yeah?
+
+318
+00:11:54,932 --> 00:11:56,699
+Something's off
+with his breathing.
+
+319
+00:11:58,536 --> 00:12:00,369
+Hey, Owen!
+
+320
+00:12:00,371 --> 00:12:01,971
+Listen, I'm a doctor.
+
+321
+00:12:01,973 --> 00:12:03,306
+Tell me, does your chest hurt?
+
+322
+00:12:03,308 --> 00:12:04,540
+Yeah.
+
+323
+00:12:04,542 --> 00:12:06,709
+I hit a rock when I fell.
+
+324
+00:12:06,711 --> 00:12:10,012
+Oh. Uh, would you mind
+looking up for me?
+
+325
+00:12:10,014 --> 00:12:11,981
+Ah, thanks, buddy.
+
+326
+00:12:11,983 --> 00:12:14,717
+Listen, you're doing great.
+Just hold on one second, okay?
+
+327
+00:12:14,719 --> 00:12:16,319
+I put him on mute.
+
+328
+00:12:16,321 --> 00:12:17,887
+He-he has distended neck veins.
+
+329
+00:12:17,889 --> 00:12:20,189
+That's sign of a pneumothorax,
+a collapsed lung.
+
+330
+00:12:20,191 --> 00:12:22,558
+It's probably from a broken rib
+piercing it; but we cannot
+
+331
+00:12:22,560 --> 00:12:24,193
+use that scuba gear.
+
+332
+00:12:24,195 --> 00:12:25,795
+The compressed air
+will kill him.
+
+333
+00:12:25,797 --> 00:12:27,663
+And that's gonna be a problem.
+
+334
+00:12:27,665 --> 00:12:28,898
+Because...
+
+335
+00:12:28,900 --> 00:12:29,965
+I just realized
+
+336
+00:12:29,967 --> 00:12:31,200
+I didn't account
+for the tidal changes
+
+337
+00:12:31,202 --> 00:12:32,935
+when I calculated
+how long it was going to take
+
+338
+00:12:32,937 --> 00:12:34,537
+for Owen to be submerged.
+
+339
+00:12:34,539 --> 00:12:36,138
+I made a big mistake.
+
+340
+00:12:36,140 --> 00:12:37,540
+I'm so sorry.
+
+341
+00:12:37,542 --> 00:12:39,742
+What's the adjustment?
+
+342
+00:12:39,744 --> 00:12:41,844
+We don't have an hour
+and 22 minutes to save him.
+
+343
+00:12:41,846 --> 00:12:43,346
+If we can't get him
+out of there,
+
+344
+00:12:43,348 --> 00:12:45,581
+he's going to drown
+in 56 minutes.
+
+345
+00:12:49,687 --> 00:12:52,088
+Tension is building
+here at Zuma Beach,
+
+346
+00:12:52,090 --> 00:12:54,423
+as we have learned
+that ten-year-old Owen Cooper
+
+347
+00:12:54,425 --> 00:12:57,760
+has less than an hour until
+he's completely underwater.
+
+348
+00:12:57,762 --> 00:13:00,930
+Rescue crews are tunneling in
+in an attempt to reach him
+
+349
+00:13:00,932 --> 00:13:03,399
+and hopefully get him out
+in time.
+
+350
+00:13:03,401 --> 00:13:05,067
+We need this
+done now!
+
+351
+00:13:05,069 --> 00:13:06,069
+Going as fast as I can.
+
+352
+00:13:06,070 --> 00:13:07,403
+There's no other option?
+
+353
+00:13:07,405 --> 00:13:08,405
+No.
+
+354
+00:13:08,406 --> 00:13:09,839
+Walter.
+
+355
+00:13:09,841 --> 00:13:11,807
+Owen, we're gonna drill to you
+and lift you out, okay?
+
+356
+00:13:11,809 --> 00:13:12,775
+Just hang tough.
+
+357
+00:13:12,777 --> 00:13:14,276
+- You can't.
+- We can.
+
+358
+00:13:14,278 --> 00:13:16,612
+Our team's handled
+challenging situations before.
+
+359
+00:13:16,614 --> 00:13:18,781
+No. You can't lift me.
+
+360
+00:13:18,783 --> 00:13:20,649
+I'm stuck.
+
+361
+00:13:20,651 --> 00:13:21,550
+What do you mean?
+
+362
+00:13:21,552 --> 00:13:24,453
+A rock has my leg pinned down.
+
+363
+00:13:24,455 --> 00:13:26,789
+Okay, just point the phone
+at your leg, please.
+
+364
+00:13:30,862 --> 00:13:32,962
+Rock looks to be
+
+365
+00:13:32,964 --> 00:13:34,764
+a couple hundred pounds.
+Even if we get there
+
+366
+00:13:34,766 --> 00:13:35,865
+before he's submerged,
+
+367
+00:13:35,867 --> 00:13:37,867
+how the hell do we get
+that rock off of him?
+
+368
+00:13:37,869 --> 00:13:38,869
+I'm cold.
+
+369
+00:13:38,870 --> 00:13:40,870
+Please get me out of here.
+Please!
+
+370
+00:13:40,872 --> 00:13:43,172
+We're gonna figure this out.
+Everything's gonna be okay.
+
+371
+00:13:43,174 --> 00:13:46,041
+I'm gonna talk
+to the fire department.
+
+372
+00:13:46,043 --> 00:13:47,910
+I'm scared.
+I know, honey.
+
+373
+00:13:47,912 --> 00:13:49,245
+And you're doing so great.
+
+374
+00:13:49,247 --> 00:13:52,181
+You... I'm so proud of you.
+
+375
+00:13:52,183 --> 00:13:54,417
+Let's talk about
+something nice, okay?
+
+376
+00:13:54,419 --> 00:13:56,519
+Um... do you like
+Christmas books?
+
+377
+00:13:56,521 --> 00:14:00,423
+My son Ralph's, his favorite is
+<i>I Want an Alien for Christmas.</i>
+
+378
+00:14:00,425 --> 00:14:01,624
+I know that book.
+
+379
+00:14:01,626 --> 00:14:04,527
+You do? Great.
+What's your favorite part?
+
+380
+00:14:04,529 --> 00:14:05,728
+Paige?
+
+381
+00:14:05,730 --> 00:14:08,330
+Could I die in here?
+
+382
+00:14:10,234 --> 00:14:12,635
+Owen...
+
+383
+00:14:12,637 --> 00:14:15,204
+the people helping you
+are special, okay?
+
+384
+00:14:15,206 --> 00:14:16,972
+They won't let that happen
+to you.
+
+385
+00:14:16,974 --> 00:14:20,843
+Fire department is proposing
+a last-ditch idea.
+
+386
+00:14:20,845 --> 00:14:22,144
+It's not pleasant.
+
+387
+00:14:22,146 --> 00:14:23,679
+Amputate his leg?
+
+388
+00:14:24,916 --> 00:14:26,949
+We can't. The vibrations
+from the bone saw
+
+389
+00:14:26,951 --> 00:14:29,452
+would collapse the sinkhole.
+
+390
+00:14:32,123 --> 00:14:34,557
+We're up against the one thing
+humans have never been able
+
+391
+00:14:34,559 --> 00:14:35,891
+to defeat: time.
+
+392
+00:14:35,893 --> 00:14:38,127
+When half a million kids a year
+were contracting polio,
+
+393
+00:14:38,129 --> 00:14:40,329
+you think Jonas Salk
+felt like you do?
+
+394
+00:14:40,331 --> 00:14:41,764
+But when he hit
+a wall, he shoved it
+
+395
+00:14:41,766 --> 00:14:44,033
+out of the way
+and he kept going.
+
+396
+00:14:44,035 --> 00:14:46,335
+I have faith in a lot
+of things, Walter,
+
+397
+00:14:46,337 --> 00:14:48,637
+but I especially have faith
+in you.
+
+398
+00:14:51,275 --> 00:14:53,342
+You're right.
+In-Instead of thinking
+
+399
+00:14:53,344 --> 00:14:54,877
+about how to move Owen's leg,
+
+400
+00:14:54,879 --> 00:14:56,545
+we should be thinking
+about how to move the wall.
+
+401
+00:14:56,547 --> 00:14:59,715
+Or, in this case, the boulder.
+Thank you!
+
+402
+00:15:00,518 --> 00:15:03,052
+Here, Paige, Paige, Paige.
+Owen? Owen?
+
+403
+00:15:03,054 --> 00:15:04,887
+I'm gonna go off Skype
+for a minute
+
+404
+00:15:04,889 --> 00:15:07,022
+to take a look at that video
+I recorded of your leg.
+
+405
+00:15:07,024 --> 00:15:08,824
+Don't go!
+It's just gonna take 60 seconds.
+
+406
+00:15:08,826 --> 00:15:09,959
+No!
+
+407
+00:15:09,961 --> 00:15:11,293
+Owen, I-I want you
+to start counting,
+
+408
+00:15:11,295 --> 00:15:13,295
+and when you get to 60,
+I promise we're gonna be
+
+409
+00:15:13,297 --> 00:15:14,663
+right back together, okay?
+You can do this.
+
+410
+00:15:14,665 --> 00:15:16,398
+I'll-I'll get
+started. Ready?
+
+411
+00:15:16,400 --> 00:15:18,133
+One, two,
+
+412
+00:15:18,135 --> 00:15:19,702
+three...
+
+413
+00:15:19,704 --> 00:15:22,304
+Four, five, six...
+
+414
+00:15:22,306 --> 00:15:23,873
+Good.
+
+415
+00:15:23,875 --> 00:15:26,475
+You have 54 seconds.
+Then I take that tablet back.
+
+416
+00:15:28,679 --> 00:15:30,045
+Okay, we need
+a device small enough
+
+417
+00:15:30,047 --> 00:15:31,914
+to fit through
+that tiny crack,
+
+418
+00:15:31,916 --> 00:15:33,983
+but powerful enough
+to lift that rock.
+
+419
+00:15:33,985 --> 00:15:36,452
+As soon as they're done digging,
+we'll bring in a car jack.
+
+420
+00:15:36,454 --> 00:15:38,153
+Car jack's
+a brute tool.
+
+421
+00:15:38,155 --> 00:15:39,321
+We need
+something sensitive enough
+
+422
+00:15:39,323 --> 00:15:41,557
+to exert the exact amount
+of force required.
+
+423
+00:15:41,559 --> 00:15:43,058
+The rocks are so unstable.
+
+424
+00:15:43,060 --> 00:15:44,627
+We disturb them too much,
+one will collapse
+
+425
+00:15:44,629 --> 00:15:45,794
+after the other, like dominoes.
+
+426
+00:15:45,796 --> 00:15:46,962
+It'll crush him.
+
+427
+00:15:46,964 --> 00:15:48,397
+The boulder appears
+to be approximately
+
+428
+00:15:48,399 --> 00:15:49,565
+40 inches high.
+
+429
+00:15:49,567 --> 00:15:52,234
+We need to raise it
+between 1.8 and 2.3 inches.
+
+430
+00:15:52,236 --> 00:15:53,903
+Any less, we won't free his leg.
+
+431
+00:15:53,905 --> 00:15:56,605
+Any more, the whole sinkhole
+could collapse.
+
+432
+00:15:56,607 --> 00:15:58,774
+1.8 or 2.3?
+
+433
+00:15:58,776 --> 00:16:01,977
+Sylvester, that's almost
+a-a 28% differential.
+
+434
+00:16:01,979 --> 00:16:03,345
+It's the best
+I can give you right now.
+
+435
+00:16:03,347 --> 00:16:05,147
+Sylvester, we need...
+we need better.
+
+436
+00:16:05,149 --> 00:16:06,882
+What is wrong with you today?
+
+437
+00:16:06,884 --> 00:16:08,884
+Get your head on right.
+
+438
+00:16:10,788 --> 00:16:13,055
+HAPPY Uh, we need something
+like a micro-jack.
+
+439
+00:16:13,057 --> 00:16:16,058
+I could build one with
+parts I have at the garage.
+
+440
+00:16:16,060 --> 00:16:17,960
+It'll go faster
+with help.
+
+441
+00:16:17,962 --> 00:16:18,794
+I'll go with you.
+
+442
+00:16:18,796 --> 00:16:20,529
+What's the use
+
+443
+00:16:20,531 --> 00:16:24,133
+if this kid's underwater by the
+time they bring back this jack?
+
+444
+00:16:24,135 --> 00:16:25,501
+I've already accounted for that.
+
+445
+00:16:25,503 --> 00:16:27,803
+For Owen to stay alive,
+he needs to stop breathing.
+
+446
+00:16:27,805 --> 00:16:29,738
+What the hell
+are you talking about?
+
+447
+00:16:29,740 --> 00:16:31,040
+I'll explain on the way.
+Come on.
+
+448
+00:16:33,755 --> 00:16:37,755
+<font color=#00FF00>♪ Scorpion 1x12 ♪</font>
+<font color=#00FFFF>Dominoes</font>
+Original Air Date on December 15, 2014
+
+449
+00:16:37,779 --> 00:16:43,079
+== sync, corrected by <font color=#00FF00>elderman</font> ==
+<font color=#00FFFF>@elder_man</font>
+
+450
+00:16:43,156 --> 00:16:45,489
+Walter O'Brien, Agent Gallo,
+we've been expecting you.
+
+451
+00:16:45,491 --> 00:16:47,358
+The ECMO machine
+you requested.
+
+452
+00:16:47,360 --> 00:16:49,160
+This isn't 40 feet.
+
+453
+00:16:49,162 --> 00:16:50,595
+We thought you said 14 feet.
+
+454
+00:16:50,597 --> 00:16:51,562
+No, 40 feet.
+
+455
+00:16:51,564 --> 00:16:52,797
+Now.
+
+456
+00:16:52,799 --> 00:16:54,732
+Walter, they're just trying
+to help, too.
+
+457
+00:17:00,907 --> 00:17:04,108
+Find me a U-channel wedge,
+a quarter-inch thread drive rod,
+
+458
+00:17:04,110 --> 00:17:06,777
+a reinforced shoulder bolt,
+and three steel lid stays.
+
+459
+00:17:06,779 --> 00:17:08,279
+I don't understand
+half of what you said.
+
+460
+00:17:08,281 --> 00:17:10,615
+Then start with the other half.
+Prepping the kiln.
+
+461
+00:17:10,617 --> 00:17:13,551
+Uh... got
+the wedge,
+
+462
+00:17:13,553 --> 00:17:16,187
+uh, drive rod, and...
+
+463
+00:17:16,189 --> 00:17:17,255
+shoulder bolt.
+
+464
+00:17:17,257 --> 00:17:18,723
+You know more than you let on.
+
+465
+00:17:18,725 --> 00:17:20,024
+I watch you work sometimes.
+
+466
+00:17:20,026 --> 00:17:21,192
+Thank you
+for making this creepy.
+
+467
+00:17:21,194 --> 00:17:23,060
+Now find the other parts.
+
+468
+00:17:26,766 --> 00:17:28,366
+Is it gonna hit me?
+
+469
+00:17:28,368 --> 00:17:29,200
+It shouldn't.
+
+470
+00:17:29,202 --> 00:17:30,668
+It won't.
+
+471
+00:17:30,670 --> 00:17:33,604
+Just lean as far back as you
+can, Owen. You can do this.
+
+472
+00:17:41,848 --> 00:17:43,281
+It's tight in there.
+
+473
+00:17:43,283 --> 00:17:45,950
+This isn't a science.
+
+474
+00:17:45,952 --> 00:17:47,918
+God help this kid.
+
+475
+00:17:49,822 --> 00:17:51,555
+Stop the drill!
+
+476
+00:17:55,094 --> 00:17:58,095
+All right, guys, I'm gonna
+back this bad boy out of here.
+
+477
+00:17:58,097 --> 00:17:59,030
+Come on. Let's move!
+
+478
+00:18:03,069 --> 00:18:05,903
+We need some men up here! Now!
+
+479
+00:18:07,440 --> 00:18:08,506
+Okay, we got it here,
+
+480
+00:18:08,508 --> 00:18:10,074
+but explain how this helps us.
+
+481
+00:18:10,076 --> 00:18:11,676
+We need to keep Owen alive
+
+482
+00:18:11,678 --> 00:18:13,110
+until the jack gets here,
+
+483
+00:18:13,112 --> 00:18:14,545
+but that's not gonna be
+until he's underwater.
+
+484
+00:18:14,547 --> 00:18:15,713
+So we need to bypass
+
+485
+00:18:15,715 --> 00:18:18,649
+his respiratory system,
+which is what this is for.
+
+486
+00:18:18,651 --> 00:18:19,684
+It's an extracorporeal
+
+487
+00:18:19,686 --> 00:18:22,953
+membrane oxygenation system,
+or an ECMO.
+
+488
+00:18:22,955 --> 00:18:25,189
+Where'd you learn how to do this?
+On the Internet.
+
+489
+00:18:25,191 --> 00:18:26,657
+He's not kidding.
+
+490
+00:18:26,659 --> 00:18:28,025
+Okay, so...
+
+491
+00:18:28,027 --> 00:18:31,028
+we get the tubes and needles
+in the PVC pipe, and then...
+
+492
+00:18:31,030 --> 00:18:32,229
+Hold on.
+
+493
+00:18:32,231 --> 00:18:33,564
+We haven't even
+started putting supports
+
+494
+00:18:33,566 --> 00:18:35,032
+in the tunnel
+we just dug.
+
+495
+00:18:35,034 --> 00:18:36,534
+Until that's done,
+it's unstable,
+
+496
+00:18:36,536 --> 00:18:38,803
+and the risk of collapse
+is substantial.
+
+497
+00:18:38,805 --> 00:18:40,371
+I need exact probabilities.
+
+498
+00:18:40,373 --> 00:18:41,373
+I can't give them.
+
+499
+00:18:41,374 --> 00:18:43,040
+Okay, I know someone who can.
+
+500
+00:18:43,042 --> 00:18:44,175
+Come with me.
+
+501
+00:18:44,177 --> 00:18:47,278
+Paige, tell my mom I'm sorry.
+
+502
+00:18:47,280 --> 00:18:48,479
+Why is that, honey?
+
+503
+00:18:49,482 --> 00:18:52,783
+She told me not-not to go
+in the caves, but...
+
+504
+00:18:52,785 --> 00:18:55,519
+I wanted to find
+the pink shells,
+
+505
+00:18:55,521 --> 00:18:57,488
+the ones she likes.
+Owen...
+
+506
+00:18:57,490 --> 00:18:59,190
+It's my fault.
+This is not your fault.
+
+507
+00:18:59,192 --> 00:19:00,558
+It's my fault!
+
+508
+00:19:00,560 --> 00:19:01,560
+Paige!
+
+509
+00:19:01,561 --> 00:19:02,526
+Where's Sylvester?
+
+510
+00:19:02,528 --> 00:19:04,462
+I need him to work out
+some odds for me.
+
+511
+00:19:04,464 --> 00:19:06,731
+I have no idea, but this child
+is starting to break.
+
+512
+00:19:06,733 --> 00:19:07,898
+I don't know
+how much longer
+
+513
+00:19:07,900 --> 00:19:09,033
+he's gonna last down there.
+
+514
+00:19:09,035 --> 00:19:11,035
+And it kills me,
+but the tunnel is not stable.
+
+515
+00:19:11,037 --> 00:19:12,203
+And neither is Owen.
+
+516
+00:19:17,477 --> 00:19:18,642
+That's it. I'm going in.
+
+517
+00:19:18,644 --> 00:19:20,244
+Absolutely not.
+
+518
+00:19:20,246 --> 00:19:22,847
+None of my men, not the LAPD
+or the fire department--
+
+519
+00:19:22,849 --> 00:19:25,316
+no one has been given
+authorization to go down
+
+520
+00:19:25,318 --> 00:19:26,550
+until the tunnel
+is ready.
+
+521
+00:19:26,552 --> 00:19:28,152
+I don't work for
+any of those entities.
+
+522
+00:19:28,154 --> 00:19:29,453
+I don't need
+your authorization.
+
+523
+00:19:29,455 --> 00:19:31,355
+Hopefully, I'll see
+you in five minutes.
+
+524
+00:19:31,357 --> 00:19:32,490
+Hopefully.
+
+525
+00:19:32,492 --> 00:19:34,058
+If not,
+who would've thought
+
+526
+00:19:34,060 --> 00:19:35,559
+I'd be the one to outlive you.
+
+527
+00:19:36,863 --> 00:19:38,529
+Okay, you guys
+
+528
+00:19:38,531 --> 00:19:39,697
+man the ECMO.
+
+529
+00:19:39,699 --> 00:19:41,132
+I'll take care
+of the rest.
+
+530
+00:19:41,134 --> 00:19:43,634
+<i> As this saga</i>
+<i>at Zuma Beach continues</i>
+
+531
+00:19:43,636 --> 00:19:45,403
+<i>to unfold, Walter O'Brien,</i>
+
+532
+00:19:45,405 --> 00:19:47,705
+a freelance contractor
+with Homeland Security,
+
+533
+00:19:47,707 --> 00:19:50,775
+is heading down into the earth
+in what can only be described
+
+534
+00:19:50,777 --> 00:19:52,877
+as a very risky endeavor.
+
+535
+00:19:52,879 --> 00:19:54,912
+Owen! Hold on!
+
+536
+00:19:54,914 --> 00:19:56,180
+I'm coming for you!
+
+537
+00:19:56,182 --> 00:19:57,548
+Owen!
+
+538
+00:19:58,384 --> 00:20:00,918
+Owen!
+
+539
+00:20:01,754 --> 00:20:03,888
+Owen.
+
+540
+00:20:03,890 --> 00:20:05,356
+It's Walter.
+Can you hear me?
+
+541
+00:20:05,358 --> 00:20:07,124
+The water's getting higher!
+Hold on!
+
+542
+00:20:07,126 --> 00:20:08,058
+I'm almost to you!
+
+543
+00:20:08,060 --> 00:20:09,593
+Hurry.
+
+544
+00:20:13,800 --> 00:20:15,533
+Please get me out of here.
+Okay.
+
+545
+00:20:15,535 --> 00:20:16,934
+You've handled
+this so well.
+
+546
+00:20:16,936 --> 00:20:18,569
+You've impressed me;
+it's hard to impress me.
+
+547
+00:20:18,571 --> 00:20:19,904
+Now, my friends
+are working
+
+548
+00:20:19,906 --> 00:20:21,238
+on a device to free your leg,
+
+549
+00:20:21,240 --> 00:20:22,907
+so I will get you out of here.
+
+550
+00:20:22,909 --> 00:20:25,276
+Now, you will be with your
+parents for Christmas, okay?
+
+551
+00:20:25,278 --> 00:20:27,511
+Okay. Okay.
+
+552
+00:20:27,513 --> 00:20:28,779
+But I won't be able to free you
+
+553
+00:20:28,781 --> 00:20:30,047
+before the water covers
+your head.
+
+554
+00:20:30,049 --> 00:20:31,582
+I-I don't understand.
+
+555
+00:20:31,584 --> 00:20:33,451
+Well, you have to trust me.
+I found a way
+
+556
+00:20:33,453 --> 00:20:36,086
+for you to stay alive
+without ever taking a breath.
+
+557
+00:20:36,088 --> 00:20:37,388
+All right?
+All right?
+
+558
+00:20:37,390 --> 00:20:38,823
+Send it down!
+
+559
+00:20:47,633 --> 00:20:50,100
+Owen, there's a machine up top.
+
+560
+00:20:50,102 --> 00:20:52,169
+It'll take the blood
+from your body,
+
+561
+00:20:52,171 --> 00:20:53,737
+add oxygen to it,
+
+562
+00:20:53,739 --> 00:20:55,739
+and then send it back
+into your blood, okay?
+
+563
+00:20:55,741 --> 00:20:59,009
+It's used in surgeries. Only
+you're special 'cause you'll...
+
+564
+00:20:59,011 --> 00:21:01,445
+you'll be the first person
+to ever do it while conscious.
+
+565
+00:21:01,447 --> 00:21:03,280
+<i>We've been able to jump</i>
+
+566
+00:21:03,282 --> 00:21:04,882
+on the rescuers' Wi-Fi signal,
+
+567
+00:21:04,884 --> 00:21:09,520
+and we can now watch this
+incredible drama unfold live.
+
+568
+00:21:12,558 --> 00:21:13,858
+Give me your arms.
+
+569
+00:21:16,629 --> 00:21:20,130
+You're gonna feel a pinch
+when I insert these needles.
+
+570
+00:21:20,132 --> 00:21:23,067
+It's like a shot at the doctor,
+only deeper, okay?
+
+571
+00:21:23,069 --> 00:21:25,069
+One, two, three.
+
+572
+00:21:26,038 --> 00:21:27,671
+I know this hurts,
+
+573
+00:21:27,673 --> 00:21:28,806
+but you're doing great.
+
+574
+00:21:28,808 --> 00:21:31,175
+Give me the other arm.
+
+575
+00:21:31,177 --> 00:21:33,444
+All right. Okay, okay.
+
+576
+00:21:33,446 --> 00:21:35,446
+They're in.
+
+577
+00:21:42,555 --> 00:21:44,588
+Can't believe this is working.
+
+578
+00:21:44,590 --> 00:21:49,026
+I know from our Ben Franklin
+conversation that you're smart,
+
+579
+00:21:49,028 --> 00:21:50,327
+so I'm gonna explain
+something to you
+
+580
+00:21:50,329 --> 00:21:52,129
+that I know that
+you'll understand.
+
+581
+00:21:52,131 --> 00:21:55,466
+In less than one minute, we're
+gonna be completely underwater.
+
+582
+00:21:55,468 --> 00:21:57,301
+Your primordial brain
+
+583
+00:21:57,303 --> 00:21:59,570
+will tell you to breathe in.
+You cannot.
+
+584
+00:21:59,572 --> 00:22:00,938
+No matter how badly
+
+585
+00:22:00,940 --> 00:22:04,108
+you want air, do not breathe
+in once you're under, okay?
+
+586
+00:22:04,110 --> 00:22:05,376
+That's how people drown.
+
+587
+00:22:05,378 --> 00:22:08,145
+It's not gonna be easy,
+but I know you can do it.
+
+588
+00:22:08,147 --> 00:22:09,647
+I need to breathe!
+No, no, no.
+
+589
+00:22:09,649 --> 00:22:11,015
+Look at me,
+look at me.
+
+590
+00:22:11,017 --> 00:22:12,182
+You need oxygen.
+
+591
+00:22:12,184 --> 00:22:13,817
+And these tubes
+
+592
+00:22:13,819 --> 00:22:15,019
+will bring it to you.
+
+593
+00:22:15,021 --> 00:22:17,488
+You just have faith
+that the science will work.
+
+594
+00:22:17,490 --> 00:22:18,923
+I can't live underwater.
+
+595
+00:22:18,925 --> 00:22:20,190
+Yes, you can.
+
+596
+00:22:20,192 --> 00:22:21,892
+We all have-- in the womb,
+
+597
+00:22:21,894 --> 00:22:24,361
+w-when we were
+surrounded by fluid
+
+598
+00:22:24,363 --> 00:22:26,864
+and oxygen got to us
+without us even breathing.
+
+599
+00:22:26,866 --> 00:22:28,699
+That's all this is.
+
+600
+00:22:28,701 --> 00:22:31,635
+Okay? Now, I'm gonna
+stay with you,
+
+601
+00:22:31,637 --> 00:22:34,071
+I'm gonna hold your hand
+as long as I can.
+
+602
+00:22:34,073 --> 00:22:35,639
+And then it's
+up to you.
+
+603
+00:22:35,641 --> 00:22:38,509
+When I go up, I want you
+to count to 15,
+
+604
+00:22:38,511 --> 00:22:41,412
+and then knock on the pipe
+so we know you're okay.
+
+605
+00:22:43,349 --> 00:22:47,151
+After I get the jack
+to free your leg,
+
+606
+00:22:47,153 --> 00:22:49,186
+I'm gonna be
+right back down here.
+
+607
+00:22:49,188 --> 00:22:50,688
+Okay?
+Yeah.
+
+608
+00:22:50,690 --> 00:22:51,690
+So what are you gonna do?
+
+609
+00:22:51,691 --> 00:22:53,057
+Knock on the pipe.
+
+610
+00:22:53,059 --> 00:22:54,692
+Okay. Are you gonna breathe?
+
+611
+00:22:54,694 --> 00:22:55,759
+No.
+
+612
+00:22:55,761 --> 00:22:57,194
+You promise me?
+
+613
+00:22:57,196 --> 00:22:58,963
+I promise.
+
+614
+00:22:58,965 --> 00:23:00,965
+You promise you'll come back.
+
+615
+00:23:00,967 --> 00:23:04,101
+I promise you
+I will come back.
+
+616
+00:23:04,103 --> 00:23:06,737
+And I only state facts.
+
+617
+00:23:09,141 --> 00:23:10,941
+It cut out.
+
+618
+00:23:14,013 --> 00:23:17,081
+Remember, go against
+your instinct
+
+619
+00:23:17,083 --> 00:23:18,582
+and do not breathe in.
+
+620
+00:23:18,584 --> 00:23:20,584
+Okay.
+I will come back for you.
+
+621
+00:23:20,586 --> 00:23:22,786
+I promise.
+
+622
+00:23:46,471 --> 00:23:48,271
+How long has it been?
+
+623
+00:23:48,273 --> 00:23:50,106
+Too long.
+
+624
+00:23:50,108 --> 00:23:51,875
+After going underground
+in an incredible attempt
+
+625
+00:23:51,877 --> 00:23:55,545
+to keep Owen Cooper alive,
+everyone is waiting, praying,
+
+626
+00:23:55,547 --> 00:23:57,981
+for heroic civilian
+Walter O'Brien to emerge
+
+627
+00:23:57,983 --> 00:24:00,884
+from the tunnel with news
+of the child's condition.
+
+628
+00:24:02,287 --> 00:24:04,154
+There he is!
+
+629
+00:24:04,156 --> 00:24:05,855
+Are you okay?
+
+630
+00:24:05,857 --> 00:24:07,757
+Has he signaled yet?
+
+631
+00:24:09,161 --> 00:24:10,560
+I got a cop
+
+632
+00:24:10,562 --> 00:24:13,196
+waiting in the cave
+by the PVC, but nothing yet.
+
+633
+00:24:13,198 --> 00:24:15,298
+We're coming up
+on half a minute.
+
+634
+00:24:15,300 --> 00:24:18,234
+Come on, Owen. Okay.
+
+635
+00:24:18,236 --> 00:24:20,570
+This is Gallo. Anything?
+
+636
+00:24:20,572 --> 00:24:22,472
+Negative. Still no signal.
+
+637
+00:24:22,474 --> 00:24:24,107
+We're at 40 seconds.
+
+638
+00:24:26,611 --> 00:24:28,211
+Look at me.
+
+639
+00:24:29,948 --> 00:24:32,782
+Don't blame yourself.
+
+640
+00:24:36,321 --> 00:24:38,321
+Agent Gallo. You copy?
+
+641
+00:24:38,323 --> 00:24:39,756
+What do you got?
+
+642
+00:24:39,758 --> 00:24:42,058
+Three loud knocks, sir.
+Clear as day.
+
+643
+00:24:44,496 --> 00:24:46,696
+Give me that.
+Give me the phone.
+
+644
+00:24:51,069 --> 00:24:52,502
+Happy.
+
+645
+00:24:52,504 --> 00:24:53,937
+Now, Owen is doing his best
+to survive,
+
+646
+00:24:53,939 --> 00:24:55,805
+but we still need that jack.
+How much longer?
+
+647
+00:24:55,807 --> 00:24:58,608
+I'm almost done. Then another
+15 minutes to get to you.
+
+648
+00:24:58,610 --> 00:24:59,642
+That's at least 20 minutes.
+
+649
+00:24:59,644 --> 00:25:01,277
+Not for us. We called LAPD.
+
+650
+00:25:01,279 --> 00:25:03,513
+Police escort, baby.
+Oh, good thinking.
+
+651
+00:25:03,515 --> 00:25:05,748
+But hurry.
+
+652
+00:25:05,750 --> 00:25:08,618
+Okay, two minutes,
+gold melts, and I mold it
+
+653
+00:25:08,620 --> 00:25:10,653
+into a thrust bearing,
+and we are done.
+
+654
+00:25:13,491 --> 00:25:15,158
+Happy, what's this?
+
+655
+00:25:18,763 --> 00:25:20,029
+Don't look through
+my things.
+
+656
+00:25:20,031 --> 00:25:21,497
+You tracked down your father?
+
+657
+00:25:23,335 --> 00:25:26,102
+In 100 seconds,
+the gold's ready.
+
+658
+00:25:26,104 --> 00:25:28,438
+So, over a minute to talk about
+something very important.
+
+659
+00:25:28,440 --> 00:25:29,873
+It's not a big deal.
+I've been wrenching
+
+660
+00:25:29,875 --> 00:25:31,374
+at his body shop
+for the last few weeks,
+
+661
+00:25:31,376 --> 00:25:32,508
+that's all.
+
+662
+00:25:32,510 --> 00:25:35,111
+He's a mechanic.
+I love genetics.
+
+663
+00:25:35,113 --> 00:25:36,179
+Good for you.
+
+664
+00:25:36,181 --> 00:25:37,780
+What was his reaction?
+
+665
+00:25:38,984 --> 00:25:40,783
+You didn't tell him who you are.
+
+666
+00:25:40,785 --> 00:25:42,352
+That is what the card is for,
+
+667
+00:25:42,354 --> 00:25:44,454
+but I can't
+seem to give it to him.
+
+668
+00:25:44,456 --> 00:25:46,155
+Happy, you clearly
+want to tell him.
+
+669
+00:25:46,157 --> 00:25:47,757
+The card was a mistake.
+
+670
+00:25:47,759 --> 00:25:49,492
+“There are no mistakes.”
+Richard Bach.
+
+671
+00:25:49,494 --> 00:25:51,728
+“Get out of my face.”
+Happy Quinn.
+
+672
+00:25:51,730 --> 00:25:52,929
+I will.
+But consider this.
+
+673
+00:25:52,931 --> 00:25:55,164
+There are two parents
+racing like hell right now
+
+674
+00:25:55,166 --> 00:25:57,033
+to get to a little boy
+trapped in a sinkhole.
+
+675
+00:25:57,035 --> 00:25:59,168
+And all three
+want the same thing:
+
+676
+00:25:59,170 --> 00:26:00,670
+to be with family on Christmas.
+
+677
+00:26:00,672 --> 00:26:04,007
+You have that shot, and you're
+forsaking it over fear.
+
+678
+00:26:08,914 --> 00:26:11,514
+Gold's done. Get the mold.
+
+679
+00:26:11,516 --> 00:26:15,418
+Why are you here
+instead of with your team?
+
+680
+00:26:15,420 --> 00:26:18,054
+I'm leaving.
+
+681
+00:26:18,056 --> 00:26:20,156
+Because you made
+some miscalculations?
+
+682
+00:26:20,158 --> 00:26:23,793
+That child is living
+my worst nightmares.
+
+683
+00:26:23,795 --> 00:26:25,495
+Claustrophobia--
+
+684
+00:26:25,497 --> 00:26:27,330
+fear of tight spaces.
+Aquaphobia--
+
+685
+00:26:27,332 --> 00:26:29,065
+fear of water.
+Achluophobia--
+
+686
+00:26:29,067 --> 00:26:30,166
+fear of darkness.
+
+687
+00:26:30,168 --> 00:26:32,268
+Taphophobia--
+fear of being buried alive.
+
+688
+00:26:32,270 --> 00:26:34,137
+When I was on that
+beach, I felt like
+
+689
+00:26:34,139 --> 00:26:35,371
+I was in there with him.
+
+690
+00:26:35,373 --> 00:26:36,673
+I couldn't concentrate,
+I couldn't calculate.
+
+691
+00:26:36,675 --> 00:26:39,175
+I am useless to Scorpion.
+
+692
+00:26:39,177 --> 00:26:42,211
+Shut up. You felt like
+you were down there?
+
+693
+00:26:42,213 --> 00:26:44,047
+He<i> is</i> down there.
+
+694
+00:26:44,049 --> 00:26:46,115
+My God, Sylvester,
+
+695
+00:26:46,117 --> 00:26:48,985
+how do you live when you're
+constantly scared of death?
+
+696
+00:26:48,987 --> 00:26:51,554
+You want to go?
+
+697
+00:26:51,556 --> 00:26:53,456
+Go.
+
+698
+00:26:53,458 --> 00:26:55,625
+But you'll have to live with
+what happens to Owen,
+
+699
+00:26:55,627 --> 00:26:57,293
+knowing you could've helped.
+
+700
+00:26:58,797 --> 00:27:00,129
+Or you could
+stay strong for him.
+
+701
+00:27:00,131 --> 00:27:02,332
+Stay strong.
+
+702
+00:27:04,269 --> 00:27:05,935
+I've never been strong.
+
+703
+00:27:07,639 --> 00:27:12,308
+Well, that's a “you” problem,
+so figure it out.
+
+704
+00:27:20,085 --> 00:27:21,085
+Faster, Grandma!
+
+705
+00:27:21,086 --> 00:27:22,385
+I'm right on his bumper!
+
+706
+00:27:22,387 --> 00:27:24,220
+I should have driven.
+I have seen you drive.
+
+707
+00:27:24,222 --> 00:27:25,822
+We can't save Owen
+if we're both dead.
+
+708
+00:27:25,824 --> 00:27:26,789
+Hold on,
+
+709
+00:27:26,791 --> 00:27:28,091
+what the hell's this?!
+
+710
+00:27:30,495 --> 00:27:31,794
+Hey, what's going on?
+
+711
+00:27:31,796 --> 00:27:32,929
+There's a truck accident
+up ahead.
+
+712
+00:27:32,931 --> 00:27:34,464
+I'll see if I can
+clear the holdup.
+
+713
+00:27:34,466 --> 00:27:36,766
+We don't have that kind of time.
+Toby, get us out of here.
+
+714
+00:27:36,768 --> 00:27:38,835
+I'm driving a Monte Carlo--
+it's not like I can split lanes.
+
+715
+00:27:38,837 --> 00:27:41,571
+No. But Santa can.
+
+716
+00:27:41,573 --> 00:27:43,139
+Hey.
+
+717
+00:27:43,141 --> 00:27:45,108
+I know this sounds
+crazy, but have you seen
+
+718
+00:27:45,110 --> 00:27:46,843
+the kid in the news,
+the one stuck in a hole?
+
+719
+00:27:46,845 --> 00:27:48,745
+Heard about it.
+We're working on the case,
+
+720
+00:27:48,747 --> 00:27:50,847
+and that boy needs you to
+give us your motorcycle.
+
+721
+00:27:50,849 --> 00:27:52,015
+No time to explain.
+
+722
+00:27:52,017 --> 00:27:54,150
+Get lost.
+When you remember me,
+
+723
+00:27:54,152 --> 00:27:55,685
+remember me fondly.
+
+724
+00:27:57,789 --> 00:27:59,422
+Happy!
+
+725
+00:28:02,160 --> 00:28:03,693
+Oh, my spleen.
+
+726
+00:28:04,929 --> 00:28:06,796
+Get on!
+
+727
+00:28:07,766 --> 00:28:09,332
+I'm so sorry.
+
+728
+00:28:11,870 --> 00:28:14,737
+O2 levels are steady.
+
+729
+00:28:14,739 --> 00:28:16,672
+He's not panicking;
+this kid's amazing.
+
+730
+00:28:16,674 --> 00:28:17,840
+Do you know what the odds were
+
+731
+00:28:17,842 --> 00:28:19,242
+of that weak tunnel
+collapsing on you?
+
+732
+00:28:19,244 --> 00:28:22,011
+42%. Which is a 58%
+chance of survival.
+
+733
+00:28:22,013 --> 00:28:23,980
+The odds are on my side.
+Do the math
+
+734
+00:28:23,982 --> 00:28:26,749
+all you want, but there's
+a boy breathing underwater,
+
+735
+00:28:26,751 --> 00:28:27,884
+still alive.
+
+736
+00:28:27,886 --> 00:28:29,452
+That's a miracle in my book.
+
+737
+00:28:30,522 --> 00:28:31,788
+Another rock slide!
+
+738
+00:28:31,790 --> 00:28:33,723
+Get out of here
+before it caves in!
+
+739
+00:28:36,127 --> 00:28:38,761
+Come on!
+
+740
+00:28:38,763 --> 00:28:40,396
+This part of the ceiling's
+about to collapse.
+
+741
+00:28:40,398 --> 00:28:43,099
+Then the ECMO goes down,
+then Owen is dead.
+
+742
+00:28:43,101 --> 00:28:44,500
+If that rock falls on you,
+you're dead!
+
+743
+00:28:45,970 --> 00:28:47,370
+Move the ECMO!
+
+744
+00:28:47,372 --> 00:28:49,072
+Took four people
+to get it in here!
+
+745
+00:28:49,074 --> 00:28:50,273
+The slide's calmed down.
+
+746
+00:28:50,275 --> 00:28:52,375
+Now get out of here
+before that rock falls on you!
+
+747
+00:28:52,377 --> 00:28:54,977
+Not until you move the ECMO!
+I'll get help!
+
+748
+00:28:54,979 --> 00:28:57,713
+I got it.
+No, Sylvester.
+
+749
+00:28:58,650 --> 00:29:00,016
+Sylvester!
+I got it.
+
+750
+00:29:00,018 --> 00:29:01,684
+You sure?
+
+751
+00:29:01,686 --> 00:29:04,353
+I got it!
+All right. Okay.
+
+752
+00:29:07,192 --> 00:29:09,192
+No, we can't wait
+until the others get here.
+
+753
+00:29:09,194 --> 00:29:10,326
+We got to move now.
+
+754
+00:29:10,328 --> 00:29:11,861
+We got to move it,
+come on.
+
+755
+00:29:11,863 --> 00:29:13,062
+Come on!
+
+756
+00:29:13,064 --> 00:29:16,199
+All right,
+one, two, three.
+
+757
+00:29:20,438 --> 00:29:21,938
+I can't hold it much longer!
+
+758
+00:29:21,940 --> 00:29:23,780
+Sylvester, it's breaking off.
+Get out of there.
+
+759
+00:29:31,282 --> 00:29:32,548
+You okay, pal?
+
+760
+00:29:32,550 --> 00:29:34,016
+Walter, we got
+a problem.
+
+761
+00:29:34,018 --> 00:29:35,485
+I'm okay.
+
+762
+00:29:38,056 --> 00:29:40,289
+Oh, God. The rocks
+
+763
+00:29:40,291 --> 00:29:42,125
+pinched off the tubes.
+
+764
+00:29:43,161 --> 00:29:45,361
+The tubing's blocked.
+He can't get oxygen.
+
+765
+00:29:47,632 --> 00:29:49,899
+He's dying.
+
+766
+00:29:53,064 --> 00:29:55,746
+Now get your men to that
+cavern and move that rock!
+
+767
+00:29:55,747 --> 00:29:57,714
+What, get equipment over
+those boulders, in the surf,
+
+768
+00:29:57,716 --> 00:29:59,049
+with tide coming in?
+Yes!
+
+769
+00:29:59,051 --> 00:30:00,917
+It would take an hour.
+He's suffocating down there!
+
+770
+00:30:00,919 --> 00:30:02,519
+<i>With oxygen cut off</i>
+
+771
+00:30:02,521 --> 00:30:04,154
+to young Owen Cooper, he is just
+
+772
+00:30:04,156 --> 00:30:07,023
+minutes now from total loss
+of brain function.
+
+773
+00:30:07,025 --> 00:30:09,259
+I'm getting him out.
+Son, his leg is trapped.
+
+774
+00:30:09,261 --> 00:30:11,094
+There's no way.
+I can't let him die in there.
+
+775
+00:30:11,096 --> 00:30:12,395
+Son.
+Walter!
+
+776
+00:30:12,397 --> 00:30:13,597
+Listen. Son!
+
+777
+00:30:13,599 --> 00:30:15,665
+Get off of me!
+Get off me!
+
+778
+00:30:15,667 --> 00:30:18,168
+He's been underwater
+for three minutes!
+
+779
+00:30:18,170 --> 00:30:20,070
+He's only got
+one functioning lung!
+
+780
+00:30:46,372 --> 00:30:48,005
+I don't have a
+motorcycle license.
+
+781
+00:30:48,007 --> 00:30:48,872
+Great news.
+
+782
+00:30:48,874 --> 00:30:50,074
+Stop crying.
+
+783
+00:30:50,076 --> 00:30:52,743
+We're only 300 yards
+from the beach.
+
+784
+00:30:59,018 --> 00:31:01,118
+Whoa.
+
+785
+00:31:05,257 --> 00:31:08,025
+You got to be kidding.
+We're out of gas!
+
+786
+00:31:08,027 --> 00:31:09,560
+You know what, give
+me that knapsack.
+
+787
+00:31:09,562 --> 00:31:11,195
+I spent my childhood
+sprinting from bullies.
+
+788
+00:31:11,197 --> 00:31:13,730
+It's about to pay off.
+
+789
+00:31:17,069 --> 00:31:21,772
+I promised him
+I'd come back for him.
+
+790
+00:31:32,015 --> 00:31:33,615
+Walter!
+
+791
+00:31:33,617 --> 00:31:37,393
+We got it!
+
+792
+00:31:37,395 --> 00:31:45,395
+Got it!
+
+793
+00:31:45,929 --> 00:31:47,495
+You're about to risk
+your life again,
+
+794
+00:31:47,497 --> 00:31:50,930
+when the likelihood that
+Owen's still alive after
+
+795
+00:31:50,932 --> 00:31:52,765
+We've seen worse odds.
+No, we have not.
+
+796
+00:31:52,767 --> 00:31:54,967
+It's not possible.
+Cabe's right. The water
+
+797
+00:31:54,969 --> 00:31:56,936
+isn't nearly cold enough
+to put that kid in a full
+
+798
+00:31:56,938 --> 00:31:58,838
+hypothermic state where
+he might survive that long.
+
+799
+00:31:58,840 --> 00:32:00,739
+I know.
+And the brain without oxygen
+
+800
+00:32:00,741 --> 00:32:02,575
+begins to die after five minutes.
+I know!
+
+801
+00:32:02,577 --> 00:32:04,376
+I really don't
+want you to do this.
+
+802
+00:32:04,378 --> 00:32:06,612
+I know.
+
+803
+00:32:06,614 --> 00:32:08,614
+The last rock slide completely
+compromised the tunnel,
+
+804
+00:32:08,616 --> 00:32:09,949
+which was unstable
+to begin with.
+
+805
+00:32:09,951 --> 00:32:12,218
+Anyone who goes down there
+risks being buried alive.
+
+806
+00:32:12,220 --> 00:32:13,152
+He knows.
+He knows.
+
+807
+00:32:13,154 --> 00:32:14,653
+Son, why are you doing this?
+
+808
+00:32:14,655 --> 00:32:16,589
+I made a promise
+I'd come back for him.
+
+809
+00:32:16,591 --> 00:32:17,990
+Are you scared?
+
+810
+00:32:17,992 --> 00:32:20,025
+Yes.
+Good.
+
+811
+00:32:20,027 --> 00:32:21,460
+That means you'll be careful.
+
+812
+00:32:27,301 --> 00:32:29,802
+<i> Walter O'Brien, some</i>
+<i>type of government contractor,</i>
+
+813
+00:32:29,804 --> 00:32:31,237
+<i>is underground,</i>
+
+814
+00:32:31,239 --> 00:32:34,273
+trying to extract Owen Cooper,
+who has now been without air
+
+815
+00:32:34,275 --> 00:32:37,209
+<i>for almost six-and-a-half</i>
+<i>minutes.</i>
+
+816
+00:32:56,197 --> 00:32:57,296
+Okay.
+
+817
+00:32:57,298 --> 00:32:58,998
+All right.
+
+818
+00:33:28,562 --> 00:33:31,196
+Hold on!
+
+819
+00:33:32,066 --> 00:33:33,799
+Collapsing!
+
+820
+00:33:53,123 --> 00:33:54,923
+Walter!
+
+821
+00:33:54,925 --> 00:33:56,424
+Cabe!
+Grab my hand!
+
+822
+00:33:57,627 --> 00:33:58,827
+Got him!
+
+823
+00:33:58,829 --> 00:34:02,330
+<i> Here on the beach,</i>
+<i>on Christmas Eve,</i>
+
+824
+00:34:02,332 --> 00:34:03,798
+strangers are coming together
+
+825
+00:34:03,800 --> 00:34:06,001
+<i>to save a child.</i>
+
+826
+00:34:06,003 --> 00:34:07,135
+We got him!
+
+827
+00:34:10,307 --> 00:34:12,140
+Clear the way!
+
+828
+00:35:11,031 --> 00:35:13,899
+<i> It's being hailed</i>
+<i>a Christmas miracle.</i>
+
+829
+00:35:13,901 --> 00:35:16,468
+<i>Doctors say a boy survived</i>
+<i>after being underwater</i>
+
+830
+00:35:16,470 --> 00:35:19,170
+<i>without oxygen</i>
+<i>for over seven minutes,</i>
+
+831
+00:35:19,172 --> 00:35:21,645
+<i>and is expected</i>
+<i>to make a full recovery.</i>
+
+832
+00:35:21,669 --> 00:35:23,435
+We're at St. Stephen's Hospital
+
+833
+00:35:23,436 --> 00:35:25,370
+waiting to hear
+from Walter O'Brien,
+
+834
+00:35:25,394 --> 00:35:27,740
+the head of the team
+that saved Owen Cooper.
+
+835
+00:35:27,740 --> 00:35:32,520
+It is hoped that someone with
+a 197 IQ can shed some light
+
+836
+00:35:32,521 --> 00:35:34,878
+on what exactly happened
+in that hole today.
+
+837
+00:35:35,380 --> 00:35:36,646
+Miracle?
+
+838
+00:35:36,648 --> 00:35:38,714
+It's more like the ECMO
+artificially pumped up
+
+839
+00:35:38,716 --> 00:35:40,082
+his O2 levels
+high enough that
+
+840
+00:35:40,084 --> 00:35:42,418
+his organs kept going
+a few minutes longer than usual.
+
+841
+00:35:42,420 --> 00:35:44,787
+It's a million-to-one shot,
+but not a miracle.
+
+842
+00:35:46,057 --> 00:35:48,591
+Press is not gonna like it
+when I give them that story.
+
+843
+00:35:48,593 --> 00:35:49,692
+Guys.
+
+844
+00:35:49,694 --> 00:35:52,061
+Some people really want
+to see you.
+
+845
+00:35:56,134 --> 00:35:59,135
+Hey.
+
+846
+00:36:00,672 --> 00:36:02,304
+Thank you, Walter.
+
+847
+00:36:02,306 --> 00:36:03,406
+What for?
+
+848
+00:36:03,408 --> 00:36:05,975
+For allowing me
+to believe again.
+
+849
+00:36:07,412 --> 00:36:09,912
+If you trust that drug trial,
+I do, too.
+
+850
+00:36:11,182 --> 00:36:12,648
+I'll do it.
+
+851
+00:36:12,650 --> 00:36:14,483
+I'm gonna keep fighting.
+
+852
+00:36:17,822 --> 00:36:19,488
+Guys.
+
+853
+00:36:33,237 --> 00:36:35,604
+The entire drive down,
+we prayed.
+
+854
+00:36:35,606 --> 00:36:38,874
+We prayed for God
+to do something,
+
+855
+00:36:38,876 --> 00:36:41,844
+anything... to save our child.
+
+856
+00:36:43,181 --> 00:36:45,114
+He answered by sending you.
+
+857
+00:36:46,684 --> 00:36:48,350
+And your team.
+
+858
+00:36:50,888 --> 00:36:52,455
+Thank you.
+
+859
+00:37:20,118 --> 00:37:22,184
+You came back for me.
+
+860
+00:37:22,186 --> 00:37:24,987
+Oh, I told you,
+I only state facts.
+
+861
+00:37:29,727 --> 00:37:32,161
+We should let these
+folks get some rest.
+
+862
+00:37:32,163 --> 00:37:34,463
+Come on, guys.
+
+863
+00:37:42,406 --> 00:37:45,608
+I've got an entire press
+corp calling for you to explain
+
+864
+00:37:45,610 --> 00:37:47,543
+how this little boy lived.
+
+865
+00:37:48,780 --> 00:37:50,946
+Do you want to talk
+to them or not?
+
+866
+00:38:01,692 --> 00:38:03,692
+Ah, they already have
+their answer.
+
+867
+00:38:06,430 --> 00:38:09,064
+It was a miracle.
+
+868
+00:38:21,045 --> 00:38:22,578
+Hey.
+
+869
+00:38:23,414 --> 00:38:25,214
+Hey, Happy!
+
+870
+00:38:25,216 --> 00:38:28,050
+What are you doing here
+on Christmas Eve?
+
+871
+00:38:36,294 --> 00:38:39,228
+I wanted to, um...
+
+872
+00:38:42,266 --> 00:38:43,899
+You okay?
+Yeah.
+
+873
+00:38:43,901 --> 00:38:47,436
+I just, I wanted to wish you
+a happy holiday.
+
+874
+00:38:47,438 --> 00:38:49,071
+I'll see you later.
+
+875
+00:38:53,711 --> 00:38:55,511
+You look just like her.
+
+876
+00:39:02,720 --> 00:39:06,622
+I knew who you were the first
+time you walked into my shop.
+
+877
+00:39:06,624 --> 00:39:09,592
+After your mother died,
+I was lost,
+
+878
+00:39:09,594 --> 00:39:11,894
+and I hit the bottle, hard.
+
+879
+00:39:11,896 --> 00:39:13,562
+Still do.
+
+880
+00:39:13,564 --> 00:39:16,866
+You were so special.
+
+881
+00:39:16,868 --> 00:39:18,801
+Deserved better than me.
+
+882
+00:39:22,807 --> 00:39:25,207
+I always loved you.
+
+883
+00:39:41,359 --> 00:39:43,158
+Hey, everyone.
+
+884
+00:39:44,962 --> 00:39:48,297
+Uh, this is...
+my dad, Patrick.
+
+885
+00:39:48,299 --> 00:39:49,531
+Hello.
+
+886
+00:39:49,533 --> 00:39:51,000
+Hi.
+Hi.
+
+887
+00:39:51,002 --> 00:39:53,369
+Welcome, Mr. Quinn.
+
+888
+00:39:53,371 --> 00:39:54,637
+You got a great girl there.
+
+889
+00:39:54,639 --> 00:39:57,006
+It's a real pleasure
+to meet you.
+
+890
+00:40:03,481 --> 00:40:04,947
+Oh, yeah!
+
+891
+00:40:04,949 --> 00:40:07,349
+That's nice.
+
+892
+00:40:08,286 --> 00:40:10,552
+Who brought me a gift?
+
+893
+00:40:13,424 --> 00:40:14,823
+Okay. Touchdown.
+
+894
+00:40:14,825 --> 00:40:17,326
+Oh, you got
+your hat back.
+
+895
+00:40:17,328 --> 00:40:18,894
+I'm back.
+
+896
+00:40:18,896 --> 00:40:21,263
+Huh?
+Look at this.
+
+897
+00:40:21,265 --> 00:40:23,165
+This is awesome.
+
+898
+00:40:23,167 --> 00:40:24,934
+That's very nice of you.
+
+899
+00:40:38,816 --> 00:40:40,849
+It's silly.
+
+900
+00:40:40,851 --> 00:40:43,953
+You need a little silly
+in your life.
+
+901
+00:40:50,394 --> 00:40:51,894
+Look at that!
+
+902
+00:40:55,700 --> 00:40:56,732
+Hey, guys, we got
+
+903
+00:40:56,734 --> 00:40:58,233
+Ralph's present
+in the next room.
+
+904
+00:40:59,370 --> 00:41:03,539
+Okay, so...
+we made all this for you, pal.
+
+905
+00:41:03,541 --> 00:41:05,941
+All right, press the button.
+
+906
+00:41:44,248 --> 00:41:47,416
+Oh! Do you see that?
+
+907
+00:41:50,788 --> 00:41:52,254
+It's amazing!
+
+908
+00:42:10,341 --> 00:42:11,874
+What?
+
+909
+00:42:11,876 --> 00:42:14,543
+Nothing. Just, um...
+
+910
+00:42:14,545 --> 00:42:16,578
+merry Christmas.
+
+911
+00:42:16,580 --> 00:42:18,747
+Merry Christmas.
+
+912
+00:42:24,291 --> 00:42:30,791
+== sync, corrected by <font color=#00FF00>elderman</font> ==
+<font color=#00FFFF>@elder_man</font>
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>
