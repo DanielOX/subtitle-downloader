@@ -9,9 +9,6 @@ url = "http://www.tvsubtitles.net/search.php"
 website_url = "http://www.tvsubtitles.net/"
 season_name = input('Season Name >>> ').strip()
 season_number = int(input('Season Number >>> ').strip())
-
-season_name = "scorpion"
-
 post_data = { "q":season_name }
 
 tv_show_link = ""
@@ -53,14 +50,7 @@ for season in range(1,s_length):
 
 
 
-
-
-
 # Subtitles Page
-
-
-
-
 
 
 try:
